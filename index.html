@@ -95,9 +95,43 @@
   <script>
     let allProducts = [];
 
+    const AD_SHEET_URL = 'https://docs.google.com/spreadsheets/d/1l7niiK9RbZwo_x0PI6T2vCqjIKn9c_gvxVrrKjwyo20/gviz/tq?tqx=out:csv&sheet=%EA%B4%91%EA%B3%A0%EC%9A%A9';
+
     async function loadData() {
+      try {
+        const response = await fetch(AD_SHEET_URL);
+        if (!response.ok) {
+          throw new Error(`광고용 시트 응답 오류: ${response.status}`);
+        }
+
+        const rows = parseCsv(await response.text());
+        const products = rows.slice(1)
+          .filter(row => row.length >= 7 && row[0].trim())
+          .map(row => ({
+            id: Number(row[0]),
+            category: row[2].replace(/^#/, '').trim(),
+            psychologyAdvice: row[5].trim(),
+            product: {
+              title: row[3].trim(),
+              description: row[4].trim(),
+              coupangUrl: row[1].trim(),
+              imageUrl: row[6].trim()
+            }
+          }))
+          .filter(item => item.product.title && item.product.coupangUrl);
+
+        if (products.length > 0) {
+          allProducts = products;
+          renderProducts(allProducts);
+          return;
+        }
+        throw new Error('광고용 시트에 표시할 상품이 없습니다.');
+      } catch (sheetError) {
+        console.error('광고용 Google Sheet 로드 실패:', sheetError);
+      }
+
       const timestamp = new Date().getTime();
-      // Vercel 호스팅 환경에서 발생할 수 있는 모든 상대/절대 경로 교차 탐색
+      // Google Sheet를 사용할 수 없을 때만 정적 데이터로 대체합니다.
       const paths = [
         './data/counseling.json?t=' + timestamp,
         '/data/counseling.json?t=' + timestamp,
@@ -119,8 +153,49 @@
               break;
             }
           }
-        } catch(e) {}
+        } catch (error) {
+          console.error(`정적 상품 데이터 로드 실패 (${path}):`, error);
+        }
       }
+
+      if (!loaded) {
+        renderProducts([]);
+        console.error('Google Sheet와 정적 상품 데이터에서 상품을 불러오지 못했습니다.');
+      }
+    }
+
+    function parseCsv(csv) {
+      const rows = [];
+      let row = [];
+      let value = '';
+      let quoted = false;
+
+      for (let i = 0; i < csv.length; i++) {
+        const char = csv[i];
+        const next = csv[i + 1];
+
+        if (char === '"' && quoted && next === '"') {
+          value += '"';
+          i++;
+        } else if (char === '"') {
+          quoted = !quoted;
+        } else if (char === ',' && !quoted) {
+          row.push(value);
+          value = '';
+        } else if ((char === '\n' || char === '\r') && !quoted) {
+          if (char === '\r' && next === '\n') i++;
+          row.push(value);
+          if (row.some(cell => cell.trim())) rows.push(row);
+          row = [];
+          value = '';
+        } else {
+          value += char;
+        }
+      }
+
+      row.push(value);
+      if (row.some(cell => cell.trim())) rows.push(row);
+      return rows;
     }
 
     function renderProducts(items) {
