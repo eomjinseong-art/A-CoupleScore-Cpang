@@ -1,6 +1,7 @@
 const SHEET_NAME = '광고용';
 const OUTPUT_SHEET_NAME = '사이트용상품';
 const REQUIRED_HEADERS = ['NO', '쿠팡파트너스 링크', '상황 태그', '상품명', '상품 이미지 URL', '이미지 상태'];
+const FAILED_PRODUCT_IDS = new Set([88, 89, 90, 96]);
 
 function onOpen() {
   SpreadsheetApp.getUi()
@@ -36,13 +37,17 @@ function syncProducts() {
     seen.add(link);
 
     const imageUrl = (row[imageIndex] || '').trim();
+    const productId = Number(row[0]);
+    const imageStatus = FAILED_PRODUCT_IDS.has(productId)
+      ? '상품 추출 실패 - 링크 교체 필요'
+      : checkImage(imageUrl);
     output.push([
       row[0].trim(),
       link,
       (row[categoryIndex] || '').replace(/^#/, '').trim(),
       title,
       imageUrl,
-      checkImage(imageUrl)
+      imageStatus
     ]);
   });
 
