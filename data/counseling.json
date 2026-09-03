@@ -2,27 +2,4876 @@
   {
     "id": 1,
     "category": "연락/카톡",
-    "topic": "답장 지연",
-    "situation": "답장이 늦어서 싸웠을 때",
-    "psychologyAdvice": "상대방의 늦은 답장은 관심이 식어서가 아니라 개인의 작업이나 독서에 몰입 중일 가능성이 높아요. 서운함을 비난하기보다 표현 방식을 살짝 바꿔보세요.",
+    "topic": "치약",
+    "situation": "치약 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
     "product": {
-      "title": "2080 히말라야 핑크솔트 펌핑치약 세트",
-      "description": "소소한 다툼 방지! 튜브 짜는 문제로 싸우지 않는 깔끔한 펌핑형 치약",
-      "coupangUrl": "https://www.coupang.com",
-      "imageUrl": "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500"
+      "title": "치약 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https:
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 2,
-    "category": "데이트",
-    "topic": "집데이트",
-    "situation": "집에만 있어서 답답하고 다툴 때",
-    "psychologyAdvice": "익숙한 공간이 주는 지루함이 다툼의 원인이 될 수 있습니다. 익숙한 방 안에서도 조명과 음악만 바꾸면 완벽한 데이트 장소가 됩니다.",
+    "category": "연락/카톡",
+    "topic": "답장",
+    "situation": "답장 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
     "product": {
-      "title": "오로라 무드등 은하수 조명",
-      "description": "집데이트 분위기를 반전시켜 줄 로맨틱 감성 오로라 무드등",
-      "coupangUrl": "https://www.coupang.com",
-      "imageUrl": "https://images.unsplash.com/photo-1507499739999-097706ad8914?w=500"
+      "title": "답장 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8B%B5%EC%9E%A5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 3,
+    "category": "연락/카톡",
+    "topic": "저녁메뉴",
+    "situation": "저녁메뉴 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "저녁메뉴 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A0%80%EB%85%81%EB%A9%94%EB%89%B4",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 4,
+    "category": "연락/카톡",
+    "topic": "패션",
+    "situation": "패션 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "패션 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%8C%A8%EC%85%98",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 5,
+    "category": "연락/카톡",
+    "topic": "약속 지연",
+    "situation": "약속 지연 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "약속 지연 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%95%BD%EC%86%8D%20%EC%A7%80%EC%97%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 6,
+    "category": "연락/카톡",
+    "topic": "사진구도",
+    "situation": "사진구도 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "사진구도 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%82%AC%EC%A7%84%EA%B5%AC%EB%8F%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 7,
+    "category": "연락/카톡",
+    "topic": "의심",
+    "situation": "의심 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "의심 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9D%98%EC%8B%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 8,
+    "category": "연락/카톡",
+    "topic": "게임",
+    "situation": "게임 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "게임 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B2%8C%EC%9E%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 9,
+    "category": "연락/카톡",
+    "topic": "유통기한",
+    "situation": "유통기한 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "유통기한 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9C%A0%ED%86%B5%EA%B8%B0%ED%95%9C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 10,
+    "category": "연락/카톡",
+    "topic": "늦잠",
+    "situation": "늦잠 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "늦잠 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8A%A6%EC%9E%A0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 11,
+    "category": "연락/카톡",
+    "topic": "리뷰",
+    "situation": "리뷰 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "리뷰 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%A6%AC%EB%B7%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 12,
+    "category": "연락/카톡",
+    "topic": "자리",
+    "situation": "자리 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "자리 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9E%90%EB%A6%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 13,
+    "category": "연락/카톡",
+    "topic": "리모컨",
+    "situation": "리모컨 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "리모컨 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%A6%AC%EB%AA%A8%EC%BB%A8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 14,
+    "category": "연락/카톡",
+    "topic": "길찾기",
+    "situation": "길찾기 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "길찾기 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B8%B8%EC%B0%BE%EA%B8%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 15,
+    "category": "연락/카톡",
+    "topic": "생일선물",
+    "situation": "생일선물 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "생일선물 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%83%9D%EC%9D%BC%EC%84%A0%EB%AC%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 16,
+    "category": "연락/카톡",
+    "topic": "새벽 통화",
+    "situation": "새벽 통화 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "새벽 통화 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%83%88%EB%B2%BD%20%ED%86%B5%ED%99%94",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 17,
+    "category": "연락/카톡",
+    "topic": "김치찌개",
+    "situation": "김치찌개 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "김치찌개 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B9%80%EC%B9%98%EC%B0%8C%EA%B0%9C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 18,
+    "category": "연락/카톡",
+    "topic": "정산",
+    "situation": "정산 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "정산 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A0%95%EC%82%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 19,
+    "category": "연락/카톡",
+    "topic": "헤어스타일",
+    "situation": "헤어스타일 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "헤어스타일 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%97%A4%EC%96%B4%EC%8A%A4%ED%83%80%EC%9D%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 20,
+    "category": "연락/카톡",
+    "topic": "선물불균형",
+    "situation": "선물불균형 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "선물불균형 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%84%A0%EB%AC%BC%EB%B6%88%EA%B7%A0%ED%98%95",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 21,
+    "category": "연락/카톡",
+    "topic": "커플사진",
+    "situation": "커플사진 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "커플사진 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%BB%A4%ED%94%8C%EC%82%AC%EC%A7%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 22,
+    "category": "연락/카톡",
+    "topic": "전연인 취향",
+    "situation": "전연인 취향 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "전연인 취향 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A0%84%EC%97%B0%EC%9D%B8%20%EC%B7%A8%ED%96%A5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 23,
+    "category": "연락/카톡",
+    "topic": "이성 친구",
+    "situation": "이성 친구 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "이성 친구 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9D%B4%EC%84%B1%20%EC%B9%9C%EA%B5%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 24,
+    "category": "연락/카톡",
+    "topic": "답장",
+    "situation": "답장 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "답장 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8B%B5%EC%9E%A5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 25,
+    "category": "연락/카톡",
+    "topic": "어깨동무",
+    "situation": "어깨동무 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "어깨동무 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%96%B4%EA%B9%A8%EB%8F%99%EB%AC%B4",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 26,
+    "category": "연락/카톡",
+    "topic": "다이어트",
+    "situation": "다이어트 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "다이어트 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 27,
+    "category": "연락/카톡",
+    "topic": "질투 테스트",
+    "situation": "질투 테스트 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "질투 테스트 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A7%88%ED%88%AC%20%ED%85%8C%EC%8A%A4%ED%8A%B8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 28,
+    "category": "연락/카톡",
+    "topic": "200일",
+    "situation": "200일 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "200일 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=200%EC%9D%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 29,
+    "category": "연락/카톡",
+    "topic": "질투",
+    "situation": "질투 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "질투 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A7%88%ED%88%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 30,
+    "category": "연락/카톡",
+    "topic": "데이트 비용",
+    "situation": "데이트 비용 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "데이트 비용 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8D%B0%EC%9D%B4%ED%8A%B8%20%EB%B9%84%EC%9A%A9",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 31,
+    "category": "연락/카톡",
+    "topic": "영화 취향",
+    "situation": "영화 취향 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "영화 취향 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%98%81%ED%99%94%20%EC%B7%A8%ED%96%A5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 32,
+    "category": "연락/카톡",
+    "topic": "결혼",
+    "situation": "결혼 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "결혼 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B2%B0%ED%98%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 33,
+    "category": "연락/카톡",
+    "topic": "우정 vs 연애",
+    "situation": "우정 vs 연애 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "우정 vs 연애 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9A%B0%EC%A0%95%20vs%20%EC%97%B0%EC%95%A0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 34,
+    "category": "연락/카톡",
+    "topic": "탈의실 기다림",
+    "situation": "탈의실 기다림 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "탈의실 기다림 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%83%88%EC%9D%98%EC%8B%A4%20%EA%B8%B0%EB%8B%A4%EB%A6%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 35,
+    "category": "연락/카톡",
+    "topic": "인스타 하트",
+    "situation": "인스타 하트 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "인스타 하트 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9D%B8%EC%8A%A4%ED%83%80%20%ED%95%98%ED%8A%B8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 36,
+    "category": "연락/카톡",
+    "topic": "애교",
+    "situation": "애교 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "애교 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%95%A0%EA%B5%90",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 37,
+    "category": "연락/카톡",
+    "topic": "떡볶이",
+    "situation": "떡볶이 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "떡볶이 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%96%A1%EB%B3%B6%EC%9D%B4",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 38,
+    "category": "연락/카톡",
+    "topic": "사과",
+    "situation": "사과 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "사과 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%82%AC%EA%B3%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 39,
+    "category": "연락/카톡",
+    "topic": "데이트 지각",
+    "situation": "데이트 지각 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "데이트 지각 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8D%B0%EC%9D%B4%ED%8A%B8%20%EC%A7%80%EA%B0%81",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 40,
+    "category": "연락/카톡",
+    "topic": "운전다툼",
+    "situation": "운전다툼 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "운전다툼 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9A%B4%EC%A0%84%EB%8B%A4%ED%88%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 41,
+    "category": "연락/카톡",
+    "topic": "입맛 차이",
+    "situation": "입맛 차이 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "입맛 차이 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9E%85%EB%A7%9B%20%EC%B0%A8%EC%9D%B4",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 42,
+    "category": "연락/카톡",
+    "topic": "집안일",
+    "situation": "집안일 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "집안일 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A7%91%EC%95%88%EC%9D%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 43,
+    "category": "연락/카톡",
+    "topic": "자리 양보",
+    "situation": "자리 양보 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "자리 양보 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9E%90%EB%A6%AC%20%EC%96%91%EB%B3%B4",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 44,
+    "category": "연락/카톡",
+    "topic": "사진보정",
+    "situation": "사진보정 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "사진보정 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%82%AC%EC%A7%84%EB%B3%B4%EC%A0%95",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 45,
+    "category": "연락/카톡",
+    "topic": "운전연수",
+    "situation": "운전연수 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "운전연수 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9A%B4%EC%A0%84%EC%97%B0%EC%88%98",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 46,
+    "category": "연락/카톡",
+    "topic": "치약",
+    "situation": "치약 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "치약 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B9%98%EC%95%BD",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 47,
+    "category": "연락/카톡",
+    "topic": "리모컨",
+    "situation": "리모컨 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "리모컨 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%A6%AC%EB%AA%A8%EC%BB%A8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 48,
+    "category": "연락/카톡",
+    "topic": "여행계획",
+    "situation": "여행계획 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "여행계획 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%97%AC%ED%96%89%EA%B3%84%ED%9A%8D",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 49,
+    "category": "연락/카톡",
+    "topic": "커플싸움",
+    "situation": "커플싸움 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "커플싸움 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%BB%A4%ED%94%8C%EC%8B%B8%EC%9B%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 50,
+    "category": "연락/카톡",
+    "topic": "원피스 선물",
+    "situation": "원피스 선물 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "원피스 선물 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9B%90%ED%94%BC%EC%8A%A4%20%EC%84%A0%EB%AC%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 51,
+    "category": "연락/카톡",
+    "topic": "택배상자",
+    "situation": "택배상자 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "택배상자 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%83%9D%EB%B0%B0%EC%83%81%EC%9E%90",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 52,
+    "category": "연락/카톡",
+    "topic": "정치토론",
+    "situation": "정치토론 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "정치토론 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A0%95%EC%B9%98%ED%86%A0%EB%A1%A0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 53,
+    "category": "연락/카톡",
+    "topic": "게임",
+    "situation": "게임 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "게임 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B2%8C%EC%9E%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 54,
+    "category": "연락/카톡",
+    "topic": "운동 간섭",
+    "situation": "운동 간섭 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "운동 간섭 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9A%B4%EB%8F%99%20%EA%B0%84%EC%84%AD",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 55,
+    "category": "연락/카톡",
+    "topic": "커피 속도",
+    "situation": "커피 속도 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "커피 속도 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%BB%A4%ED%94%BC%20%EC%86%8D%EB%8F%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 56,
+    "category": "연락/카톡",
+    "topic": "야간사진",
+    "situation": "야간사진 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "야간사진 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%95%BC%EA%B0%84%EC%82%AC%EC%A7%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 57,
+    "category": "연락/카톡",
+    "topic": "용돈 검사",
+    "situation": "용돈 검사 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "용돈 검사 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9A%A9%EB%8F%88%20%EA%B2%80%EC%82%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 58,
+    "category": "연락/카톡",
+    "topic": "산책 갈등",
+    "situation": "산책 갈등 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "산책 갈등 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%82%B0%EC%B1%85%20%EA%B0%88%EB%93%B1",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 59,
+    "category": "연락/카톡",
+    "topic": "이모티콘",
+    "situation": "이모티콘 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "이모티콘 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 60,
+    "category": "연락/카톡",
+    "topic": "꿈",
+    "situation": "꿈 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "꿈 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%BF%88",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 61,
+    "category": "연락/카톡",
+    "topic": "보조배터리",
+    "situation": "보조배터리 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "보조배터리 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%B3%B4%EC%A1%B0%EB%B0%B0%ED%84%B0%EB%A6%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 62,
+    "category": "연락/카톡",
+    "topic": "메모장",
+    "situation": "메모장 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "메모장 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%A9%94%EB%AA%A8%EC%9E%A5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 63,
+    "category": "연락/카톡",
+    "topic": "메뉴",
+    "situation": "메뉴 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "메뉴 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%A9%94%EB%89%B4",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 64,
+    "category": "연락/카톡",
+    "topic": "평행주차",
+    "situation": "평행주차 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "평행주차 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%8F%89%ED%96%89%EC%A3%BC%EC%B0%A8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 65,
+    "category": "연락/카톡",
+    "topic": "우산",
+    "situation": "우산 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "우산 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9A%B0%EC%82%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 66,
+    "category": "연락/카톡",
+    "topic": "소비 갈등",
+    "situation": "소비 갈등 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "소비 갈등 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%86%8C%EB%B9%84%20%EA%B0%88%EB%93%B1",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 67,
+    "category": "연락/카톡",
+    "topic": "약속 장소",
+    "situation": "약속 장소 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "약속 장소 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%95%BD%EC%86%8D%20%EC%9E%A5%EC%86%8C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 68,
+    "category": "연락/카톡",
+    "topic": "셀카 각도",
+    "situation": "셀카 각도 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "셀카 각도 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%85%80%EC%B9%B4%20%EA%B0%81%EB%8F%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 69,
+    "category": "연락/카톡",
+    "topic": "온도차",
+    "situation": "온도차 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "온도차 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%98%A8%EB%8F%84%EC%B0%A8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 70,
+    "category": "연락/카톡",
+    "topic": "억양",
+    "situation": "억양 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "억양 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%96%B5%EC%96%91",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 71,
+    "category": "연락/카톡",
+    "topic": "배송",
+    "situation": "배송 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "배송 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%B0%B0%EC%86%A1",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 72,
+    "category": "연락/카톡",
+    "topic": "케이크",
+    "situation": "케이크 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "케이크 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%BC%80%EC%9D%B4%ED%81%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 73,
+    "category": "연락/카톡",
+    "topic": "기억",
+    "situation": "기억 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "기억 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B8%B0%EC%96%B5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 74,
+    "category": "연락/카톡",
+    "topic": "지하철 방향",
+    "situation": "지하철 방향 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "지하철 방향 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A7%80%ED%95%98%EC%B2%A0%20%EB%B0%A9%ED%96%A5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 75,
+    "category": "연락/카톡",
+    "topic": "약속시간",
+    "situation": "약속시간 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "약속시간 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%95%BD%EC%86%8D%EC%8B%9C%EA%B0%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 76,
+    "category": "연락/카톡",
+    "topic": "양파 볶기",
+    "situation": "양파 볶기 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "양파 볶기 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%96%91%ED%8C%8C%20%EB%B3%B6%EA%B8%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 77,
+    "category": "연락/카톡",
+    "topic": "영화관",
+    "situation": "영화관 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "영화관 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%98%81%ED%99%94%EA%B4%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 78,
+    "category": "연락/카톡",
+    "topic": "알람",
+    "situation": "알람 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "알람 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%95%8C%EB%9E%8C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 79,
+    "category": "연락/카톡",
+    "topic": "졸업사진",
+    "situation": "졸업사진 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "졸업사진 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A1%B8%EC%97%85%EC%82%AC%EC%A7%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 80,
+    "category": "연락/카톡",
+    "topic": "패션",
+    "situation": "패션 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "패션 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%8C%A8%EC%85%98",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 81,
+    "category": "연락/카톡",
+    "topic": "야식",
+    "situation": "야식 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "야식 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%95%BC%EC%8B%9D",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 82,
+    "category": "연락/카톡",
+    "topic": "숙소선택",
+    "situation": "숙소선택 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "숙소선택 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%88%99%EC%86%8C%EC%84%A0%ED%83%9D",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 83,
+    "category": "연락/카톡",
+    "topic": "머리 감기",
+    "situation": "머리 감기 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "머리 감기 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%A8%B8%EB%A6%AC%20%EA%B0%90%EA%B8%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 84,
+    "category": "연락/카톡",
+    "topic": "좌석갈등",
+    "situation": "좌석갈등 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "좌석갈등 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A2%8C%EC%84%9D%EA%B0%88%EB%93%B1",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 85,
+    "category": "연락/카톡",
+    "topic": "PT 등록",
+    "situation": "PT 등록 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "PT 등록 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=PT%20%EB%93%B1%EB%A1%9D",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 86,
+    "category": "연락/카톡",
+    "topic": "카페 선택",
+    "situation": "카페 선택 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "카페 선택 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B9%B4%ED%8E%98%20%EC%84%A0%ED%83%9D",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 87,
+    "category": "연락/카톡",
+    "topic": "비상금",
+    "situation": "비상금 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "비상금 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%B9%84%EC%83%81%EA%B8%88",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 88,
+    "category": "연락/카톡",
+    "topic": "맛집 대기",
+    "situation": "맛집 대기 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "맛집 대기 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%A7%9B%EC%A7%91%20%EB%8C%80%EA%B8%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 89,
+    "category": "연락/카톡",
+    "topic": "강아지 이름",
+    "situation": "강아지 이름 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "강아지 이름 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B0%95%EC%95%84%EC%A7%80%20%EC%9D%B4%EB%A6%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 90,
+    "category": "연락/카톡",
+    "topic": "게임기",
+    "situation": "게임기 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "게임기 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B2%8C%EC%9E%84%EA%B8%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 91,
+    "category": "연락/카톡",
+    "topic": "공포영화",
+    "situation": "공포영화 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "공포영화 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B3%B5%ED%8F%AC%EC%98%81%ED%99%94",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 92,
+    "category": "연락/카톡",
+    "topic": "택배개봉",
+    "situation": "택배개봉 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "택배개봉 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%83%9D%EB%B0%B0%EA%B0%9C%EB%B4%89",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 93,
+    "category": "연락/카톡",
+    "topic": "아침 갈등",
+    "situation": "아침 갈등 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "아침 갈등 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%95%84%EC%B9%A8%20%EA%B0%88%EB%93%B1",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 94,
+    "category": "연락/카톡",
+    "topic": "내비갈등",
+    "situation": "내비갈등 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "내비갈등 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%82%B4%EB%B9%84%EA%B0%88%EB%93%B1",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 95,
+    "category": "연락/카톡",
+    "topic": "게임",
+    "situation": "게임 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "게임 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B2%8C%EC%9E%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 96,
+    "category": "연락/카톡",
+    "topic": "답장",
+    "situation": "답장 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "답장 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8B%B5%EC%9E%A5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 97,
+    "category": "연락/카톡",
+    "topic": "우유팩",
+    "situation": "우유팩 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "우유팩 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9A%B0%EC%9C%A0%ED%8C%A9",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 98,
+    "category": "연락/카톡",
+    "topic": "세일 쇼핑",
+    "situation": "세일 쇼핑 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "세일 쇼핑 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%84%B8%EC%9D%BC%20%EC%87%BC%ED%95%91",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 99,
+    "category": "연락/카톡",
+    "topic": "변기 뚜껑",
+    "situation": "변기 뚜껑 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "변기 뚜껑 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%B3%80%EA%B8%B0%20%EB%9A%9C%EA%BB%91",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 100,
+    "category": "연락/카톡",
+    "topic": "질투",
+    "situation": "질투 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "질투 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A7%88%ED%88%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 101,
+    "category": "연락/카톡",
+    "topic": "야근 냄새",
+    "situation": "야근 냄새 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "야근 냄새 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%95%BC%EA%B7%BC%20%EB%83%84%EC%83%88",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 102,
+    "category": "연락/카톡",
+    "topic": "감정차이",
+    "situation": "감정차이 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "감정차이 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B0%90%EC%A0%95%EC%B0%A8%EC%9D%B4",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 103,
+    "category": "연락/카톡",
+    "topic": "휴대폰",
+    "situation": "휴대폰 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "휴대폰 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%9C%B4%EB%8C%80%ED%8F%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 104,
+    "category": "연락/카톡",
+    "topic": "휴대폰",
+    "situation": "휴대폰 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "휴대폰 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%9C%B4%EB%8C%80%ED%8F%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 105,
+    "category": "연락/카톡",
+    "topic": "현금선물",
+    "situation": "현금선물 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "현금선물 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%98%84%EA%B8%88%EC%84%A0%EB%AC%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 106,
+    "category": "연락/카톡",
+    "topic": "요리 실수",
+    "situation": "요리 실수 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "요리 실수 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9A%94%EB%A6%AC%20%EC%8B%A4%EC%88%98",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 107,
+    "category": "연락/카톡",
+    "topic": "연인 옷",
+    "situation": "연인 옷 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "연인 옷 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%97%B0%EC%9D%B8%20%EC%98%B7",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 108,
+    "category": "연락/카톡",
+    "topic": "체중",
+    "situation": "체중 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "체중 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B2%B4%EC%A4%91",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 109,
+    "category": "연락/카톡",
+    "topic": "늦은 귀가",
+    "situation": "늦은 귀가 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "늦은 귀가 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8A%A6%EC%9D%80%20%EA%B7%80%EA%B0%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 110,
+    "category": "연락/카톡",
+    "topic": "전 애인",
+    "situation": "전 애인 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "전 애인 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A0%84%20%EC%95%A0%EC%9D%B8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 111,
+    "category": "연락/카톡",
+    "topic": "접시",
+    "situation": "접시 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "접시 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A0%91%EC%8B%9C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 112,
+    "category": "연락/카톡",
+    "topic": "사랑 표현",
+    "situation": "사랑 표현 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "사랑 표현 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%82%AC%EB%9E%91%20%ED%91%9C%ED%98%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 113,
+    "category": "연락/카톡",
+    "topic": "색번짐",
+    "situation": "색번짐 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "색번짐 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%83%89%EB%B2%88%EC%A7%90",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 114,
+    "category": "연락/카톡",
+    "topic": "밥 챙김",
+    "situation": "밥 챙김 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "밥 챙김 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%B0%A5%20%EC%B1%99%EA%B9%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 115,
+    "category": "연락/카톡",
+    "topic": "남사친 카톡",
+    "situation": "남사친 카톡 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "남사친 카톡 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%82%A8%EC%82%AC%EC%B9%9C%20%EC%B9%B4%ED%86%A1",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 116,
+    "category": "연락/카톡",
+    "topic": "코골이",
+    "situation": "코골이 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "코골이 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%BD%94%EA%B3%A8%EC%9D%B4",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 117,
+    "category": "연락/카톡",
+    "topic": "솔직함",
+    "situation": "솔직함 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "솔직함 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%86%94%EC%A7%81%ED%95%A8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 118,
+    "category": "연락/카톡",
+    "topic": "서프라이즈",
+    "situation": "서프라이즈 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "서프라이즈 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%84%9C%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 119,
+    "category": "연락/카톡",
+    "topic": "앞머리",
+    "situation": "앞머리 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "앞머리 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%95%9E%EB%A8%B8%EB%A6%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 120,
+    "category": "연락/카톡",
+    "topic": "데이트 휴대폰",
+    "situation": "데이트 휴대폰 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "데이트 휴대폰 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8D%B0%EC%9D%B4%ED%8A%B8%20%ED%9C%B4%EB%8C%80%ED%8F%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 121,
+    "category": "연락/카톡",
+    "topic": "연인 흉",
+    "situation": "연인 흉 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "연인 흉 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%97%B0%EC%9D%B8%20%ED%9D%89",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 122,
+    "category": "연락/카톡",
+    "topic": "화장품",
+    "situation": "화장품 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "화장품 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%99%94%EC%9E%A5%ED%92%88",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 123,
+    "category": "연락/카톡",
+    "topic": "칭찬",
+    "situation": "칭찬 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "칭찬 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B9%AD%EC%B0%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 124,
+    "category": "연락/카톡",
+    "topic": "단둘만남",
+    "situation": "단둘만남 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "단둘만남 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8B%A8%EB%91%98%EB%A7%8C%EB%82%A8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 125,
+    "category": "연락/카톡",
+    "topic": "선물",
+    "situation": "선물 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "선물 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%84%A0%EB%AC%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 126,
+    "category": "연락/카톡",
+    "topic": "트림",
+    "situation": "트림 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "트림 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%8A%B8%EB%A6%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 127,
+    "category": "연락/카톡",
+    "topic": "공감",
+    "situation": "공감 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "공감 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B3%B5%EA%B0%90",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 128,
+    "category": "연락/카톡",
+    "topic": "옷차림",
+    "situation": "옷차림 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "옷차림 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%98%B7%EC%B0%A8%EB%A6%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 129,
+    "category": "연락/카톡",
+    "topic": "초대 식사",
+    "situation": "초대 식사 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "초대 식사 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B4%88%EB%8C%80%20%EC%8B%9D%EC%82%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 130,
+    "category": "연락/카톡",
+    "topic": "질투",
+    "situation": "질투 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "질투 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A7%88%ED%88%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 131,
+    "category": "연락/카톡",
+    "topic": "시트교체",
+    "situation": "시트교체 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "시트교체 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%8B%9C%ED%8A%B8%EA%B5%90%EC%B2%B4",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 132,
+    "category": "연락/카톡",
+    "topic": "일상 보고",
+    "situation": "일상 보고 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "일상 보고 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9D%BC%EC%83%81%20%EB%B3%B4%EA%B3%A0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 133,
+    "category": "연락/카톡",
+    "topic": "과자부스러기",
+    "situation": "과자부스러기 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "과자부스러기 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B3%BC%EC%9E%90%EB%B6%80%EC%8A%A4%EB%9F%AC%EA%B8%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 134,
+    "category": "연락/카톡",
+    "topic": "하품",
+    "situation": "하품 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "하품 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%95%98%ED%92%88",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 135,
+    "category": "연락/카톡",
+    "topic": "전남친 연락",
+    "situation": "전남친 연락 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "전남친 연락 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A0%84%EB%82%A8%EC%B9%9C%20%EC%97%B0%EB%9D%BD",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 136,
+    "category": "연락/카톡",
+    "topic": "옷 취향",
+    "situation": "옷 취향 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "옷 취향 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%98%B7%20%EC%B7%A8%ED%96%A5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 137,
+    "category": "연락/카톡",
+    "topic": "코풀기",
+    "situation": "코풀기 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "코풀기 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%BD%94%ED%92%80%EA%B8%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 138,
+    "category": "연락/카톡",
+    "topic": "감정 무시",
+    "situation": "감정 무시 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "감정 무시 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B0%90%EC%A0%95%20%EB%AC%B4%EC%8B%9C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 139,
+    "category": "연락/카톡",
+    "topic": "화장대",
+    "situation": "화장대 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "화장대 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%99%94%EC%9E%A5%EB%8C%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 140,
+    "category": "연락/카톡",
+    "topic": "관계불안",
+    "situation": "관계불안 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "관계불안 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B4%80%EA%B3%84%EB%B6%88%EC%95%88",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 141,
+    "category": "연락/카톡",
+    "topic": "약속",
+    "situation": "약속 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "약속 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%95%BD%EC%86%8D",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 142,
+    "category": "연락/카톡",
+    "topic": "돈사용",
+    "situation": "돈사용 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "돈사용 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8F%88%EC%82%AC%EC%9A%A9",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 143,
+    "category": "연락/카톡",
+    "topic": "방귀",
+    "situation": "방귀 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "방귀 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%B0%A9%EA%B7%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 144,
+    "category": "연락/카톡",
+    "topic": "칭찬",
+    "situation": "칭찬 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "칭찬 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B9%AD%EC%B0%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 145,
+    "category": "연락/카톡",
+    "topic": "강아지 털",
+    "situation": "강아지 털 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "강아지 털 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B0%95%EC%95%84%EC%A7%80%20%ED%84%B8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 146,
+    "category": "연락/카톡",
+    "topic": "화장",
+    "situation": "화장 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "화장 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%99%94%EC%9E%A5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 147,
+    "category": "연락/카톡",
+    "topic": "질투",
+    "situation": "질투 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "질투 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A7%88%ED%88%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 148,
+    "category": "연락/카톡",
+    "topic": "빨래",
+    "situation": "빨래 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "빨래 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%B9%A8%EB%9E%98",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 149,
+    "category": "연락/카톡",
+    "topic": "만남 빈도",
+    "situation": "만남 빈도 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "만남 빈도 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%A7%8C%EB%82%A8%20%EB%B9%88%EB%8F%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 150,
+    "category": "연락/카톡",
+    "topic": "다른 여자",
+    "situation": "다른 여자 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "다른 여자 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8B%A4%EB%A5%B8%20%EC%97%AC%EC%9E%90",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 151,
+    "category": "연락/카톡",
+    "topic": "차 키",
+    "situation": "차 키 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "차 키 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B0%A8%20%ED%82%A4",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 152,
+    "category": "연락/카톡",
+    "topic": "여사친 여행",
+    "situation": "여사친 여행 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "여사친 여행 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%97%AC%EC%82%AC%EC%B9%9C%20%EC%97%AC%ED%96%89",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 153,
+    "category": "연락/카톡",
+    "topic": "머리 만짐",
+    "situation": "머리 만짐 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "머리 만짐 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%A8%B8%EB%A6%AC%20%EB%A7%8C%EC%A7%90",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 154,
+    "category": "연락/카톡",
+    "topic": "남사친",
+    "situation": "남사친 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "남사친 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%82%A8%EC%82%AC%EC%B9%9C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 155,
+    "category": "연락/카톡",
+    "topic": "사랑 표현",
+    "situation": "사랑 표현 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "사랑 표현 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%82%AC%EB%9E%91%20%ED%91%9C%ED%98%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 156,
+    "category": "연락/카톡",
+    "topic": "코 파기",
+    "situation": "코 파기 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "코 파기 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%BD%94%20%ED%8C%8C%EA%B8%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 157,
+    "category": "연락/카톡",
+    "topic": "몰래 저축",
+    "situation": "몰래 저축 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "몰래 저축 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%AA%B0%EB%9E%98%20%EC%A0%80%EC%B6%95",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 158,
+    "category": "연락/카톡",
+    "topic": "피곤함",
+    "situation": "피곤함 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "피곤함 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%94%BC%EA%B3%A4%ED%95%A8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 159,
+    "category": "연락/카톡",
+    "topic": "연예인 사진",
+    "situation": "연예인 사진 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "연예인 사진 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%97%B0%EC%98%88%EC%9D%B8%20%EC%82%AC%EC%A7%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 160,
+    "category": "연락/카톡",
+    "topic": "무뚝뚝함",
+    "situation": "무뚝뚝함 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "무뚝뚝함 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%AC%B4%EB%9A%9D%EB%9A%9D%ED%95%A8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 161,
+    "category": "연락/카톡",
+    "topic": "재채기",
+    "situation": "재채기 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "재채기 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9E%AC%EC%B1%84%EA%B8%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 162,
+    "category": "연락/카톡",
+    "topic": "약속",
+    "situation": "약속 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "약속 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%95%BD%EC%86%8D",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 163,
+    "category": "연락/카톡",
+    "topic": "강아지 침대",
+    "situation": "강아지 침대 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "강아지 침대 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B0%95%EC%95%84%EC%A7%80%20%EC%B9%A8%EB%8C%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 164,
+    "category": "연락/카톡",
+    "topic": "연인 화장",
+    "situation": "연인 화장 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "연인 화장 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%97%B0%EC%9D%B8%20%ED%99%94%EC%9E%A5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 165,
+    "category": "연락/카톡",
+    "topic": "남사친",
+    "situation": "남사친 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "남사친 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%82%A8%EC%82%AC%EC%B9%9C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 166,
+    "category": "연락/카톡",
+    "topic": "답장",
+    "situation": "답장 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "답장 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8B%B5%EC%9E%A5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 167,
+    "category": "연락/카톡",
+    "topic": "지각",
+    "situation": "지각 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "지각 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A7%80%EA%B0%81",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 168,
+    "category": "연락/카톡",
+    "topic": "생일",
+    "situation": "생일 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "생일 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%83%9D%EC%9D%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 169,
+    "category": "연락/카톡",
+    "topic": "전남친",
+    "situation": "전남친 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "전남친 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A0%84%EB%82%A8%EC%B9%9C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 170,
+    "category": "연락/카톡",
+    "topic": "소통",
+    "situation": "소통 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "소통 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%86%8C%ED%86%B5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 171,
+    "category": "연락/카톡",
+    "topic": "친구모임",
+    "situation": "친구모임 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "친구모임 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B9%9C%EA%B5%AC%EB%AA%A8%EC%9E%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 172,
+    "category": "연락/카톡",
+    "topic": "답장",
+    "situation": "답장 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "답장 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8B%B5%EC%9E%A5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 173,
+    "category": "연락/카톡",
+    "topic": "축구중계",
+    "situation": "축구중계 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "축구중계 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B6%95%EA%B5%AC%EC%A4%91%EA%B3%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 174,
+    "category": "연락/카톡",
+    "topic": "요리 비유",
+    "situation": "요리 비유 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "요리 비유 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9A%94%EB%A6%AC%20%EB%B9%84%EC%9C%A0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 175,
+    "category": "연락/카톡",
+    "topic": "답장",
+    "situation": "답장 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "답장 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8B%B5%EC%9E%A5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 176,
+    "category": "연락/카톡",
+    "topic": "장소 변경",
+    "situation": "장소 변경 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "장소 변경 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9E%A5%EC%86%8C%20%EB%B3%80%EA%B2%BD",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 177,
+    "category": "연락/카톡",
+    "topic": "스토리",
+    "situation": "스토리 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "스토리 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%86%A0%EB%A6%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 178,
+    "category": "연락/카톡",
+    "topic": "데이트 비용",
+    "situation": "데이트 비용 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "데이트 비용 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8D%B0%EC%9D%B4%ED%8A%B8%20%EB%B9%84%EC%9A%A9",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 179,
+    "category": "연락/카톡",
+    "topic": "애정표현",
+    "situation": "애정표현 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "애정표현 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%95%A0%EC%A0%95%ED%91%9C%ED%98%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 180,
+    "category": "연락/카톡",
+    "topic": "스포일러",
+    "situation": "스포일러 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "스포일러 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%8F%AC%EC%9D%BC%EB%9F%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 181,
+    "category": "연락/카톡",
+    "topic": "만남 요청",
+    "situation": "만남 요청 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "만남 요청 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%A7%8C%EB%82%A8%20%EC%9A%94%EC%B2%AD",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 182,
+    "category": "연락/카톡",
+    "topic": "생일 선물",
+    "situation": "생일 선물 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "생일 선물 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%83%9D%EC%9D%BC%20%EC%84%A0%EB%AC%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 183,
+    "category": "연락/카톡",
+    "topic": "질투 농담",
+    "situation": "질투 농담 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "질투 농담 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A7%88%ED%88%AC%20%EB%86%8D%EB%8B%B4",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 184,
+    "category": "연락/카톡",
+    "topic": "다이어트",
+    "situation": "다이어트 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "다이어트 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 185,
+    "category": "연락/카톡",
+    "topic": "지적 방식",
+    "situation": "지적 방식 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "지적 방식 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A7%80%EC%A0%81%20%EB%B0%A9%EC%8B%9D",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 186,
+    "category": "연락/카톡",
+    "topic": "예민함",
+    "situation": "예민함 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "예민함 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%98%88%EB%AF%BC%ED%95%A8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 187,
+    "category": "연락/카톡",
+    "topic": "가족 비교",
+    "situation": "가족 비교 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "가족 비교 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B0%80%EC%A1%B1%20%EB%B9%84%EA%B5%90",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 188,
+    "category": "연락/카톡",
+    "topic": "공감",
+    "situation": "공감 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "공감 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B3%B5%EA%B0%90",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 189,
+    "category": "연락/카톡",
+    "topic": "통화 귀찮음",
+    "situation": "통화 귀찮음 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "통화 귀찮음 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%86%B5%ED%99%94%20%EA%B7%80%EC%B0%AE%EC%9D%8C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 190,
+    "category": "연락/카톡",
+    "topic": "답장",
+    "situation": "답장 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "답장 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8B%B5%EC%9E%A5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 191,
+    "category": "연락/카톡",
+    "topic": "친구 평가",
+    "situation": "친구 평가 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "친구 평가 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B9%9C%EA%B5%AC%20%ED%8F%89%EA%B0%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 192,
+    "category": "연락/카톡",
+    "topic": "공감",
+    "situation": "공감 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "공감 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B3%B5%EA%B0%90",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 193,
+    "category": "연락/카톡",
+    "topic": "사진",
+    "situation": "사진 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "사진 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%82%AC%EC%A7%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 194,
+    "category": "연락/카톡",
+    "topic": "사과",
+    "situation": "사과 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "사과 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%82%AC%EA%B3%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 195,
+    "category": "연락/카톡",
+    "topic": "데이트 취소",
+    "situation": "데이트 취소 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "데이트 취소 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8D%B0%EC%9D%B4%ED%8A%B8%20%EC%B7%A8%EC%86%8C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 196,
+    "category": "연락/카톡",
+    "topic": "안부",
+    "situation": "안부 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "안부 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%95%88%EB%B6%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 197,
+    "category": "연락/카톡",
+    "topic": "편들기",
+    "situation": "편들기 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "편들기 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%8E%B8%EB%93%A4%EA%B8%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 198,
+    "category": "연락/카톡",
+    "topic": "음성메시지",
+    "situation": "음성메시지 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "음성메시지 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9D%8C%EC%84%B1%EB%A9%94%EC%8B%9C%EC%A7%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 199,
+    "category": "연락/카톡",
+    "topic": "사진",
+    "situation": "사진 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "사진 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%82%AC%EC%A7%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 200,
+    "category": "연락/카톡",
+    "topic": "다이어리",
+    "situation": "다이어리 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "다이어리 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 201,
+    "category": "연락/카톡",
+    "topic": "농담",
+    "situation": "농담 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "농담 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%86%8D%EB%8B%B4",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 202,
+    "category": "연락/카톡",
+    "topic": "메이크업",
+    "situation": "메이크업 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "메이크업 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%A9%94%EC%9D%B4%ED%81%AC%EC%97%85",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 203,
+    "category": "연락/카톡",
+    "topic": "과거 상처",
+    "situation": "과거 상처 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "과거 상처 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B3%BC%EA%B1%B0%20%EC%83%81%EC%B2%98",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 204,
+    "category": "연락/카톡",
+    "topic": "오타",
+    "situation": "오타 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "오타 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%98%A4%ED%83%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 205,
+    "category": "연락/카톡",
+    "topic": "기념일",
+    "situation": "기념일 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "기념일 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B8%B0%EB%85%90%EC%9D%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 206,
+    "category": "연락/카톡",
+    "topic": "가족 소개",
+    "situation": "가족 소개 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "가족 소개 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B0%80%EC%A1%B1%20%EC%86%8C%EA%B0%9C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 207,
+    "category": "연락/카톡",
+    "topic": "사진 보정",
+    "situation": "사진 보정 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "사진 보정 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%82%AC%EC%A7%84%20%EB%B3%B4%EC%A0%95",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 208,
+    "category": "연락/카톡",
+    "topic": "동네",
+    "situation": "동네 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "동네 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8F%99%EB%84%A4",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 209,
+    "category": "연락/카톡",
+    "topic": "월급",
+    "situation": "월급 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "월급 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9B%94%EA%B8%89",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 210,
+    "category": "연락/카톡",
+    "topic": "강아지",
+    "situation": "강아지 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "강아지 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B0%95%EC%95%84%EC%A7%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 211,
+    "category": "연락/카톡",
+    "topic": "냉장고",
+    "situation": "냉장고 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "냉장고 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%83%89%EC%9E%A5%EA%B3%A0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 212,
+    "category": "연락/카톡",
+    "topic": "이름 헷갈림",
+    "situation": "이름 헷갈림 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "이름 헷갈림 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%A6%84%20%ED%97%B7%EA%B0%88%EB%A6%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 213,
+    "category": "연락/카톡",
+    "topic": "답장 시간",
+    "situation": "답장 시간 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "답장 시간 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8B%B5%EC%9E%A5%20%EC%8B%9C%EA%B0%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 214,
+    "category": "연락/카톡",
+    "topic": "과거 사진",
+    "situation": "과거 사진 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "과거 사진 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B3%BC%EA%B1%B0%20%EC%82%AC%EC%A7%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 215,
+    "category": "연락/카톡",
+    "topic": "데이트 장소",
+    "situation": "데이트 장소 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "데이트 장소 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8D%B0%EC%9D%B4%ED%8A%B8%20%EC%9E%A5%EC%86%8C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 216,
+    "category": "연락/카톡",
+    "topic": "말 끊김",
+    "situation": "말 끊김 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "말 끊김 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%A7%90%20%EB%81%8A%EA%B9%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 217,
+    "category": "연락/카톡",
+    "topic": "잠금화면",
+    "situation": "잠금화면 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "잠금화면 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9E%A0%EA%B8%88%ED%99%94%EB%A9%B4",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 218,
+    "category": "연락/카톡",
+    "topic": "생일선물",
+    "situation": "생일선물 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "생일선물 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%83%9D%EC%9D%BC%EC%84%A0%EB%AC%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 219,
+    "category": "연락/카톡",
+    "topic": "외로움",
+    "situation": "외로움 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "외로움 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%99%B8%EB%A1%9C%EC%9B%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 220,
+    "category": "연락/카톡",
+    "topic": "사생활 공개",
+    "situation": "사생활 공개 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "사생활 공개 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%82%AC%EC%83%9D%ED%99%9C%20%EA%B3%B5%EA%B0%9C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 221,
+    "category": "연락/카톡",
+    "topic": "연락",
+    "situation": "연락 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "연락 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%97%B0%EB%9D%BD",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 222,
+    "category": "연락/카톡",
+    "topic": "세탁",
+    "situation": "세탁 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "세탁 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%84%B8%ED%83%81",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 223,
+    "category": "연락/카톡",
+    "topic": "휴대폰",
+    "situation": "휴대폰 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "휴대폰 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%9C%B4%EB%8C%80%ED%8F%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 224,
+    "category": "연락/카톡",
+    "topic": "취미",
+    "situation": "취미 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "취미 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B7%A8%EB%AF%B8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 225,
+    "category": "연락/카톡",
+    "topic": "사진 정리",
+    "situation": "사진 정리 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "사진 정리 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%82%AC%EC%A7%84%20%EC%A0%95%EB%A6%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 226,
+    "category": "연락/카톡",
+    "topic": "자존심",
+    "situation": "자존심 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "자존심 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9E%90%EC%A1%B4%EC%8B%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 227,
+    "category": "연락/카톡",
+    "topic": "말없는 동행",
+    "situation": "말없는 동행 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "말없는 동행 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%A7%90%EC%97%86%EB%8A%94%20%EB%8F%99%ED%96%89",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 228,
+    "category": "연락/카톡",
+    "topic": "생리통",
+    "situation": "생리통 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "생리통 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%83%9D%EB%A6%AC%ED%86%B5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 229,
+    "category": "연락/카톡",
+    "topic": "사과",
+    "situation": "사과 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "사과 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%82%AC%EA%B3%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 230,
+    "category": "연락/카톡",
+    "topic": "사랑표현",
+    "situation": "사랑표현 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "사랑표현 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%82%AC%EB%9E%91%ED%91%9C%ED%98%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 231,
+    "category": "연락/카톡",
+    "topic": "친구연락",
+    "situation": "친구연락 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "친구연락 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B9%9C%EA%B5%AC%EC%97%B0%EB%9D%BD",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 232,
+    "category": "연락/카톡",
+    "topic": "단톡",
+    "situation": "단톡 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "단톡 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8B%A8%ED%86%A1",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 233,
+    "category": "연락/카톡",
+    "topic": "집매너",
+    "situation": "집매너 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "집매너 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A7%91%EB%A7%A4%EB%84%88",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 234,
+    "category": "연락/카톡",
+    "topic": "싸움",
+    "situation": "싸움 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "싸움 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%8B%B8%EC%9B%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 235,
+    "category": "연락/카톡",
+    "topic": "여행",
+    "situation": "여행 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "여행 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%97%AC%ED%96%89",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 236,
+    "category": "연락/카톡",
+    "topic": "직업농담",
+    "situation": "직업농담 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "직업농담 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A7%81%EC%97%85%EB%86%8D%EB%8B%B4",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 237,
+    "category": "연락/카톡",
+    "topic": "우선순위",
+    "situation": "우선순위 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "우선순위 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 238,
+    "category": "연락/카톡",
+    "topic": "커피",
+    "situation": "커피 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "커피 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%BB%A4%ED%94%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 239,
+    "category": "연락/카톡",
+    "topic": "생각",
+    "situation": "생각 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "생각 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%83%9D%EA%B0%81",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 240,
+    "category": "연락/카톡",
+    "topic": "ㅋㅋ 습관",
+    "situation": "ㅋㅋ 습관 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "ㅋㅋ 습관 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%E3%85%8B%E3%85%8B%20%EC%8A%B5%EA%B4%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 241,
+    "category": "연락/카톡",
+    "topic": "기억",
+    "situation": "기억 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "기억 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B8%B0%EC%96%B5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 242,
+    "category": "연락/카톡",
+    "topic": "복잡함",
+    "situation": "복잡함 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "복잡함 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%B3%B5%EC%9E%A1%ED%95%A8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 243,
+    "category": "연락/카톡",
+    "topic": "데이트계획",
+    "situation": "데이트계획 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "데이트계획 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8D%B0%EC%9D%B4%ED%8A%B8%EA%B3%84%ED%9A%8D",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 244,
+    "category": "연락/카톡",
+    "topic": "애정 확인",
+    "situation": "애정 확인 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "애정 확인 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%95%A0%EC%A0%95%20%ED%99%95%EC%9D%B8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 245,
+    "category": "연락/카톡",
+    "topic": "친구 생일",
+    "situation": "친구 생일 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "친구 생일 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B9%9C%EA%B5%AC%20%EC%83%9D%EC%9D%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 246,
+    "category": "연락/카톡",
+    "topic": "감사 표현",
+    "situation": "감사 표현 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "감사 표현 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B0%90%EC%82%AC%20%ED%91%9C%ED%98%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 247,
+    "category": "연락/카톡",
+    "topic": "위로",
+    "situation": "위로 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "위로 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9C%84%EB%A1%9C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 248,
+    "category": "연락/카톡",
+    "topic": "외모비교",
+    "situation": "외모비교 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "외모비교 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%99%B8%EB%AA%A8%EB%B9%84%EA%B5%90",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 249,
+    "category": "연락/카톡",
+    "topic": "칭찬",
+    "situation": "칭찬 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "칭찬 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B9%AD%EC%B0%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 250,
+    "category": "연락/카톡",
+    "topic": "책임",
+    "situation": "책임 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "책임 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B1%85%EC%9E%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 251,
+    "category": "연락/카톡",
+    "topic": "답장",
+    "situation": "답장 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "답장 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8B%B5%EC%9E%A5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 252,
+    "category": "연락/카톡",
+    "topic": "약속",
+    "situation": "약속 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "약속 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%95%BD%EC%86%8D",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 253,
+    "category": "연락/카톡",
+    "topic": "100일",
+    "situation": "100일 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "100일 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=100%EC%9D%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 254,
+    "category": "연락/카톡",
+    "topic": "늦은 귀가",
+    "situation": "늦은 귀가 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "늦은 귀가 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8A%A6%EC%9D%80%20%EA%B7%80%EA%B0%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 255,
+    "category": "연락/카톡",
+    "topic": "지출 통제",
+    "situation": "지출 통제 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "지출 통제 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A7%80%EC%B6%9C%20%ED%86%B5%EC%A0%9C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 256,
+    "category": "연락/카톡",
+    "topic": "시댁 갈등",
+    "situation": "시댁 갈등 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "시댁 갈등 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%8B%9C%EB%8C%81%20%EA%B0%88%EB%93%B1",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 257,
+    "category": "연락/카톡",
+    "topic": "운전불안",
+    "situation": "운전불안 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "운전불안 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9A%B4%EC%A0%84%EB%B6%88%EC%95%88",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 258,
+    "category": "연락/카톡",
+    "topic": "물건정리",
+    "situation": "물건정리 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "물건정리 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%AC%BC%EA%B1%B4%EC%A0%95%EB%A6%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 259,
+    "category": "연락/카톡",
+    "topic": "회식 자리",
+    "situation": "회식 자리 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "회식 자리 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%9A%8C%EC%8B%9D%20%EC%9E%90%EB%A6%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 260,
+    "category": "연락/카톡",
+    "topic": "커플티",
+    "situation": "커플티 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "커플티 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%BB%A4%ED%94%8C%ED%8B%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 261,
+    "category": "연락/카톡",
+    "topic": "스킨십",
+    "situation": "스킨십 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "스킨십 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%82%A8%EC%8B%AD",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 262,
+    "category": "연락/카톡",
+    "topic": "댓글",
+    "situation": "댓글 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "댓글 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8C%93%EA%B8%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 263,
+    "category": "연락/카톡",
+    "topic": "강아지 산책",
+    "situation": "강아지 산책 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "강아지 산책 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B0%95%EC%95%84%EC%A7%80%20%EC%82%B0%EC%B1%85",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 264,
+    "category": "연락/카톡",
+    "topic": "의심",
+    "situation": "의심 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "의심 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9D%98%EC%8B%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 265,
+    "category": "연락/카톡",
+    "topic": "생신",
+    "situation": "생신 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "생신 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%83%9D%EC%8B%A0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 266,
+    "category": "연락/카톡",
+    "topic": "사진",
+    "situation": "사진 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "사진 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%82%AC%EC%A7%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 267,
+    "category": "연락/카톡",
+    "topic": "옷차림",
+    "situation": "옷차림 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "옷차림 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%98%B7%EC%B0%A8%EB%A6%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 268,
+    "category": "연락/카톡",
+    "topic": "말조심",
+    "situation": "말조심 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "말조심 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%A7%90%EC%A1%B0%EC%8B%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 269,
+    "category": "연락/카톡",
+    "topic": "몸 얘기",
+    "situation": "몸 얘기 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "몸 얘기 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%AA%B8%20%EC%96%98%EA%B8%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 270,
+    "category": "연락/카톡",
+    "topic": "게임",
+    "situation": "게임 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "게임 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B2%8C%EC%9E%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 271,
+    "category": "연락/카톡",
+    "topic": "차 상태",
+    "situation": "차 상태 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "차 상태 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B0%A8%20%EC%83%81%ED%83%9C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 272,
+    "category": "연락/카톡",
+    "topic": "명절방문",
+    "situation": "명절방문 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "명절방문 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%AA%85%EC%A0%88%EB%B0%A9%EB%AC%B8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 273,
+    "category": "연락/카톡",
+    "topic": "친구 여행",
+    "situation": "친구 여행 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "친구 여행 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B9%9C%EA%B5%AC%20%EC%97%AC%ED%96%89",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 274,
+    "category": "연락/카톡",
+    "topic": "귀가시간",
+    "situation": "귀가시간 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "귀가시간 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B7%80%EA%B0%80%EC%8B%9C%EA%B0%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 275,
+    "category": "연락/카톡",
+    "topic": "워크숍 의심",
+    "situation": "워크숍 의심 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "워크숍 의심 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9B%8C%ED%81%AC%EC%88%8D%20%EC%9D%98%EC%8B%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 276,
+    "category": "연락/카톡",
+    "topic": "과거사진",
+    "situation": "과거사진 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "과거사진 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B3%BC%EA%B1%B0%EC%82%AC%EC%A7%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 277,
+    "category": "연락/카톡",
+    "topic": "생일",
+    "situation": "생일 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "생일 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%83%9D%EC%9D%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 278,
+    "category": "연락/카톡",
+    "topic": "통장 공개",
+    "situation": "통장 공개 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "통장 공개 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%86%B5%EC%9E%A5%20%EA%B3%B5%EA%B0%9C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 279,
+    "category": "연락/카톡",
+    "topic": "지각",
+    "situation": "지각 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "지각 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A7%80%EA%B0%81",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 280,
+    "category": "연락/카톡",
+    "topic": "하품",
+    "situation": "하품 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "하품 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%95%98%ED%92%88",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 281,
+    "category": "연락/카톡",
+    "topic": "후드",
+    "situation": "후드 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "후드 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%9B%84%EB%93%9C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 282,
+    "category": "연락/카톡",
+    "topic": "게임",
+    "situation": "게임 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "게임 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B2%8C%EC%9E%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 283,
+    "category": "연락/카톡",
+    "topic": "손편지",
+    "situation": "손편지 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "손편지 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%86%90%ED%8E%B8%EC%A7%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 284,
+    "category": "연락/카톡",
+    "topic": "약속 숨김",
+    "situation": "약속 숨김 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "약속 숨김 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%95%BD%EC%86%8D%20%EC%88%A8%EA%B9%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 285,
+    "category": "연락/카톡",
+    "topic": "지각",
+    "situation": "지각 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "지각 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A7%80%EA%B0%81",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 286,
+    "category": "연락/카톡",
+    "topic": "전 애인",
+    "situation": "전 애인 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "전 애인 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A0%84%20%EC%95%A0%EC%9D%B8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 287,
+    "category": "연락/카톡",
+    "topic": "술값",
+    "situation": "술값 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "술값 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%88%A0%EA%B0%92",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 288,
+    "category": "연락/카톡",
+    "topic": "방문순서",
+    "situation": "방문순서 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "방문순서 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%B0%A9%EB%AC%B8%EC%88%9C%EC%84%9C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 289,
+    "category": "연락/카톡",
+    "topic": "헤어스타일",
+    "situation": "헤어스타일 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "헤어스타일 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%97%A4%EC%96%B4%EC%8A%A4%ED%83%80%EC%9D%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 290,
+    "category": "연락/카톡",
+    "topic": "결혼식 동반",
+    "situation": "결혼식 동반 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "결혼식 동반 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B2%B0%ED%98%BC%EC%8B%9D%20%EB%8F%99%EB%B0%98",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 291,
+    "category": "연락/카톡",
+    "topic": "사랑 확인",
+    "situation": "사랑 확인 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "사랑 확인 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%82%AC%EB%9E%91%20%ED%99%95%EC%9D%B8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 292,
+    "category": "연락/카톡",
+    "topic": "이모티콘",
+    "situation": "이모티콘 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "이모티콘 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 293,
+    "category": "연락/카톡",
+    "topic": "결혼 자금",
+    "situation": "결혼 자금 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "결혼 자금 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B2%B0%ED%98%BC%20%EC%9E%90%EA%B8%88",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 294,
+    "category": "연락/카톡",
+    "topic": "부모님 방문",
+    "situation": "부모님 방문 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "부모님 방문 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%B6%80%EB%AA%A8%EB%8B%98%20%EB%B0%A9%EB%AC%B8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 295,
+    "category": "연락/카톡",
+    "topic": "커플 통장",
+    "situation": "커플 통장 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "커플 통장 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%BB%A4%ED%94%8C%20%ED%86%B5%EC%9E%A5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 296,
+    "category": "연락/카톡",
+    "topic": "전 애인",
+    "situation": "전 애인 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "전 애인 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A0%84%20%EC%95%A0%EC%9D%B8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 297,
+    "category": "연락/카톡",
+    "topic": "생리",
+    "situation": "생리 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "생리 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%83%9D%EB%A6%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 298,
+    "category": "연락/카톡",
+    "topic": "데이트 비용",
+    "situation": "데이트 비용 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "데이트 비용 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8D%B0%EC%9D%B4%ED%8A%B8%20%EB%B9%84%EC%9A%A9",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 299,
+    "category": "연락/카톡",
+    "topic": "생일 서프라이즈",
+    "situation": "생일 서프라이즈 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "생일 서프라이즈 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%83%9D%EC%9D%BC%20%EC%84%9C%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 300,
+    "category": "연락/카톡",
+    "topic": "사투리",
+    "situation": "사투리 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "사투리 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%82%AC%ED%88%AC%EB%A6%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 301,
+    "category": "연락/카톡",
+    "topic": "게임",
+    "situation": "게임 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "게임 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B2%8C%EC%9E%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 302,
+    "category": "연락/카톡",
+    "topic": "이별 문자",
+    "situation": "이별 문자 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "이별 문자 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%B3%84%20%EB%AC%B8%EC%9E%90",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 303,
+    "category": "연락/카톡",
+    "topic": "커플 비교",
+    "situation": "커플 비교 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "커플 비교 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%BB%A4%ED%94%8C%20%EB%B9%84%EA%B5%90",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 304,
+    "category": "연락/카톡",
+    "topic": "취업 준비",
+    "situation": "취업 준비 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "취업 준비 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B7%A8%EC%97%85%20%EC%A4%80%EB%B9%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 305,
+    "category": "연락/카톡",
+    "topic": "옛물건",
+    "situation": "옛물건 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "옛물건 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%98%9B%EB%AC%BC%EA%B1%B4",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 306,
+    "category": "연락/카톡",
+    "topic": "선물 사이즈",
+    "situation": "선물 사이즈 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "선물 사이즈 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%84%A0%EB%AC%BC%20%EC%82%AC%EC%9D%B4%EC%A6%88",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 307,
+    "category": "연락/카톡",
+    "topic": "결혼 허락",
+    "situation": "결혼 허락 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "결혼 허락 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B2%B0%ED%98%BC%20%ED%97%88%EB%9D%BD",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 308,
+    "category": "연락/카톡",
+    "topic": "영상통화",
+    "situation": "영상통화 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "영상통화 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%98%81%EC%83%81%ED%86%B5%ED%99%94",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 309,
+    "category": "연락/카톡",
+    "topic": "당일 약속",
+    "situation": "당일 약속 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "당일 약속 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8B%B9%EC%9D%BC%20%EC%95%BD%EC%86%8D",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 310,
+    "category": "연락/카톡",
+    "topic": "미래",
+    "situation": "미래 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "미래 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%AF%B8%EB%9E%98",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 311,
+    "category": "연락/카톡",
+    "topic": "소홀함",
+    "situation": "소홀함 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "소홀함 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%86%8C%ED%99%80%ED%95%A8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 312,
+    "category": "연락/카톡",
+    "topic": "옛 연애",
+    "situation": "옛 연애 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "옛 연애 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%98%9B%20%EC%97%B0%EC%95%A0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 313,
+    "category": "연락/카톡",
+    "topic": "모닝콜",
+    "situation": "모닝콜 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "모닝콜 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%AA%A8%EB%8B%9D%EC%BD%9C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 314,
+    "category": "연락/카톡",
+    "topic": "데이트 전화",
+    "situation": "데이트 전화 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "데이트 전화 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8D%B0%EC%9D%B4%ED%8A%B8%20%EC%A0%84%ED%99%94",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 315,
+    "category": "연락/카톡",
+    "topic": "외모칭찬",
+    "situation": "외모칭찬 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "외모칭찬 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%99%B8%EB%AA%A8%EC%B9%AD%EC%B0%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 316,
+    "category": "연락/카톡",
+    "topic": "같이 살기",
+    "situation": "같이 살기 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "같이 살기 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B0%99%EC%9D%B4%20%EC%82%B4%EA%B8%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 317,
+    "category": "연락/카톡",
+    "topic": "음식 칭찬",
+    "situation": "음식 칭찬 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "음식 칭찬 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9D%8C%EC%8B%9D%20%EC%B9%AD%EC%B0%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 318,
+    "category": "연락/카톡",
+    "topic": "거짓말",
+    "situation": "거짓말 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "거짓말 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B1%B0%EC%A7%93%EB%A7%90",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 319,
+    "category": "연락/카톡",
+    "topic": "사진",
+    "situation": "사진 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "사진 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%82%AC%EC%A7%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 320,
+    "category": "연락/카톡",
+    "topic": "배고픔",
+    "situation": "배고픔 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "배고픔 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%B0%B0%EA%B3%A0%ED%94%94",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 321,
+    "category": "연락/카톡",
+    "topic": "삐짐",
+    "situation": "삐짐 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "삐짐 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%82%90%EC%A7%90",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 322,
+    "category": "연락/카톡",
+    "topic": "경청",
+    "situation": "경청 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "경청 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B2%BD%EC%B2%AD",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 323,
+    "category": "연락/카톡",
+    "topic": "솔직함",
+    "situation": "솔직함 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "솔직함 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%86%94%EC%A7%81%ED%95%A8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 324,
+    "category": "연락/카톡",
+    "topic": "답장",
+    "situation": "답장 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "답장 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8B%B5%EC%9E%A5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 325,
+    "category": "연락/카톡",
+    "topic": "비밀",
+    "situation": "비밀 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "비밀 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%B9%84%EB%B0%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 326,
+    "category": "연락/카톡",
+    "topic": "지각",
+    "situation": "지각 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "지각 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A7%80%EA%B0%81",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 327,
+    "category": "연락/카톡",
+    "topic": "게임",
+    "situation": "게임 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "게임 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B2%8C%EC%9E%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 328,
+    "category": "연락/카톡",
+    "topic": "진동",
+    "situation": "진동 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "진동 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A7%84%EB%8F%99",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 329,
+    "category": "연락/카톡",
+    "topic": "침묵",
+    "situation": "침묵 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "침묵 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B9%A8%EB%AC%B5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 330,
+    "category": "연락/카톡",
+    "topic": "늦음",
+    "situation": "늦음 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "늦음 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%8A%A6%EC%9D%8C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 331,
+    "category": "연락/카톡",
+    "topic": "생각할 시간",
+    "situation": "생각할 시간 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "생각할 시간 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%83%9D%EA%B0%81%ED%95%A0%20%EC%8B%9C%EA%B0%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 332,
+    "category": "연락/카톡",
+    "topic": "휴대폰",
+    "situation": "휴대폰 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "휴대폰 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%9C%B4%EB%8C%80%ED%8F%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 333,
+    "category": "연락/카톡",
+    "topic": "계산",
+    "situation": "계산 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "계산 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B3%84%EC%82%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 334,
+    "category": "연락/카톡",
+    "topic": "영수증",
+    "situation": "영수증 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "영수증 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%98%81%EC%88%98%EC%A6%9D",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 335,
+    "category": "연락/카톡",
+    "topic": "표정",
+    "situation": "표정 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "표정 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%91%9C%EC%A0%95",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 336,
+    "category": "연락/카톡",
+    "topic": "새벽 SNS",
+    "situation": "새벽 SNS 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "새벽 SNS 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%83%88%EB%B2%BD%20SNS",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 337,
+    "category": "연락/카톡",
+    "topic": "기념일",
+    "situation": "기념일 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "기념일 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B8%B0%EB%85%90%EC%9D%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 338,
+    "category": "연락/카톡",
+    "topic": "기억력",
+    "situation": "기억력 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "기억력 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B8%B0%EC%96%B5%EB%A0%A5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 339,
+    "category": "연락/카톡",
+    "topic": "관심",
+    "situation": "관심 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "관심 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B4%80%EC%8B%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 340,
+    "category": "연락/카톡",
+    "topic": "샤워 시간",
+    "situation": "샤워 시간 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "샤워 시간 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%83%A4%EC%9B%8C%20%EC%8B%9C%EA%B0%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 341,
+    "category": "연락/카톡",
+    "topic": "컵",
+    "situation": "컵 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "컵 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%BB%B5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 342,
+    "category": "연락/카톡",
+    "topic": "운전 다툼",
+    "situation": "운전 다툼 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "운전 다툼 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%9A%B4%EC%A0%84%20%EB%8B%A4%ED%88%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 343,
+    "category": "연락/카톡",
+    "topic": "커피",
+    "situation": "커피 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "커피 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%BB%A4%ED%94%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 344,
+    "category": "연락/카톡",
+    "topic": "서운함",
+    "situation": "서운함 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "서운함 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%84%9C%EC%9A%B4%ED%95%A8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 345,
+    "category": "연락/카톡",
+    "topic": "게임",
+    "situation": "게임 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "게임 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B2%8C%EC%9E%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 346,
+    "category": "연락/카톡",
+    "topic": "편들기",
+    "situation": "편들기 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "편들기 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%8E%B8%EB%93%A4%EA%B8%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 347,
+    "category": "연락/카톡",
+    "topic": "약속 취소",
+    "situation": "약속 취소 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "약속 취소 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%95%BD%EC%86%8D%20%EC%B7%A8%EC%86%8C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 348,
+    "category": "연락/카톡",
+    "topic": "칭찬",
+    "situation": "칭찬 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "칭찬 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B9%AD%EC%B0%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 349,
+    "category": "연락/카톡",
+    "topic": "친구 이름",
+    "situation": "친구 이름 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "친구 이름 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B9%9C%EA%B5%AC%20%EC%9D%B4%EB%A6%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 350,
+    "category": "연락/카톡",
+    "topic": "허락",
+    "situation": "허락 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "허락 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%97%88%EB%9D%BD",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 351,
+    "category": "연락/카톡",
+    "topic": "전화",
+    "situation": "전화 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "전화 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A0%84%ED%99%94",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 352,
+    "category": "연락/카톡",
+    "topic": "질투",
+    "situation": "질투 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "질투 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%A7%88%ED%88%AC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 353,
+    "category": "연락/카톡",
+    "topic": "소통",
+    "situation": "소통 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "소통 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%86%8C%ED%86%B5",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 354,
+    "category": "연락/카톡",
+    "topic": "추억사진",
+    "situation": "추억사진 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "추억사진 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B6%94%EC%96%B5%EC%82%AC%EC%A7%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 355,
+    "category": "연락/카톡",
+    "topic": "걷기 기준",
+    "situation": "걷기 기준 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "걷기 기준 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B1%B7%EA%B8%B0%20%EA%B8%B0%EC%A4%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 356,
+    "category": "연락/카톡",
+    "topic": "설거지",
+    "situation": "설거지 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "설거지 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%84%A4%EA%B1%B0%EC%A7%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 357,
+    "category": "연락/카톡",
+    "topic": "통화",
+    "situation": "통화 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "통화 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%86%B5%ED%99%94",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 358,
+    "category": "연락/카톡",
+    "topic": "릴스",
+    "situation": "릴스 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "릴스 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%A6%B4%EC%8A%A4",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 359,
+    "category": "연락/카톡",
+    "topic": "할인",
+    "situation": "할인 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "할인 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%95%A0%EC%9D%B8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 360,
+    "category": "연락/카톡",
+    "topic": "추측",
+    "situation": "추측 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "추측 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B6%94%EC%B8%A1",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 361,
+    "category": "연락/카톡",
+    "topic": "팝콘",
+    "situation": "팝콘 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "팝콘 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%8C%9D%EC%BD%98",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 362,
+    "category": "연락/카톡",
+    "topic": "휴대폰",
+    "situation": "휴대폰 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "휴대폰 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%9C%B4%EB%8C%80%ED%8F%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 363,
+    "category": "연락/카톡",
+    "topic": "치킨",
+    "situation": "치킨 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "치킨 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B9%98%ED%82%A8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 364,
+    "category": "연락/카톡",
+    "topic": "검색",
+    "situation": "검색 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "검색 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B2%80%EC%83%89",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 365,
+    "category": "연락/카톡",
+    "topic": "휴대폰",
+    "situation": "휴대폰 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "휴대폰 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%9C%B4%EB%8C%80%ED%8F%B0",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 366,
+    "category": "연락/카톡",
+    "topic": "청소",
+    "situation": "청소 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "청소 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B2%AD%EC%86%8C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 367,
+    "category": "연락/카톡",
+    "topic": "추억 장소",
+    "situation": "추억 장소 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "추억 장소 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%B6%94%EC%96%B5%20%EC%9E%A5%EC%86%8C",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 368,
+    "category": "연락/카톡",
+    "topic": "말투 지적",
+    "situation": "말투 지적 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "말투 지적 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EB%A7%90%ED%88%AC%20%EC%A7%80%EC%A0%81",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 369,
+    "category": "연락/카톡",
+    "topic": "생일선물",
+    "situation": "생일선물 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "생일선물 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%83%9D%EC%9D%BC%EC%84%A0%EB%AC%BC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 370,
+    "category": "연락/카톡",
+    "topic": "양보",
+    "situation": "양보 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "양보 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EC%96%91%EB%B3%B4",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 371,
+    "category": "연락/카톡",
+    "topic": "필터 확인",
+    "situation": "필터 확인 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "필터 확인 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%95%84%ED%84%B0%20%ED%99%95%EC%9D%B8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 372,
+    "category": "연락/카톡",
+    "topic": "편함",
+    "situation": "편함 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "편함 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%8E%B8%ED%95%A8",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 373,
+    "category": "연락/카톡",
+    "topic": "휴지",
+    "situation": "휴지 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "휴지 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%9C%B4%EC%A7%80",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 374,
+    "category": "연락/카톡",
+    "topic": "게임",
+    "situation": "게임 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "게임 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%EA%B2%8C%EC%9E%84",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
+    }
+  },
+  {
+    "id": 375,
+    "category": "연락/카톡",
+    "topic": "화해",
+    "situation": "화해 상황일 때",
+    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "product": {
+      "title": "화해 추천 상품",
+      "description": "싸움 방지 및 관계 개선 필수 아이템",
+      "coupangUrl": "https://www.coupang.com/np/search?q=%ED%99%94%ED%95%B4",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   }
 ]
