@@ -16,7 +16,7 @@
     </a>
   </div>
 
-  <!-- 2. 헤더 (상단 오른쪽 유튜브, 블로그, 관계진단 유지) -->
+  <!-- 2. 헤더 (상단 오른쪽 유튜브, 블로그, 관계진단) -->
   <header class="bg-white border-b border-slate-200 px-4 py-3 flex items-center justify-between sticky top-[32px] z-40 shadow-sm">
     <h1 class="font-bold text-lg text-rose-600 flex items-center gap-1.5">
       <i class="fa-solid fa-heart"></i> 그날의 남녀 <span class="text-xs font-normal text-slate-400">Market</span>
@@ -53,20 +53,24 @@
     </div>
   </main>
 
-  <!-- 5. 하단 고정 바로가기 메뉴 바 (직렬 3개 버튼 나열) -->
-  <footer class="fixed bottom-0 left-0 right-0 bg-white border-t border-slate-200 py-2 px-4 z-40 shadow-[0_-2px_10px_rgba(0,0,0,0.05)]">
-    <div class="max-w-md mx-auto grid grid-cols-3 gap-2 text-center">
-      <a href="https://www.youtube.com/@SpillEnglish-j9b" target="_blank" class="flex flex-col items-center justify-center py-1 bg-red-50 text-red-600 rounded-xl hover:bg-red-100 transition">
+  <!-- 5. 하단 고정 바로가기 메뉴 바 (4개 버튼 직렬 나열) -->
+  <footer class="fixed bottom-0 left-0 right-0 bg-white border-t border-slate-200 py-2 px-2 z-40 shadow-[0_-2px_10px_rgba(0,0,0,0.05)]">
+    <div class="max-w-md mx-auto grid grid-cols-4 gap-1.5 text-center">
+      <a href="https://www.youtube.com/@SpillEnglish-j9b" target="_blank" class="flex flex-col items-center justify-center py-1.5 bg-red-50 text-red-600 rounded-xl hover:bg-red-100 transition">
         <i class="fa-brands fa-youtube text-base mb-0.5"></i>
-        <span class="text-[11px] font-bold">유튜브 바로가기</span>
+        <span class="text-[10px] font-bold">유튜브</span>
       </a>
-      <a href="https://couplescore-auto.blogspot.com/" target="_blank" class="flex flex-col items-center justify-center py-1 bg-orange-50 text-orange-600 rounded-xl hover:bg-orange-100 transition">
+      <a href="https://couplescore-auto.blogspot.com/" target="_blank" class="flex flex-col items-center justify-center py-1.5 bg-orange-50 text-orange-600 rounded-xl hover:bg-orange-100 transition">
         <i class="fa-solid fa-blog text-base mb-0.5"></i>
-        <span class="text-[11px] font-bold">블로그 바로가기</span>
+        <span class="text-[10px] font-bold">블로그</span>
       </a>
-      <a href="https://couple-score.vercel.app/" target="_blank" class="flex flex-col items-center justify-center py-1 bg-rose-50 text-rose-600 rounded-xl hover:bg-rose-100 transition">
+      <a href="https://www.threads.net/@couplescroe" target="_blank" class="flex flex-col items-center justify-center py-1.5 bg-slate-100 text-slate-800 rounded-xl hover:bg-slate-200 transition">
+        <i class="fa-brands fa-threads text-base mb-0.5"></i>
+        <span class="text-[10px] font-bold">스레드</span>
+      </a>
+      <a href="https://couple-score.vercel.app/" target="_blank" class="flex flex-col items-center justify-center py-1.5 bg-rose-50 text-rose-600 rounded-xl hover:bg-rose-100 transition">
         <i class="fa-solid fa-heart-pulse text-base mb-0.5"></i>
-        <span class="text-[11px] font-bold">관계진단 바로가기</span>
+        <span class="text-[10px] font-bold">관계진단</span>
       </a>
     </div>
   </footer>
@@ -100,7 +104,6 @@
   <script>
     let allProducts = [];
 
-    // 데이터 로딩 (루트 폴더 및 data 폴더 경로 교차 검색)
     async function loadData() {
       const paths = ['./data/counseling.json', './counseling.json', 'counseling.json'];
       let loaded = false;
@@ -117,7 +120,6 @@
         } catch(e) {}
       }
 
-      // 깃허브 JSON 로드 실패 시 기본 샘플 노출 예외 처리
       if (!loaded || allProducts.length === 0) {
         allProducts = [
           {
