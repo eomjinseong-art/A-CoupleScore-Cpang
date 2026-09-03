@@ -28,15 +28,16 @@
     </div>
   </header>
 
-  <!-- 3. 카테고리 필터 바 -->
-  <nav class="bg-white px-4 py-2.5 border-b border-slate-200 overflow-x-auto whitespace-nowrap flex gap-2 text-xs font-medium no-scrollbar">
+  <!-- 3. 카테고리 필터 바 (감성 상황별 태그) -->
+  <nav id="categoryNav" class="bg-white px-4 py-2.5 border-b border-slate-200 overflow-x-auto whitespace-nowrap flex gap-2 text-xs font-medium no-scrollbar">
     <button onclick="filterCategory('전체')" class="px-3 py-1.5 rounded-full bg-slate-900 text-white font-bold">전체보기</button>
-    <button onclick="filterCategory('연락/카톡')" class="px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">💖 화해/선물</button>
-    <button onclick="filterCategory('데이트')" class="px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">🏠 집데이트</button>
+    <button onclick="filterCategory('화해할때')" class="px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">💖 #화해할때</button>
+    <button onclick="filterCategory('싸웠을때')" class="px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">⚡ #싸웠을때</button>
+    <button onclick="filterCategory('집데이트')" class="px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">🏠 #집데이트</button>
     <a href="https://www.avoir24.com" target="_blank" class="px-3 py-1.5 rounded-full bg-pink-100 text-pink-700 font-bold hover:bg-pink-200">👗 데이트룩/선물(아브아르)</a>
   </nav>
 
-  <!-- 4. 공정위 & 쿠팡 파트너스 필수 법적 고지 배너 -->
+  <!-- 4. 공정위 & 쿠팡 파트너스 법적 고지 배너 -->
   <div class="max-w-md mx-auto px-3 pt-3">
     <div class="bg-slate-200/70 border border-slate-300/80 rounded-xl px-3 py-2 text-center">
       <p class="text-[10px] text-slate-600 font-medium leading-tight">
@@ -45,13 +46,13 @@
     </div>
   </div>
 
-  <!-- 5. 메인 2열 상품 영역 -->
+  <!-- 5. 메인 2열 상품 격자 (Grid) -->
   <main class="max-w-md mx-auto p-3">
     <div id="productGrid" class="grid grid-cols-2 gap-3">
-      <!-- 데이터 자동 생성 영역 -->
+      <!-- JS 데이터 로딩 -->
     </div>
 
-    <!-- 중간 아브아르 배너 -->
+    <!-- 중간 아브아르 스폰서 배너 -->
     <div class="mt-4 bg-gradient-to-r from-pink-500 to-rose-500 text-white p-4 rounded-2xl shadow-sm text-center">
       <span class="text-[9px] bg-white/20 px-2 py-0.5 rounded font-bold uppercase">Sponsored</span>
       <h3 class="font-bold text-sm mt-1">화해 데이트 때 뭐 입지? ✨</h3>
@@ -108,18 +109,14 @@
       if (!loaded || allProducts.length === 0) {
         allProducts = [
           {
-            category: "연락/카톡",
-            topic: "치약",
-            situation: "치약 짜는 문제로 싸웠을 때",
-            psychologyAdvice: "상대방의 습관을 비난하기보다 치약 형태를 바꿔보는 것이 훨씬 평화롭습니다.",
-            product: { title: "치약 추천 상품", description: "싸움 방지 및 관계 개선 필수 아이템", coupangUrl: "https://link.coupang.com/a/gJApa05FrU", imageUrl: "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500" }
+            category: "화해할때",
+            psychologyAdvice: "소소한 다툼은 비난보다 도구를 바꾸는 게 훨씬 평화롭습니다.",
+            product: { title: "2080 핑크솔트 펌핑치약", description: "튜브 짜개 싸움 방지 펌핑 치약", coupangUrl: "https://link.coupang.com/a/gJApa05FrU", imageUrl: "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500" }
           },
           {
-            category: "연락/카톡",
-            topic: "답장",
-            situation: "답장이 늦어서 다퉜을 때",
-            psychologyAdvice: "늦은 답장은 개인 몰입 중일 가능성이 높습니다. 내 감정을 부드럽게 전달하세요.",
-            product: { title: "답장 추천 상품", description: "서로를 이해하는 커플 소통 아이템", coupangUrl: "https://link.coupang.com/a/gJAqET8o8q", imageUrl: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500" }
+            category: "싸웠을때",
+            psychologyAdvice: "답장이 늦을 땐 비난보다 서운했던 마음을 부드럽게 전해보세요.",
+            product: { title: "너와 나의 커플 소통 다이어리", description: "서로의 속마음을 알아가는 질문 문답집", coupangUrl: "https://link.coupang.com/a/gJAqET8o8q", imageUrl: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500" }
           }
         ];
         renderProducts(allProducts);
@@ -129,18 +126,19 @@
     function renderProducts(items) {
       const grid = document.getElementById('productGrid');
       grid.innerHTML = items.map(item => {
-        const title = item.product ? item.product.title : (item.topic + ' 추천 상품');
-        const desc = item.product ? item.product.description : '싸움 방지 및 관계 개선 필수 아이템';
+        const title = item.product ? item.product.title : '커플 추천 아이템';
+        const desc = item.product ? item.product.description : '관계 개선 필수 아이템';
         const img = (item.product && item.product.imageUrl) ? item.product.imageUrl : 'https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500';
         const url = item.product ? item.product.coupangUrl : 'https://www.coupang.com';
         const advice = item.psychologyAdvice ? item.psychologyAdvice : '서로의 마음을 부드럽게 표현해보세요.';
+        const categoryTag = item.category || '커플';
 
         return `
           <a href="${url}" target="_blank" class="bg-white rounded-xl border border-slate-200 overflow-hidden shadow-sm flex flex-col justify-between hover:border-rose-400 hover:shadow-md transition">
             <div>
               <div class="relative">
                 <img src="${img}" alt="상품" class="w-full h-32 object-cover">
-                <span class="absolute top-2 left-2 bg-black/60 text-white text-[9px] px-1.5 py-0.5 rounded font-medium backdrop-blur-sm">#${item.category || '커플'}</span>
+                <span class="absolute top-2 left-2 bg-black/65 text-white text-[9px] px-2 py-0.5 rounded-md font-bold backdrop-blur-sm">#${categoryTag}</span>
               </div>
               <div class="p-2.5">
                 <h4 class="font-bold text-xs text-slate-800 line-clamp-1">${title}</h4>
@@ -165,7 +163,7 @@
       if(cat === '전체') {
         renderProducts(allProducts);
       } else {
-        const filtered = allProducts.filter(item => item.category === cat);
+        const filtered = allProducts.filter(item => item.category === cat || item.category === ('#' + cat));
         renderProducts(filtered);
       }
     }
