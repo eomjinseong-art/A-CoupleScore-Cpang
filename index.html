@@ -99,6 +99,16 @@
 
     async function loadData() {
       try {
+        const localResponse = await fetch('./data/products.json?v=' + new Date().toISOString().slice(0, 10));
+        if (localResponse.ok) {
+          const localProducts = await localResponse.json();
+          if (Array.isArray(localProducts) && localProducts.length > 0) {
+            allProducts = localProducts;
+            renderProducts(allProducts);
+            return;
+          }
+        }
+
         const response = await fetch(AD_SHEET_URL);
         if (!response.ok) {
           throw new Error(`광고용 시트 응답 오류: ${response.status}`);
