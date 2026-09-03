@@ -28,7 +28,7 @@
     </div>
   </header>
 
-  <!-- 3. 카테고리 필터 바 (감성 상황 태그 10종) -->
+  <!-- 3. 카테고리 필터 바 -->
   <nav id="categoryNav" class="bg-white px-4 py-2.5 border-b border-slate-200 overflow-x-auto whitespace-nowrap flex gap-2 text-xs font-medium no-scrollbar">
     <button onclick="filterCategory('전체')" class="category-btn px-3 py-1.5 rounded-full bg-slate-900 text-white font-bold">전체보기</button>
     <button onclick="filterCategory('화해할때')" class="category-btn px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">💖 #화해할때</button>
@@ -54,7 +54,7 @@
   <!-- 5. 메인 2열 상품 격자 (Grid) -->
   <main class="max-w-md mx-auto p-3">
     <div id="productGrid" class="grid grid-cols-2 gap-3">
-      <!-- 데이터 자동 생성 영역 -->
+      <!-- JS 데이터 로딩 -->
     </div>
 
     <!-- 중간 아브아르 스폰서 배너 -->
@@ -96,7 +96,14 @@
     let allProducts = [];
 
     async function loadData() {
-      const paths = ['./data/counseling.json', './counseling.json', 'counseling.json'];
+      // 캐시 방지를 위해 타임스탬프 파라미터(?v=시간) 추가 교차 탐색
+      const timestamp = new Date().getTime();
+      const paths = [
+        './data/counseling.json?v=' + timestamp,
+        './counseling.json?v=' + timestamp,
+        'data/counseling.json?v=' + timestamp,
+        'counseling.json?v=' + timestamp
+      ];
       let loaded = false;
 
       for (let path of paths) {
@@ -104,29 +111,21 @@
           let res = await fetch(path);
           if (res.ok) {
             let data = await res.json();
-            // 시스템적 100개 제한 보장
-            allProducts = data.slice(0, 100);
-            renderProducts(allProducts);
-            loaded = true;
-            break;
+            if (Array.isArray(data) && data.length > 0) {
+              allProducts = data;
+              renderProducts(allProducts);
+              loaded = true;
+              console.log('성공적으로 로드된 데이터 개수:', data.length, '경로:', path);
+              break;
+            }
           }
-        } catch(e) {}
+        } catch(e) {
+          console.error('경로 탐색 중 오류 발생:', path, e);
+        }
       }
 
-      if (!loaded || allProducts.length === 0) {
-        allProducts = [
-          {
-            category: "화해할때",
-            psychologyAdvice: "소소한 다툼은 비난보다 도구를 바꾸는 게 훨씬 평화롭습니다.",
-            product: { title: "2080 핑크솔트 펌핑치약", description: "튜브 짜개 싸움 방지 펌핑 치약", coupangUrl: "https://link.coupang.com/a/gJApa05FrU", imageUrl: "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500" }
-          },
-          {
-            category: "싸웠을때",
-            psychologyAdvice: "답장이 늦을 땐 비난보다 서운했던 마음을 부드럽게 전해보세요.",
-            product: { title: "너와 나의 커플 소통 다이어리", description: "서로의 속마음을 알아가는 질문 문답집", coupangUrl: "https://link.coupang.com/a/gJAqET8o8q", imageUrl: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500" }
-          }
-        ];
-        renderProducts(allProducts);
+      if (!loaded) {
+        console.warn('JSON 파일 로드 실패로 기본 샘플 노출');
       }
     }
 
@@ -138,10 +137,7 @@
         return;
       }
 
-      // 화면 출력 시에도 최대 100개로 한정
-      const displayItems = items.slice(0, 100);
-
-      grid.innerHTML = displayItems.map(item => {
+      grid.innerHTML = items.map(item => {
         const title = item.product ? item.product.title : '커플 추천 아이템';
         const desc = item.product ? item.product.description : '관계 개선 필수 아이템';
         const img = (item.product && item.product.imageUrl) ? item.product.imageUrl : 'https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500';
