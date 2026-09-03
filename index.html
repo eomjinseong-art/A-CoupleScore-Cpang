@@ -105,20 +105,36 @@
         }
 
         const rows = parseCsv(await response.text());
+        const headers = rows[0].map(header => header.trim().toLowerCase());
+        const column = (...names) => {
+          const index = names.map(name => headers.indexOf(name)).find(index => index >= 0);
+          return index === undefined ? -1 : index;
+        };
+        const noColumn = column('no') >= 0 ? column('no') : 0;
+        const linkColumn = column('쿠팡 파트너스 링크', '상품 링크') >= 0 ? column('쿠팡 파트너스 링크', '상품 링크') : 1;
+        const categoryColumn = column('상황 태그', '카테고리') >= 0 ? column('상황 태그', '카테고리') : 2;
+        const titleColumn = column('실제 상품명', '상품명') >= 0 ? column('실제 상품명', '상품명') : 3;
+        const priceColumn = column('가격', '판매가');
+        const imageColumn = column('상품 이미지 url', '이미지 url') >= 0 ? column('상품 이미지 url', '이미지 url') : 6;
+        const uniqueLinks = new Set();
         const products = rows.slice(1)
-          .filter(row => row.length >= 7 && row[0].trim())
+          .filter(row => row.length > linkColumn && row[noColumn].trim())
           .map(row => ({
-            id: Number(row[0]),
-            category: row[2].replace(/^#/, '').trim(),
-            psychologyAdvice: row[5].trim(),
+            id: Number(row[noColumn]),
+            category: row[categoryColumn].replace(/^#/, '').trim(),
             product: {
-              title: row[3].trim(),
-              description: row[4].trim(),
-              coupangUrl: row[1].trim(),
-              imageUrl: row[6].trim()
+              title: row[titleColumn].trim(),
+              price: priceColumn >= 0 ? row[priceColumn].trim() : '',
+              coupangUrl: row[linkColumn].trim(),
+              imageUrl: row[imageColumn].trim()
             }
           }))
-          .filter(item => item.product.title && item.product.coupangUrl);
+          .filter(item => {
+            const link = item.product.coupangUrl.replace(/\/+$/, '');
+            if (!item.product.title || !link || uniqueLinks.has(link)) return false;
+            uniqueLinks.add(link);
+            return true;
+          });
 
         if (products.length > 0) {
           allProducts = products;
@@ -208,26 +224,21 @@
 
       grid.innerHTML = items.map(item => {
         const title = item.product ? item.product.title : '커플 추천 아이템';
-        const desc = item.product ? item.product.description : '관계 개선 필수 아이템';
+        const price = item.product && item.product.price ? item.product.price : '';
         const img = (item.product && item.product.imageUrl) ? item.product.imageUrl : 'https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500';
         const url = item.product ? item.product.coupangUrl : 'https://www.coupang.com';
-        const advice = item.psychologyAdvice ? item.psychologyAdvice : '서로의 마음을 부드럽게 표현해보세요.';
         const categoryTag = item.category ? item.category.replace('#', '') : '커플';
 
         return `
           <a href="${url}" target="_blank" class="bg-white rounded-xl border border-slate-200 overflow-hidden shadow-sm flex flex-col justify-between hover:border-rose-400 hover:shadow-md transition">
             <div>
-              <div class="relative">
-                <img src="${img}" alt="상품" class="w-full h-32 object-cover">
+              <div class="relative bg-slate-50">
+                <img src="${img}" alt="${title}" class="w-full h-44 object-contain">
                 <span class="absolute top-2 left-2 bg-black/65 text-white text-[9px] px-2 py-0.5 rounded-md font-bold backdrop-blur-sm">#${categoryTag}</span>
               </div>
               <div class="p-2.5">
-                <h4 class="font-bold text-xs text-slate-800 line-clamp-1">${title}</h4>
-                <p class="text-[10px] text-slate-500 line-clamp-1 mt-0.5">${desc}</p>
-                
-                <div class="mt-2 bg-rose-50 p-1.5 rounded-lg border border-rose-100">
-                  <p class="text-[9px] text-rose-600 font-bold leading-tight line-clamp-2">💡 ${advice}</p>
-                </div>
+                <h4 class="font-bold text-sm text-slate-800 line-clamp-2 min-h-10">${title}</h4>
+                ${price ? `<p class="text-sm text-rose-600 font-bold mt-1">${price}</p>` : ''}
               </div>
             </div>
             <div class="p-2.5 pt-0">

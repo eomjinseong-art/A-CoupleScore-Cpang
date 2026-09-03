@@ -1,0 +1,44 @@
+name: Check Coupang product links
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links
+        id: check
+        run: node .github/scripts/check-coupang-links.mjs
+      - name: Open administrator alert
+        if: failure() && steps.check.outcome == 'failure'
+        uses: actions/github-script@v7
+        env:
+          REPORT: ${{ steps.check.outputs.report }}
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const report = process.env.REPORT || '링크 점검 결과를 확인할 수 없습니다.';
+            const title = `쿠팡 상품 링크 점검 알림 (${new Date().toISOString().slice(0, 10)})`;
+            const existing = await github.paginate(github.rest.issues.listForRepo, {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'link-check'
+            });
+            if (!existing.some(issue => issue.title.startsWith('쿠팡 상품 링크 점검 알림'))) {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body: `광고용 시트의 상품 링크 중 문제가 발견되었습니다.\n\n\`\`\`\n${report}\n\`\`\`\n\n링크를 확인한 뒤 이 이슈를 닫아주세요.`,
+                labels: ['link-check']
+              });
+            }
