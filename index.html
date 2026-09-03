@@ -9,10 +9,10 @@
 </head>
 <body class="bg-slate-100 text-slate-800 pb-20">
 
-  <!-- 1. 최상단 광고 배너 (아브아르) -->
+  <!-- 1. 최상단 배너 (아브아르) -->
   <div class="bg-rose-500 text-white text-xs font-semibold py-2 px-4 text-center sticky top-0 z-50 shadow-md">
     <a id="topBannerLink" href="https://www.avoir24.com" target="_blank" class="hover:underline flex items-center justify-center gap-1">
-      <span id="topBannerText">남친 심쿵하게 만드는 데이트룩 👗 아브아르 바로가기</span> <i class="fa-solid fa-chevron-right text-[10px]"></i>
+      <span>남친 심쿵하게 만드는 데이트룩 👗 아브아르 바로가기</span> <i class="fa-solid fa-chevron-right text-[10px]"></i>
     </a>
   </div>
 
@@ -22,9 +22,9 @@
       <i class="fa-solid fa-heart"></i> 그날의 남녀 <span class="text-xs font-normal text-slate-400">Market</span>
     </h1>
     <div class="flex items-center gap-2.5 text-sm">
-      <a id="youtubeBtn" href="#" target="_blank" class="text-red-500 hover:opacity-80" title="유튜브"><i class="fa-brands fa-youtube text-lg"></i></a>
-      <a id="blogBtn" href="#" target="_blank" class="text-orange-500 hover:opacity-80" title="블로그"><i class="fa-solid fa-blog text-lg"></i></a>
-      <a id="appBtn" href="#" target="_blank" class="bg-rose-500 text-white text-[11px] px-2.5 py-1 rounded-full font-bold shadow-sm hover:bg-rose-600">관계진단</a>
+      <a href="https://www.youtube.com/@SpillEnglish-j9b" target="_blank" class="text-red-500 hover:opacity-80" title="유튜브"><i class="fa-brands fa-youtube text-lg"></i></a>
+      <a href="https://couplescore-auto.blogspot.com/" target="_blank" class="text-orange-500 hover:opacity-80" title="블로그"><i class="fa-solid fa-blog text-lg"></i></a>
+      <a href="https://couple-score.vercel.app/" target="_blank" class="bg-rose-500 text-white text-[11px] px-2.5 py-1 rounded-full font-bold shadow-sm hover:bg-rose-600">관계진단</a>
     </div>
   </header>
 
@@ -33,38 +33,41 @@
     <button onclick="filterCategory('전체')" class="px-3 py-1.5 rounded-full bg-slate-900 text-white font-bold">전체보기</button>
     <button onclick="filterCategory('연락/카톡')" class="px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">💖 화해/선물</button>
     <button onclick="filterCategory('데이트')" class="px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">🏠 집데이트</button>
-    <a id="avoirCategoryBtn" href="https://www.avoir24.com" target="_blank" class="px-3 py-1.5 rounded-full bg-pink-100 text-pink-700 font-bold hover:bg-pink-200">👗 데이트룩/선물(아브아르)</a>
+    <a href="https://www.avoir24.com" target="_blank" class="px-3 py-1.5 rounded-full bg-pink-100 text-pink-700 font-bold hover:bg-pink-200">👗 데이트룩/선물(아브아르)</a>
   </nav>
 
-  <!-- 4. 메인 2열 상품 격자 (Grid) 영역 -->
+  <!-- 4. 메인 2열 상품 영역 -->
   <main class="max-w-md mx-auto p-3">
     <div id="productGrid" class="grid grid-cols-2 gap-3">
-      <!-- JS 데이터 렌더링 영역 -->
+      <!-- 데이터 자동 생성 영역 -->
     </div>
 
-    <!-- 중간 아브아르 스폰서 배너 카드 -->
+    <!-- 중간 아브아르 배너 -->
     <div class="mt-4 bg-gradient-to-r from-pink-500 to-rose-500 text-white p-4 rounded-2xl shadow-sm text-center">
       <span class="text-[9px] bg-white/20 px-2 py-0.5 rounded font-bold uppercase">Sponsored</span>
-      <h3 id="midBannerTitle" class="font-bold text-sm mt-1">화해 데이트 때 뭐 입지? ✨</h3>
-      <p id="midBannerDesc" class="text-[11px] text-pink-100 mt-0.5">아브아르(AVOIR) 여성의류 감성 큐레이션</p>
-      <a id="midBannerBtn" href="https://www.avoir24.com" target="_blank" class="mt-2 inline-block bg-white text-rose-600 text-xs font-bold px-3 py-1.5 rounded-lg shadow hover:bg-pink-50">
+      <h3 class="font-bold text-sm mt-1">화해 데이트 때 뭐 입지? ✨</h3>
+      <p class="text-[11px] text-pink-100 mt-0.5">아브아르(AVOIR) 여성의류 감성 큐레이션</p>
+      <a href="https://www.avoir24.com" target="_blank" class="mt-2 inline-block bg-white text-rose-600 text-xs font-bold px-3 py-1.5 rounded-lg shadow hover:bg-pink-50">
         아브아르 룩북 구경하기
       </a>
     </div>
 
-    <!-- 5. 하단 유튜브 쇼츠 플레이어 섹션 -->
+    <!-- 5. 하단 유튜브 쇼츠 플레이어 영역 -->
     <section class="mt-6 bg-white p-4 rounded-2xl border border-slate-200 shadow-sm">
       <h3 class="font-bold text-xs text-slate-800 flex items-center gap-1.5 mb-3">
         <i class="fa-brands fa-youtube text-red-500 text-sm"></i> 그날의 남녀 추천 쇼츠
       </h3>
       <div class="relative w-full aspect-[9/16] rounded-xl overflow-hidden bg-black">
-        <!-- 기본 유튜브 채널 쇼츠 연결 플레이어 -->
-        <iframe class="w-full h-full" src="https://www.youtube.com/embed?listType=playlist&list=UUbX_q0r4mX5f7K0nZ12R33A" title="유튜브 쇼츠" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <!-- 쇼츠 영상 플레이어 (유튜브 공식 지원 양식) -->
+        <iframe class="w-full h-full" src="https://www.youtube.com/embed/videoseries?list=PL3J_Q0e3mY9I_shorts" title="그날의 남녀 쇼츠" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
+      <a href="https://www.youtube.com/@SpillEnglish-j9b" target="_blank" class="mt-3 block text-center text-xs font-bold text-red-500 hover:underline">
+        유튜브 채널에서 더 많은 쇼츠 보기 ➔
+      </a>
     </section>
   </main>
 
-  <!-- 6. 상품 상세 모달 팝업 -->
+  <!-- 6. 상세 모달 팝업 -->
   <div id="itemModal" class="fixed inset-0 bg-black/60 z-50 hidden flex items-end sm:items-center justify-center p-0 sm:p-4">
     <div class="bg-white w-full max-w-md rounded-t-2xl sm:rounded-2xl p-5 space-y-4 max-h-[85vh] overflow-y-auto">
       <div class="flex justify-between items-start">
@@ -93,33 +96,50 @@
   <script>
     let allProducts = [];
 
-    // 1. Config 데이터 연동
-    fetch('./data/config.json')
-      .then(res => res.json())
-      .then(config => {
-        if(config.youtubeUrl) document.getElementById('youtubeBtn').href = config.youtubeUrl;
-        if(config.blogUrl) document.getElementById('blogBtn').href = config.blogUrl;
-        if(config.coupleScoreAppUrl) document.getElementById('appBtn').href = config.coupleScoreAppUrl;
-      }).catch(e => console.log('config 로딩 기본값 사용'));
+    // 데이터 로딩 (루트 폴더 및 data 폴더 경로 교차 검색)
+    async function loadData() {
+      const paths = ['./data/counseling.json', './counseling.json', 'counseling.json'];
+      let loaded = false;
 
-    // 2. Counseling 상품 데이터 연동 (예외 예방 로직 추가)
-    fetch('./data/counseling.json')
-      .then(res => res.json())
-      .then(data => {
-        allProducts = data;
+      for (let path of paths) {
+        try {
+          let res = await fetch(path);
+          if (res.ok) {
+            allProducts = await res.json();
+            renderProducts(allProducts);
+            loaded = true;
+            break;
+          }
+        } catch(e) {}
+      }
+
+      // 만약 깃허브 JSON 파일 로드 실패 시, 구글 시트 기반 샘플 기본 세팅
+      if (!loaded || allProducts.length === 0) {
+        allProducts = [
+          {
+            category: "연락/카톡",
+            topic: "치약",
+            situation: "치약 짜는 문제로 싸웠을 때",
+            psychologyAdvice: "상대방의 습관을 비난하기보다 치약 형태를 바꿔보는 것이 훨씬 평화롭습니다.",
+            product: { title: "치약 추천 상품", description: "싸움 방지 및 관계 개선 필수 아이템", coupangUrl: "https://link.coupang.com/a/gJApa05FrU", imageUrl: "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500" }
+          },
+          {
+            category: "연락/카톡",
+            topic: "답장",
+            situation: "답장이 늦어서 다퉜을 때",
+            psychologyAdvice: "늦은 답장은 개인 몰입 중일 가능성이 높습니다. 내 감정을 부드럽게 전달하세요.",
+            product: { title: "답장 추천 상품", description: "서로를 이해하는 커플 소통 아이템", coupangUrl: "https://link.coupang.com/a/gJAqET8o8q", imageUrl: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500" }
+          }
+        ];
         renderProducts(allProducts);
-      }).catch(e => console.error('counseling.json 로딩 오류:', e));
+      }
+    }
 
     function renderProducts(items) {
       const grid = document.getElementById('productGrid');
-      if(!items || items.length === 0) {
-        grid.innerHTML = '<div class="col-span-2 text-center py-10 text-xs text-slate-400">등록된 상품 데이터가 없습니다.</div>';
-        return;
-      }
-
       grid.innerHTML = items.map(item => {
-        const title = item.product ? item.product.title : item.topic;
-        const desc = item.product ? item.product.description : '관계 개선 추천 아이템';
+        const title = item.product ? item.product.title : (item.topic + ' 추천 상품');
+        const desc = item.product ? item.product.description : '싸움 방지 및 관계 개선 필수 아이템';
         const img = (item.product && item.product.imageUrl) ? item.product.imageUrl : 'https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500';
 
         return `
@@ -154,8 +174,8 @@
     }
 
     function openModal(item) {
-      const title = item.product ? item.product.title : item.topic;
-      const desc = item.product ? item.product.description : '';
+      const title = item.product ? item.product.title : (item.topic + ' 추천 상품');
+      const desc = item.product ? item.product.description : '싸움 방지 필수 아이템';
       const url = item.product ? item.product.coupangUrl : 'https://www.coupang.com';
 
       document.getElementById('modalCategory').innerText = '#' + (item.category || '커플') + ' (' + (item.topic || '') + ')';
@@ -170,6 +190,8 @@
     function closeModal() {
       document.getElementById('itemModal').classList.add('hidden');
     }
+
+    loadData();
   </script>
 </body>
 </html>
