@@ -1,0 +1,18 @@
+{
+  "siteTitle": "그날의 남녀 - 커플 심리 상담 & 솔루션",
+  "coupleScoreAppUrl": "https://couple-score.vercel.app/",
+  "youtubeUrl": "https://www.youtube.com/@SpillEnglish-j9b",
+  "blogUrl": "https://couplescore-auto.blogspot.com/",
+  "ads": {
+    "topBanner": {
+      "text": "남친 심쿵하게 만드는 데이트룩 👗 아브아르 바로가기",
+      "linkUrl": "https://www.avoir24.com"
+    },
+    "middleBanner": {
+      "title": "화해 데이트 때 뭐 입지? ✨",
+      "description": "감성적인 커플 데이트룩을 완성하는 아브아르(AVOIR) 신상 컬렉션",
+      "linkUrl": "https://www.avoir24.com",
+      "buttonText": "아브아르 룩북 보러가기"
+    }
+  }
+}

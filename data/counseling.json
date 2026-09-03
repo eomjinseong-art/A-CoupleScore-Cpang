@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "category": "연락/카톡",
+    "topic": "답장 지연",
+    "situation": "답장이 늦어서 싸웠을 때",
+    "psychologyAdvice": "상대방의 늦은 답장은 관심이 식어서가 아니라 개인의 작업이나 독서에 몰입 중일 가능성이 높아요. 서운함을 비난하기보다 표현 방식을 살짝 바꿔보세요.",
+    "product": {
+      "title": "2080 히말라야 핑크솔트 펌핑치약 세트",
+      "description": "소소한 다툼 방지! 튜브 짜는 문제로 싸우지 않는 깔끔한 펌핑형 치약",
+      "coupangUrl": "https://www.coupang.com",
+      "imageUrl": "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500"
+    }
+  },
+  {
+    "id": 2,
+    "category": "데이트",
+    "topic": "집데이트",
+    "situation": "집에만 있어서 답답하고 다툴 때",
+    "psychologyAdvice": "익숙한 공간이 주는 지루함이 다툼의 원인이 될 수 있습니다. 익숙한 방 안에서도 조명과 음악만 바꾸면 완벽한 데이트 장소가 됩니다.",
+    "product": {
+      "title": "오로라 무드등 은하수 조명",
+      "description": "집데이트 분위기를 반전시켜 줄 로맨틱 감성 오로라 무드등",
+      "coupangUrl": "https://www.coupang.com",
+      "imageUrl": "https://images.unsplash.com/photo-1507499739999-097706ad8914?w=500"
+    }
+  }
+]
