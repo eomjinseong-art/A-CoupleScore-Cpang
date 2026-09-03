@@ -16,7 +16,7 @@
     </a>
   </div>
 
-  <!-- 2. 헤더 (상단 오른쪽 유튜브, 블로그, 관계진단) -->
+  <!-- 2. 헤더 -->
   <header class="bg-white border-b border-slate-200 px-4 py-3 flex items-center justify-between sticky top-[32px] z-40 shadow-sm">
     <h1 class="font-bold text-lg text-rose-600 flex items-center gap-1.5">
       <i class="fa-solid fa-heart"></i> 그날의 남녀 <span class="text-xs font-normal text-slate-400">Market</span>
@@ -53,7 +53,7 @@
     </div>
   </main>
 
-  <!-- 5. 하단 고정 바로가기 메뉴 바 (4개 버튼 직렬 나열) -->
+  <!-- 5. 하단 고정 바로가기 메뉴 바 -->
   <footer class="fixed bottom-0 left-0 right-0 bg-white border-t border-slate-200 py-2 px-2 z-40 shadow-[0_-2px_10px_rgba(0,0,0,0.05)]">
     <div class="max-w-md mx-auto grid grid-cols-4 gap-1.5 text-center">
       <a href="https://www.youtube.com/@SpillEnglish-j9b" target="_blank" class="flex flex-col items-center justify-center py-1.5 bg-red-50 text-red-600 rounded-xl hover:bg-red-100 transition">
@@ -65,7 +65,9 @@
         <span class="text-[10px] font-bold">블로그</span>
       </a>
       <a href="https://www.threads.net/@couplescroe" target="_blank" class="flex flex-col items-center justify-center py-1.5 bg-slate-100 text-slate-800 rounded-xl hover:bg-slate-200 transition">
-        <i class="fa-brands fa-threads text-base mb-0.5"></i>
+        <svg class="w-4 h-4 mb-0.5 fill-current" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+          <path d="M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.005 96.28 44.005C69.9439 44.005 50.5851 63.8016 50.5851 96.0825C50.5851 128.363 69.9439 148.16 96.28 148.16C117.84 148.16 132.899 135.539 137.524 116.326H119.57C115.918 126.177 107.039 131.85 96.28 131.85C80.2016 131.85 68.3297 117.801 68.3297 96.0825C68.3297 74.3643 80.2016 60.315 96.28 60.315C112.358 60.315 120.73 71.4938 121.758 90.738C113.882 89.288 105.15 89.5147 96.28 91.5999C79.8051 95.4851 68.6189 104.996 68.6189 119.231C68.6189 131.944 78.7891 140.354 92.5186 140.354C108.629 140.354 119.141 129.431 121.284 114.39C124.975 117.476 129.351 119.782 134.195 121.054C131.137 139.117 116.162 153.308 96.28 153.308C66.8378 153.308 43.149 129.278 43.149 96.0825C43.149 62.8872 66.8378 38.8572 96.28 38.8572C125.722 38.8572 145.249 58.7497 145.249 96.0825C145.249 104.281 144.159 111.83 142.148 118.665H160.292C162.247 111.583 163.28 104.032 163.28 96.0825C163.28 50.8437 137.28 22 96.28 22C55.28 22 29.28 50.8437 29.28 96.0825C29.28 141.321 55.28 170.165 96.28 170.165C122.951 170.165 145.385 152.122 152.333 126.861C154.551 118.791 155.602 110.155 155.602 101.127C155.602 96.9535 150.866 93.5855 141.537 88.9883ZM94.394 125.071C86.7214 125.071 81.6508 120.89 81.6508 113.805C81.6508 105.748 88.7997 100.279 100.082 97.6256C105.719 96.2996 111.458 95.8239 116.899 96.241C115.86 114.072 107.039 125.071 94.394 125.071Z"/>
+        </svg>
         <span class="text-[10px] font-bold">스레드</span>
       </a>
       <a href="https://couple-score.vercel.app/" target="_blank" class="flex flex-col items-center justify-center py-1.5 bg-rose-50 text-rose-600 rounded-xl hover:bg-rose-100 transition">
@@ -74,32 +76,6 @@
       </a>
     </div>
   </footer>
-
-  <!-- 6. 상세 모달 팝업 -->
-  <div id="itemModal" class="fixed inset-0 bg-black/60 z-50 hidden flex items-end sm:items-center justify-center p-0 sm:p-4">
-    <div class="bg-white w-full max-w-md rounded-t-2xl sm:rounded-2xl p-5 space-y-4 max-h-[85vh] overflow-y-auto">
-      <div class="flex justify-between items-start">
-        <span id="modalCategory" class="text-xs bg-rose-50 text-rose-600 font-bold px-2 py-0.5 rounded-full">#카테고리</span>
-        <button onclick="closeModal()" class="text-slate-400 text-lg hover:text-slate-600"><i class="fa-solid fa-xmark"></i></button>
-      </div>
-      
-      <div class="bg-slate-100 rounded-xl p-4 text-center">
-        <p id="modalTitle" class="font-bold text-sm text-slate-900">상품 제목</p>
-        <p id="modalDesc" class="text-xs text-slate-500 mt-1">상품 설명</p>
-      </div>
-
-      <div class="bg-rose-50/70 p-3 rounded-xl border border-rose-100">
-        <p class="font-bold text-xs text-rose-600 mb-1">💡 그날의 남녀 심리 팁</p>
-        <p id="modalAdvice" class="text-xs text-slate-600 leading-relaxed">심리 코칭 내용</p>
-      </div>
-
-      <div class="pt-2 flex gap-2">
-        <a id="modalCoupangBtn" href="#" target="_blank" class="flex-1 bg-rose-500 text-white text-center text-xs font-bold py-3 rounded-xl shadow-md hover:bg-rose-600">
-          쿠팡에서 최저가로 보기 <i class="fa-solid fa-arrow-right text-[10px]"></i>
-        </a>
-      </div>
-    </div>
-  </div>
 
   <script>
     let allProducts = [];
@@ -147,9 +123,11 @@
         const title = item.product ? item.product.title : (item.topic + ' 추천 상품');
         const desc = item.product ? item.product.description : '싸움 방지 및 관계 개선 필수 아이템';
         const img = (item.product && item.product.imageUrl) ? item.product.imageUrl : 'https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500';
+        const url = item.product ? item.product.coupangUrl : 'https://www.coupang.com';
+        const advice = item.psychologyAdvice ? item.psychologyAdvice : '서로의 마음을 부드럽게 표현해보세요.';
 
         return `
-          <div onclick='openModal(${JSON.stringify(item).replace(/'/g, "&apos;")})' class="bg-white rounded-xl border border-slate-200 overflow-hidden shadow-sm flex flex-col justify-between cursor-pointer hover:border-rose-300 transition">
+          <a href="${url}" target="_blank" class="bg-white rounded-xl border border-slate-200 overflow-hidden shadow-sm flex flex-col justify-between hover:border-rose-400 hover:shadow-md transition">
             <div>
               <div class="relative">
                 <img src="${img}" alt="상품" class="w-full h-32 object-cover">
@@ -158,14 +136,19 @@
               <div class="p-2.5">
                 <h4 class="font-bold text-xs text-slate-800 line-clamp-1">${title}</h4>
                 <p class="text-[10px] text-slate-500 line-clamp-1 mt-0.5">${desc}</p>
+                
+                <!-- 카드 내부에 가볍게 녹여낸 심리 팁 -->
+                <div class="mt-2 bg-rose-50 p-1.5 rounded-lg border border-rose-100">
+                  <p class="text-[9px] text-rose-600 font-bold leading-tight line-clamp-2">💡 ${advice}</p>
+                </div>
               </div>
             </div>
             <div class="p-2.5 pt-0">
-              <button class="w-full bg-rose-50 text-rose-600 text-[10px] font-bold py-1.5 rounded-lg text-center hover:bg-rose-100">
-                솔루션 보기
-              </button>
+              <div class="w-full bg-rose-500 text-white text-[10px] font-bold py-2 rounded-lg text-center shadow-sm hover:bg-rose-600 flex items-center justify-center gap-1">
+                <span>쿠팡에서 보기</span> <i class="fa-solid fa-arrow-right text-[8px]"></i>
+              </div>
             </div>
-          </div>
+          </a>
         `;
       }).join('');
     }
@@ -177,24 +160,6 @@
         const filtered = allProducts.filter(item => item.category === cat);
         renderProducts(filtered);
       }
-    }
-
-    function openModal(item) {
-      const title = item.product ? item.product.title : (item.topic + ' 추천 상품');
-      const desc = item.product ? item.product.description : '싸움 방지 필수 아이템';
-      const url = item.product ? item.product.coupangUrl : 'https://www.coupang.com';
-
-      document.getElementById('modalCategory').innerText = '#' + (item.category || '커플') + ' (' + (item.topic || '') + ')';
-      document.getElementById('modalTitle').innerText = title;
-      document.getElementById('modalDesc').innerText = desc;
-      document.getElementById('modalAdvice').innerText = item.psychologyAdvice || '상대방의 입장에서 한 번 더 생각해보세요.';
-      document.getElementById('modalCoupangBtn').href = url;
-      
-      document.getElementById('itemModal').classList.remove('hidden');
-    }
-
-    function closeModal() {
-      document.getElementById('itemModal').classList.add('hidden');
     }
 
     loadData();
