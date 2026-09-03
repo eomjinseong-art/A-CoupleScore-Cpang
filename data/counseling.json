@@ -1,1102 +1,1102 @@
 [
   {
     "id": 1,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "화해할때",
+    "psychologyAdvice": "소소한 갈등은 비난보다 작고 부드러운 관심 표현으로 해결할 수 있습니다.",
     "product": {
-      "title": "치약",
-      "description": "치약 상황일 때",
-      "coupangUrl": "치약 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "화해 유도 감성 추천 아이템",
+      "description": "서운한 마음을 녹여주고 따뜻한 화해를 돕는 필수 템",
+      "coupangUrl": "https:
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 2,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "싸웠을때",
+    "psychologyAdvice": "상대방의 행동을 지적하기보다 내 서운한 감정을 먼저 나긋하게 말해보세요.",
     "product": {
-      "title": "답장",
-      "description": "답장 상황일 때",
-      "coupangUrl": "답장 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "갈등 완화 커플 솔루션 템",
+      "description": "다툰 후 서로의 경계심을 허물어주는 평화 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJCHM4Dcqa",
+      "imageUrl": "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500"
     }
   },
   {
     "id": 3,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "집데이트",
+    "psychologyAdvice": "익숙한 공간이라도 작은 조명과 분위기만 바꿔주면 완벽한 데이트 장소가 됩니다.",
     "product": {
-      "title": "저녁메뉴",
-      "description": "저녁메뉴 상황일 때",
-      "coupangUrl": "저녁메뉴 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "집데이트 분위기 반전 아이템",
+      "description": "익숙하고 지루한 방 안을 로맨틱하게 연출하는 무드 템",
+      "coupangUrl": "https://link.coupang.com/a/gJCIzgsVzg",
+      "imageUrl": "https://images.unsplash.com/photo-1507499739999-097706ad8914?w=500"
     }
   },
   {
     "id": 4,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "커플문답",
+    "psychologyAdvice": "억지로 대화를 강요하기보다 문답집을 통해 서로의 깊은 생각에 귀 기울여보세요.",
     "product": {
-      "title": "패션",
-      "description": "패션 상황일 때",
-      "coupangUrl": "패션 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "너와 나의 속마음 커플북",
+      "description": "평소 말하기 어려웠던 진심을 자연스럽게 공유하는 질문집",
+      "coupangUrl": "https://link.coupang.com/a/gJCJetqnlY",
+      "imageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=500"
     }
   },
   {
     "id": 5,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "기념일",
+    "psychologyAdvice": "기념일 선물은 가격보다 그 안에 담긴 서로에 대한 배려와 마음이 더 중요합니다.",
     "product": {
-      "title": "약속 지연",
-      "description": "약속 지연 상황일 때",
-      "coupangUrl": "약속 지연 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "특별한 날 로맨틱 커플 선물",
+      "description": "소중한 날 서로에게 잊지 못할 추억을 선사하는 맞춤 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJCJQLV0KG",
+      "imageUrl": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=500"
     }
   },
   {
     "id": 6,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "서운할때",
+    "psychologyAdvice": "서운함은 쌓아두면 오해가 됩니다. 작은 행동 변화를 유도하는 도구를 써보세요.",
     "product": {
-      "title": "사진구도",
-      "description": "사진구도 상황일 때",
-      "coupangUrl": "사진구도 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "마음을 부드럽게 전하는 소통 템",
+      "description": "말 못 할 서운함을 부드럽고 위트 있게 전달하는 도구",
+      "coupangUrl": "https://link.coupang.com/a/gJCKvYppWC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 7,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "화해할때",
+    "psychologyAdvice": "소소한 갈등은 비난보다 작고 부드러운 관심 표현으로 해결할 수 있습니다.",
     "product": {
-      "title": "의심",
-      "description": "의심 상황일 때",
-      "coupangUrl": "의심 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "화해 유도 감성 추천 아이템",
+      "description": "서운한 마음을 녹여주고 따뜻한 화해를 돕는 필수 템",
+      "coupangUrl": "https://link.coupang.com/a/gJCLerKbUO",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 8,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "싸웠을때",
+    "psychologyAdvice": "상대방의 행동을 지적하기보다 내 서운한 감정을 먼저 나긋하게 말해보세요.",
     "product": {
-      "title": "게임",
-      "description": "게임 상황일 때",
-      "coupangUrl": "게임 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "갈등 완화 커플 솔루션 템",
+      "description": "다툰 후 서로의 경계심을 허물어주는 평화 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJCLLvzGQS",
+      "imageUrl": "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500"
     }
   },
   {
     "id": 9,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "집데이트",
+    "psychologyAdvice": "익숙한 공간이라도 작은 조명과 분위기만 바꿔주면 완벽한 데이트 장소가 됩니다.",
     "product": {
-      "title": "유통기한",
-      "description": "유통기한 상황일 때",
-      "coupangUrl": "유통기한 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "집데이트 분위기 반전 아이템",
+      "description": "익숙하고 지루한 방 안을 로맨틱하게 연출하는 무드 템",
+      "coupangUrl": "https://link.coupang.com/a/gJCMqqODrU",
+      "imageUrl": "https://images.unsplash.com/photo-1507499739999-097706ad8914?w=500"
     }
   },
   {
     "id": 10,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "커플문답",
+    "psychologyAdvice": "억지로 대화를 강요하기보다 문답집을 통해 서로의 깊은 생각에 귀 기울여보세요.",
     "product": {
-      "title": "늦잠",
-      "description": "늦잠 상황일 때",
-      "coupangUrl": "늦잠 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "너와 나의 속마음 커플북",
+      "description": "평소 말하기 어려웠던 진심을 자연스럽게 공유하는 질문집",
+      "coupangUrl": "https://link.coupang.com/a/gJCMYWugnI",
+      "imageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=500"
     }
   },
   {
     "id": 11,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "기념일",
+    "psychologyAdvice": "기념일 선물은 가격보다 그 안에 담긴 서로에 대한 배려와 마음이 더 중요합니다.",
     "product": {
-      "title": "리뷰",
-      "description": "리뷰 상황일 때",
-      "coupangUrl": "리뷰 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "특별한 날 로맨틱 커플 선물",
+      "description": "소중한 날 서로에게 잊지 못할 추억을 선사하는 맞춤 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJCNz5jqyi",
+      "imageUrl": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=500"
     }
   },
   {
     "id": 12,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "서운할때",
+    "psychologyAdvice": "서운함은 쌓아두면 오해가 됩니다. 작은 행동 변화를 유도하는 도구를 써보세요.",
     "product": {
-      "title": "자리",
-      "description": "자리 상황일 때",
-      "coupangUrl": "자리 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "마음을 부드럽게 전하는 소통 템",
+      "description": "말 못 할 서운함을 부드럽고 위트 있게 전달하는 도구",
+      "coupangUrl": "https://link.coupang.com/a/gJCN9JKkxw",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 13,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "화해할때",
+    "psychologyAdvice": "소소한 갈등은 비난보다 작고 부드러운 관심 표현으로 해결할 수 있습니다.",
     "product": {
-      "title": "리모컨",
-      "description": "리모컨 상황일 때",
-      "coupangUrl": "리모컨 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "화해 유도 감성 추천 아이템",
+      "description": "서운한 마음을 녹여주고 따뜻한 화해를 돕는 필수 템",
+      "coupangUrl": "https://link.coupang.com/a/gJCOGuVnem",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 14,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "싸웠을때",
+    "psychologyAdvice": "상대방의 행동을 지적하기보다 내 서운한 감정을 먼저 나긋하게 말해보세요.",
     "product": {
-      "title": "길찾기",
-      "description": "길찾기 상황일 때",
-      "coupangUrl": "길찾기 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "갈등 완화 커플 솔루션 템",
+      "description": "다툰 후 서로의 경계심을 허물어주는 평화 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJCPfgdBSe",
+      "imageUrl": "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500"
     }
   },
   {
     "id": 15,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "집데이트",
+    "psychologyAdvice": "익숙한 공간이라도 작은 조명과 분위기만 바꿔주면 완벽한 데이트 장소가 됩니다.",
     "product": {
-      "title": "생일선물",
-      "description": "생일선물 상황일 때",
-      "coupangUrl": "생일선물 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "집데이트 분위기 반전 아이템",
+      "description": "익숙하고 지루한 방 안을 로맨틱하게 연출하는 무드 템",
+      "coupangUrl": "https://link.coupang.com/a/gJCPMmg0PY",
+      "imageUrl": "https://images.unsplash.com/photo-1507499739999-097706ad8914?w=500"
     }
   },
   {
     "id": 16,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "커플문답",
+    "psychologyAdvice": "억지로 대화를 강요하기보다 문답집을 통해 서로의 깊은 생각에 귀 기울여보세요.",
     "product": {
-      "title": "새벽 통화",
-      "description": "새벽 통화 상황일 때",
-      "coupangUrl": "새벽 통화 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "너와 나의 속마음 커플북",
+      "description": "평소 말하기 어려웠던 진심을 자연스럽게 공유하는 질문집",
+      "coupangUrl": "https://link.coupang.com/a/gJCQj2YS2m",
+      "imageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=500"
     }
   },
   {
     "id": 17,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "기념일",
+    "psychologyAdvice": "기념일 선물은 가격보다 그 안에 담긴 서로에 대한 배려와 마음이 더 중요합니다.",
     "product": {
-      "title": "김치찌개",
-      "description": "김치찌개 상황일 때",
-      "coupangUrl": "김치찌개 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "특별한 날 로맨틱 커플 선물",
+      "description": "소중한 날 서로에게 잊지 못할 추억을 선사하는 맞춤 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJCQRqqdIy",
+      "imageUrl": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=500"
     }
   },
   {
     "id": 18,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "서운할때",
+    "psychologyAdvice": "서운함은 쌓아두면 오해가 됩니다. 작은 행동 변화를 유도하는 도구를 써보세요.",
     "product": {
-      "title": "정산",
-      "description": "정산 상황일 때",
-      "coupangUrl": "정산 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "마음을 부드럽게 전하는 소통 템",
+      "description": "말 못 할 서운함을 부드럽고 위트 있게 전달하는 도구",
+      "coupangUrl": "https://link.coupang.com/a/gJCRzbTSLs",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 19,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "화해할때",
+    "psychologyAdvice": "소소한 갈등은 비난보다 작고 부드러운 관심 표현으로 해결할 수 있습니다.",
     "product": {
-      "title": "헤어스타일",
-      "description": "헤어스타일 상황일 때",
-      "coupangUrl": "헤어스타일 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "화해 유도 감성 추천 아이템",
+      "description": "서운한 마음을 녹여주고 따뜻한 화해를 돕는 필수 템",
+      "coupangUrl": "https://link.coupang.com/a/gJCSa5MTXo",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 20,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "싸웠을때",
+    "psychologyAdvice": "상대방의 행동을 지적하기보다 내 서운한 감정을 먼저 나긋하게 말해보세요.",
     "product": {
-      "title": "선물불균형",
-      "description": "선물불균형 상황일 때",
-      "coupangUrl": "선물불균형 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "갈등 완화 커플 솔루션 템",
+      "description": "다툰 후 서로의 경계심을 허물어주는 평화 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJCSMb8PCK",
+      "imageUrl": "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500"
     }
   },
   {
     "id": 21,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "집데이트",
+    "psychologyAdvice": "익숙한 공간이라도 작은 조명과 분위기만 바꿔주면 완벽한 데이트 장소가 됩니다.",
     "product": {
-      "title": "커플사진",
-      "description": "커플사진 상황일 때",
-      "coupangUrl": "커플사진 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "집데이트 분위기 반전 아이템",
+      "description": "익숙하고 지루한 방 안을 로맨틱하게 연출하는 무드 템",
+      "coupangUrl": "https://link.coupang.com/a/gJCTiDrhEy",
+      "imageUrl": "https://images.unsplash.com/photo-1507499739999-097706ad8914?w=500"
     }
   },
   {
     "id": 22,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "커플문답",
+    "psychologyAdvice": "억지로 대화를 강요하기보다 문답집을 통해 서로의 깊은 생각에 귀 기울여보세요.",
     "product": {
-      "title": "전연인 취향",
-      "description": "전연인 취향 상황일 때",
-      "coupangUrl": "전연인 취향 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "너와 나의 속마음 커플북",
+      "description": "평소 말하기 어려웠던 진심을 자연스럽게 공유하는 질문집",
+      "coupangUrl": "https://link.coupang.com/a/gJCT1v21K0",
+      "imageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=500"
     }
   },
   {
     "id": 23,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "기념일",
+    "psychologyAdvice": "기념일 선물은 가격보다 그 안에 담긴 서로에 대한 배려와 마음이 더 중요합니다.",
     "product": {
-      "title": "이성 친구",
-      "description": "이성 친구 상황일 때",
-      "coupangUrl": "이성 친구 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "특별한 날 로맨틱 커플 선물",
+      "description": "소중한 날 서로에게 잊지 못할 추억을 선사하는 맞춤 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJCUAClz1E",
+      "imageUrl": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=500"
     }
   },
   {
     "id": 24,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "서운할때",
+    "psychologyAdvice": "서운함은 쌓아두면 오해가 됩니다. 작은 행동 변화를 유도하는 도구를 써보세요.",
     "product": {
-      "title": "답장",
-      "description": "답장 상황일 때",
-      "coupangUrl": "답장 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "마음을 부드럽게 전하는 소통 템",
+      "description": "말 못 할 서운함을 부드럽고 위트 있게 전달하는 도구",
+      "coupangUrl": "https://link.coupang.com/a/gJCVuOITkW",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 25,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "화해할때",
+    "psychologyAdvice": "소소한 갈등은 비난보다 작고 부드러운 관심 표현으로 해결할 수 있습니다.",
     "product": {
-      "title": "어깨동무",
-      "description": "어깨동무 상황일 때",
-      "coupangUrl": "어깨동무 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "화해 유도 감성 추천 아이템",
+      "description": "서운한 마음을 녹여주고 따뜻한 화해를 돕는 필수 템",
+      "coupangUrl": "https://link.coupang.com/a/gJCV6kad08",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 26,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "싸웠을때",
+    "psychologyAdvice": "상대방의 행동을 지적하기보다 내 서운한 감정을 먼저 나긋하게 말해보세요.",
     "product": {
-      "title": "다이어트",
-      "description": "다이어트 상황일 때",
-      "coupangUrl": "다이어트 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "갈등 완화 커플 솔루션 템",
+      "description": "다툰 후 서로의 경계심을 허물어주는 평화 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJCWZBYcMe",
+      "imageUrl": "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500"
     }
   },
   {
     "id": 27,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "집데이트",
+    "psychologyAdvice": "익숙한 공간이라도 작은 조명과 분위기만 바꿔주면 완벽한 데이트 장소가 됩니다.",
     "product": {
-      "title": "질투 테스트",
-      "description": "질투 테스트 상황일 때",
-      "coupangUrl": "질투 테스트 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "집데이트 분위기 반전 아이템",
+      "description": "익숙하고 지루한 방 안을 로맨틱하게 연출하는 무드 템",
+      "coupangUrl": "https://link.coupang.com/a/gJCXTUE5Js",
+      "imageUrl": "https://images.unsplash.com/photo-1507499739999-097706ad8914?w=500"
     }
   },
   {
     "id": 28,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "커플문답",
+    "psychologyAdvice": "억지로 대화를 강요하기보다 문답집을 통해 서로의 깊은 생각에 귀 기울여보세요.",
     "product": {
-      "title": "200일",
-      "description": "200일 상황일 때",
-      "coupangUrl": "200일 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "너와 나의 속마음 커플북",
+      "description": "평소 말하기 어려웠던 진심을 자연스럽게 공유하는 질문집",
+      "coupangUrl": "https://link.coupang.com/a/gJCYWKRUXc",
+      "imageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=500"
     }
   },
   {
     "id": 29,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "기념일",
+    "psychologyAdvice": "기념일 선물은 가격보다 그 안에 담긴 서로에 대한 배려와 마음이 더 중요합니다.",
     "product": {
-      "title": "질투",
-      "description": "질투 상황일 때",
-      "coupangUrl": "질투 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "특별한 날 로맨틱 커플 선물",
+      "description": "소중한 날 서로에게 잊지 못할 추억을 선사하는 맞춤 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJC2DrTrUq",
+      "imageUrl": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=500"
     }
   },
   {
     "id": 30,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "서운할때",
+    "psychologyAdvice": "서운함은 쌓아두면 오해가 됩니다. 작은 행동 변화를 유도하는 도구를 써보세요.",
     "product": {
-      "title": "데이트 비용",
-      "description": "데이트 비용 상황일 때",
-      "coupangUrl": "데이트 비용 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "마음을 부드럽게 전하는 소통 템",
+      "description": "말 못 할 서운함을 부드럽고 위트 있게 전달하는 도구",
+      "coupangUrl": "https://link.coupang.com/a/gJC3Vak0JM",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 31,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "화해할때",
+    "psychologyAdvice": "소소한 갈등은 비난보다 작고 부드러운 관심 표현으로 해결할 수 있습니다.",
     "product": {
-      "title": "영화 취향",
-      "description": "영화 취향 상황일 때",
-      "coupangUrl": "영화 취향 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "화해 유도 감성 추천 아이템",
+      "description": "서운한 마음을 녹여주고 따뜻한 화해를 돕는 필수 템",
+      "coupangUrl": "https://link.coupang.com/a/gJC1w2yqNU",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 32,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "싸웠을때",
+    "psychologyAdvice": "상대방의 행동을 지적하기보다 내 서운한 감정을 먼저 나긋하게 말해보세요.",
     "product": {
-      "title": "결혼",
-      "description": "결혼 상황일 때",
-      "coupangUrl": "결혼 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "갈등 완화 커플 솔루션 템",
+      "description": "다툰 후 서로의 경계심을 허물어주는 평화 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJC42yoQy4",
+      "imageUrl": "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500"
     }
   },
   {
     "id": 33,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "집데이트",
+    "psychologyAdvice": "익숙한 공간이라도 작은 조명과 분위기만 바꿔주면 완벽한 데이트 장소가 됩니다.",
     "product": {
-      "title": "우정 vs 연애",
-      "description": "우정 vs 연애 상황일 때",
-      "coupangUrl": "우정 vs 연애 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "집데이트 분위기 반전 아이템",
+      "description": "익숙하고 지루한 방 안을 로맨틱하게 연출하는 무드 템",
+      "coupangUrl": "https://link.coupang.com/a/gJC5MMi6sC",
+      "imageUrl": "https://images.unsplash.com/photo-1507499739999-097706ad8914?w=500"
     }
   },
   {
     "id": 34,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "커플문답",
+    "psychologyAdvice": "억지로 대화를 강요하기보다 문답집을 통해 서로의 깊은 생각에 귀 기울여보세요.",
     "product": {
-      "title": "탈의실 기다림",
-      "description": "탈의실 기다림 상황일 때",
-      "coupangUrl": "탈의실 기다림 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "너와 나의 속마음 커플북",
+      "description": "평소 말하기 어려웠던 진심을 자연스럽게 공유하는 질문집",
+      "coupangUrl": "https://link.coupang.com/a/gJC6lzR780",
+      "imageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=500"
     }
   },
   {
     "id": 35,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "기념일",
+    "psychologyAdvice": "기념일 선물은 가격보다 그 안에 담긴 서로에 대한 배려와 마음이 더 중요합니다.",
     "product": {
-      "title": "인스타 하트",
-      "description": "인스타 하트 상황일 때",
-      "coupangUrl": "인스타 하트 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "특별한 날 로맨틱 커플 선물",
+      "description": "소중한 날 서로에게 잊지 못할 추억을 선사하는 맞춤 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJC6ZNXnpJ",
+      "imageUrl": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=500"
     }
   },
   {
     "id": 36,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "서운할때",
+    "psychologyAdvice": "서운함은 쌓아두면 오해가 됩니다. 작은 행동 변화를 유도하는 도구를 써보세요.",
     "product": {
-      "title": "애교",
-      "description": "애교 상황일 때",
-      "coupangUrl": "애교 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "마음을 부드럽게 전하는 소통 템",
+      "description": "말 못 할 서운함을 부드럽고 위트 있게 전달하는 도구",
+      "coupangUrl": "https://link.coupang.com/a/gJC7ZE1fIy",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 37,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "화해할때",
+    "psychologyAdvice": "소소한 갈등은 비난보다 작고 부드러운 관심 표현으로 해결할 수 있습니다.",
     "product": {
-      "title": "떡볶이",
-      "description": "떡볶이 상황일 때",
-      "coupangUrl": "떡볶이 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "화해 유도 감성 추천 아이템",
+      "description": "서운한 마음을 녹여주고 따뜻한 화해를 돕는 필수 템",
+      "coupangUrl": "https://link.coupang.com/a/gJC8FWLAJM",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 38,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "싸웠을때",
+    "psychologyAdvice": "상대방의 행동을 지적하기보다 내 서운한 감정을 먼저 나긋하게 말해보세요.",
     "product": {
-      "title": "사과",
-      "description": "사과 상황일 때",
-      "coupangUrl": "사과 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "갈등 완화 커플 솔루션 템",
+      "description": "다툰 후 서로의 경계심을 허물어주는 평화 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJC9lKf8Ds",
+      "imageUrl": "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500"
     }
   },
   {
     "id": 39,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "집데이트",
+    "psychologyAdvice": "익숙한 공간이라도 작은 조명과 분위기만 바꿔주면 완벽한 데이트 장소가 됩니다.",
     "product": {
-      "title": "데이트 지각",
-      "description": "데이트 지각 상황일 때",
-      "coupangUrl": "데이트 지각 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "집데이트 분위기 반전 아이템",
+      "description": "익숙하고 지루한 방 안을 로맨틱하게 연출하는 무드 템",
+      "coupangUrl": "https://link.coupang.com/a/gJC9YXPevs",
+      "imageUrl": "https://images.unsplash.com/photo-1507499739999-097706ad8914?w=500"
     }
   },
   {
     "id": 40,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "커플문답",
+    "psychologyAdvice": "억지로 대화를 강요하기보다 문답집을 통해 서로의 깊은 생각에 귀 기울여보세요.",
     "product": {
-      "title": "운전다툼",
-      "description": "운전다툼 상황일 때",
-      "coupangUrl": "운전다툼 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "너와 나의 속마음 커플북",
+      "description": "평소 말하기 어려웠던 진심을 자연스럽게 공유하는 질문집",
+      "coupangUrl": "https://link.coupang.com/a/gJDazomiPs",
+      "imageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=500"
     }
   },
   {
     "id": 41,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "기념일",
+    "psychologyAdvice": "기념일 선물은 가격보다 그 안에 담긴 서로에 대한 배려와 마음이 더 중요합니다.",
     "product": {
-      "title": "입맛 차이",
-      "description": "입맛 차이 상황일 때",
-      "coupangUrl": "입맛 차이 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "특별한 날 로맨틱 커플 선물",
+      "description": "소중한 날 서로에게 잊지 못할 추억을 선사하는 맞춤 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJDblObw04",
+      "imageUrl": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=500"
     }
   },
   {
     "id": 42,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "서운할때",
+    "psychologyAdvice": "서운함은 쌓아두면 오해가 됩니다. 작은 행동 변화를 유도하는 도구를 써보세요.",
     "product": {
-      "title": "집안일",
-      "description": "집안일 상황일 때",
-      "coupangUrl": "집안일 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "마음을 부드럽게 전하는 소통 템",
+      "description": "말 못 할 서운함을 부드럽고 위트 있게 전달하는 도구",
+      "coupangUrl": "https://link.coupang.com/a/gJDb3rAnJY",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 43,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "화해할때",
+    "psychologyAdvice": "소소한 갈등은 비난보다 작고 부드러운 관심 표현으로 해결할 수 있습니다.",
     "product": {
-      "title": "자리 양보",
-      "description": "자리 양보 상황일 때",
-      "coupangUrl": "자리 양보 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "화해 유도 감성 추천 아이템",
+      "description": "서운한 마음을 녹여주고 따뜻한 화해를 돕는 필수 템",
+      "coupangUrl": "https://link.coupang.com/a/gJDcLx8Lca",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 44,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "싸웠을때",
+    "psychologyAdvice": "상대방의 행동을 지적하기보다 내 서운한 감정을 먼저 나긋하게 말해보세요.",
     "product": {
-      "title": "사진보정",
-      "description": "사진보정 상황일 때",
-      "coupangUrl": "사진보정 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "갈등 완화 커플 솔루션 템",
+      "description": "다툰 후 서로의 경계심을 허물어주는 평화 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJDgwCSebs",
+      "imageUrl": "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500"
     }
   },
   {
     "id": 45,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "집데이트",
+    "psychologyAdvice": "익숙한 공간이라도 작은 조명과 분위기만 바꿔주면 완벽한 데이트 장소가 됩니다.",
     "product": {
-      "title": "운전연수",
-      "description": "운전연수 상황일 때",
-      "coupangUrl": "운전연수 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "집데이트 분위기 반전 아이템",
+      "description": "익숙하고 지루한 방 안을 로맨틱하게 연출하는 무드 템",
+      "coupangUrl": "https://link.coupang.com/a/gJDfq2cws9",
+      "imageUrl": "https://images.unsplash.com/photo-1507499739999-097706ad8914?w=500"
     }
   },
   {
     "id": 46,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "커플문답",
+    "psychologyAdvice": "억지로 대화를 강요하기보다 문답집을 통해 서로의 깊은 생각에 귀 기울여보세요.",
     "product": {
-      "title": "치약",
-      "description": "치약 상황일 때",
-      "coupangUrl": "치약 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "너와 나의 속마음 커플북",
+      "description": "평소 말하기 어려웠던 진심을 자연스럽게 공유하는 질문집",
+      "coupangUrl": "https://link.coupang.com/a/gJDgwCSebs",
+      "imageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=500"
     }
   },
   {
     "id": 47,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "기념일",
+    "psychologyAdvice": "기념일 선물은 가격보다 그 안에 담긴 서로에 대한 배려와 마음이 더 중요합니다.",
     "product": {
-      "title": "리모컨",
-      "description": "리모컨 상황일 때",
-      "coupangUrl": "리모컨 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "특별한 날 로맨틱 커플 선물",
+      "description": "소중한 날 서로에게 잊지 못할 추억을 선사하는 맞춤 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJDiEh7HP2",
+      "imageUrl": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=500"
     }
   },
   {
     "id": 48,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "서운할때",
+    "psychologyAdvice": "서운함은 쌓아두면 오해가 됩니다. 작은 행동 변화를 유도하는 도구를 써보세요.",
     "product": {
-      "title": "여행계획",
-      "description": "여행계획 상황일 때",
-      "coupangUrl": "여행계획 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "마음을 부드럽게 전하는 소통 템",
+      "description": "말 못 할 서운함을 부드럽고 위트 있게 전달하는 도구",
+      "coupangUrl": "https://link.coupang.com/a/gJDjcrAdQi",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 49,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "화해할때",
+    "psychologyAdvice": "소소한 갈등은 비난보다 작고 부드러운 관심 표현으로 해결할 수 있습니다.",
     "product": {
-      "title": "커플싸움",
-      "description": "커플싸움 상황일 때",
-      "coupangUrl": "커플싸움 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "화해 유도 감성 추천 아이템",
+      "description": "서운한 마음을 녹여주고 따뜻한 화해를 돕는 필수 템",
+      "coupangUrl": "https://link.coupang.com/a/gJDj3LcDZs",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 50,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "싸웠을때",
+    "psychologyAdvice": "상대방의 행동을 지적하기보다 내 서운한 감정을 먼저 나긋하게 말해보세요.",
     "product": {
-      "title": "원피스 선물",
-      "description": "원피스 선물 상황일 때",
-      "coupangUrl": "원피스 선물 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "갈등 완화 커플 솔루션 템",
+      "description": "다툰 후 서로의 경계심을 허물어주는 평화 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJDkEmCitM",
+      "imageUrl": "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500"
     }
   },
   {
     "id": 51,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "집데이트",
+    "psychologyAdvice": "익숙한 공간이라도 작은 조명과 분위기만 바꿔주면 완벽한 데이트 장소가 됩니다.",
     "product": {
-      "title": "택배상자",
-      "description": "택배상자 상황일 때",
-      "coupangUrl": "택배상자 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "집데이트 분위기 반전 아이템",
+      "description": "익숙하고 지루한 방 안을 로맨틱하게 연출하는 무드 템",
+      "coupangUrl": "https://link.coupang.com/a/gJDlnsQMPk",
+      "imageUrl": "https://images.unsplash.com/photo-1507499739999-097706ad8914?w=500"
     }
   },
   {
     "id": 52,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "커플문답",
+    "psychologyAdvice": "억지로 대화를 강요하기보다 문답집을 통해 서로의 깊은 생각에 귀 기울여보세요.",
     "product": {
-      "title": "정치토론",
-      "description": "정치토론 상황일 때",
-      "coupangUrl": "정치토론 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "너와 나의 속마음 커플북",
+      "description": "평소 말하기 어려웠던 진심을 자연스럽게 공유하는 질문집",
+      "coupangUrl": "https://link.coupang.com/a/gJDl4oaEIS",
+      "imageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=500"
     }
   },
   {
     "id": 53,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "기념일",
+    "psychologyAdvice": "기념일 선물은 가격보다 그 안에 담긴 서로에 대한 배려와 마음이 더 중요합니다.",
     "product": {
-      "title": "게임",
-      "description": "게임 상황일 때",
-      "coupangUrl": "게임 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "특별한 날 로맨틱 커플 선물",
+      "description": "소중한 날 서로에게 잊지 못할 추억을 선사하는 맞춤 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJDnhVsrNk",
+      "imageUrl": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=500"
     }
   },
   {
     "id": 54,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "서운할때",
+    "psychologyAdvice": "서운함은 쌓아두면 오해가 됩니다. 작은 행동 변화를 유도하는 도구를 써보세요.",
     "product": {
-      "title": "운동 간섭",
-      "description": "운동 간섭 상황일 때",
-      "coupangUrl": "운동 간섭 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "마음을 부드럽게 전하는 소통 템",
+      "description": "말 못 할 서운함을 부드럽고 위트 있게 전달하는 도구",
+      "coupangUrl": "https://link.coupang.com/a/gJDogqQ8PY",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 55,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "화해할때",
+    "psychologyAdvice": "소소한 갈등은 비난보다 작고 부드러운 관심 표현으로 해결할 수 있습니다.",
     "product": {
-      "title": "커피 속도",
-      "description": "커피 속도 상황일 때",
-      "coupangUrl": "커피 속도 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "화해 유도 감성 추천 아이템",
+      "description": "서운한 마음을 녹여주고 따뜻한 화해를 돕는 필수 템",
+      "coupangUrl": "https://link.coupang.com/a/gJDoNHOFRQ",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 56,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "싸웠을때",
+    "psychologyAdvice": "상대방의 행동을 지적하기보다 내 서운한 감정을 먼저 나긋하게 말해보세요.",
     "product": {
-      "title": "야간사진",
-      "description": "야간사진 상황일 때",
-      "coupangUrl": "야간사진 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "갈등 완화 커플 솔루션 템",
+      "description": "다툰 후 서로의 경계심을 허물어주는 평화 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJDpSzl9TU",
+      "imageUrl": "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500"
     }
   },
   {
     "id": 57,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "집데이트",
+    "psychologyAdvice": "익숙한 공간이라도 작은 조명과 분위기만 바꿔주면 완벽한 데이트 장소가 됩니다.",
     "product": {
-      "title": "용돈 검사",
-      "description": "용돈 검사 상황일 때",
-      "coupangUrl": "용돈 검사 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "집데이트 분위기 반전 아이템",
+      "description": "익숙하고 지루한 방 안을 로맨틱하게 연출하는 무드 템",
+      "coupangUrl": "https://link.coupang.com/a/gJDqNSPXaK",
+      "imageUrl": "https://images.unsplash.com/photo-1507499739999-097706ad8914?w=500"
     }
   },
   {
     "id": 58,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "커플문답",
+    "psychologyAdvice": "억지로 대화를 강요하기보다 문답집을 통해 서로의 깊은 생각에 귀 기울여보세요.",
     "product": {
-      "title": "산책 갈등",
-      "description": "산책 갈등 상황일 때",
-      "coupangUrl": "산책 갈등 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "너와 나의 속마음 커플북",
+      "description": "평소 말하기 어려웠던 진심을 자연스럽게 공유하는 질문집",
+      "coupangUrl": "https://link.coupang.com/a/gJDrUTHPZ6",
+      "imageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=500"
     }
   },
   {
     "id": 59,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "기념일",
+    "psychologyAdvice": "기념일 선물은 가격보다 그 안에 담긴 서로에 대한 배려와 마음이 더 중요합니다.",
     "product": {
-      "title": "이모티콘",
-      "description": "이모티콘 상황일 때",
-      "coupangUrl": "이모티콘 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "특별한 날 로맨틱 커플 선물",
+      "description": "소중한 날 서로에게 잊지 못할 추억을 선사하는 맞춤 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJDtb160RM",
+      "imageUrl": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=500"
     }
   },
   {
     "id": 60,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "서운할때",
+    "psychologyAdvice": "서운함은 쌓아두면 오해가 됩니다. 작은 행동 변화를 유도하는 도구를 써보세요.",
     "product": {
-      "title": "꿈",
-      "description": "꿈 상황일 때",
-      "coupangUrl": "꿈 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "마음을 부드럽게 전하는 소통 템",
+      "description": "말 못 할 서운함을 부드럽고 위트 있게 전달하는 도구",
+      "coupangUrl": "https://link.coupang.com/a/gJDtJkpnSC",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 61,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "화해할때",
+    "psychologyAdvice": "소소한 갈등은 비난보다 작고 부드러운 관심 표현으로 해결할 수 있습니다.",
     "product": {
-      "title": "보조배터리",
-      "description": "보조배터리 상황일 때",
-      "coupangUrl": "보조배터리 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "화해 유도 감성 추천 아이템",
+      "description": "서운한 마음을 녹여주고 따뜻한 화해를 돕는 필수 템",
+      "coupangUrl": "https://link.coupang.com/a/gJDufMwpQi",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 62,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "싸웠을때",
+    "psychologyAdvice": "상대방의 행동을 지적하기보다 내 서운한 감정을 먼저 나긋하게 말해보세요.",
     "product": {
-      "title": "메모장",
-      "description": "메모장 상황일 때",
-      "coupangUrl": "메모장 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "갈등 완화 커플 솔루션 템",
+      "description": "다툰 후 서로의 경계심을 허물어주는 평화 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJDuTATxoO",
+      "imageUrl": "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500"
     }
   },
   {
     "id": 63,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "집데이트",
+    "psychologyAdvice": "익숙한 공간이라도 작은 조명과 분위기만 바꿔주면 완벽한 데이트 장소가 됩니다.",
     "product": {
-      "title": "메뉴",
-      "description": "메뉴 상황일 때",
-      "coupangUrl": "메뉴 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "집데이트 분위기 반전 아이템",
+      "description": "익숙하고 지루한 방 안을 로맨틱하게 연출하는 무드 템",
+      "coupangUrl": "https://link.coupang.com/a/gJDvLLroqa",
+      "imageUrl": "https://images.unsplash.com/photo-1507499739999-097706ad8914?w=500"
     }
   },
   {
     "id": 64,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "커플문답",
+    "psychologyAdvice": "억지로 대화를 강요하기보다 문답집을 통해 서로의 깊은 생각에 귀 기울여보세요.",
     "product": {
-      "title": "평행주차",
-      "description": "평행주차 상황일 때",
-      "coupangUrl": "평행주차 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "너와 나의 속마음 커플북",
+      "description": "평소 말하기 어려웠던 진심을 자연스럽게 공유하는 질문집",
+      "coupangUrl": "https://link.coupang.com/a/gJDwFPUO6u",
+      "imageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=500"
     }
   },
   {
     "id": 65,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "기념일",
+    "psychologyAdvice": "기념일 선물은 가격보다 그 안에 담긴 서로에 대한 배려와 마음이 더 중요합니다.",
     "product": {
-      "title": "우산",
-      "description": "우산 상황일 때",
-      "coupangUrl": "우산 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "특별한 날 로맨틱 커플 선물",
+      "description": "소중한 날 서로에게 잊지 못할 추억을 선사하는 맞춤 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJDxespuIm",
+      "imageUrl": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=500"
     }
   },
   {
     "id": 66,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "서운할때",
+    "psychologyAdvice": "서운함은 쌓아두면 오해가 됩니다. 작은 행동 변화를 유도하는 도구를 써보세요.",
     "product": {
-      "title": "소비 갈등",
-      "description": "소비 갈등 상황일 때",
-      "coupangUrl": "소비 갈등 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "마음을 부드럽게 전하는 소통 템",
+      "description": "말 못 할 서운함을 부드럽고 위트 있게 전달하는 도구",
+      "coupangUrl": "https://link.coupang.com/a/gJDxSgi9Ui",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 67,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "화해할때",
+    "psychologyAdvice": "소소한 갈등은 비난보다 작고 부드러운 관심 표현으로 해결할 수 있습니다.",
     "product": {
-      "title": "약속 장소",
-      "description": "약속 장소 상황일 때",
-      "coupangUrl": "약속 장소 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "화해 유도 감성 추천 아이템",
+      "description": "서운한 마음을 녹여주고 따뜻한 화해를 돕는 필수 템",
+      "coupangUrl": "https://link.coupang.com/a/gJDyKUrMzc",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 68,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "싸웠을때",
+    "psychologyAdvice": "상대방의 행동을 지적하기보다 내 서운한 감정을 먼저 나긋하게 말해보세요.",
     "product": {
-      "title": "셀카 각도",
-      "description": "셀카 각도 상황일 때",
-      "coupangUrl": "셀카 각도 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "갈등 완화 커플 솔루션 템",
+      "description": "다툰 후 서로의 경계심을 허물어주는 평화 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJDzgXgkCW",
+      "imageUrl": "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500"
     }
   },
   {
     "id": 69,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "집데이트",
+    "psychologyAdvice": "익숙한 공간이라도 작은 조명과 분위기만 바꿔주면 완벽한 데이트 장소가 됩니다.",
     "product": {
-      "title": "온도차",
-      "description": "온도차 상황일 때",
-      "coupangUrl": "온도차 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "집데이트 분위기 반전 아이템",
+      "description": "익숙하고 지루한 방 안을 로맨틱하게 연출하는 무드 템",
+      "coupangUrl": "https://link.coupang.com/a/gJDzIL19hY",
+      "imageUrl": "https://images.unsplash.com/photo-1507499739999-097706ad8914?w=500"
     }
   },
   {
     "id": 70,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "커플문답",
+    "psychologyAdvice": "억지로 대화를 강요하기보다 문답집을 통해 서로의 깊은 생각에 귀 기울여보세요.",
     "product": {
-      "title": "억양",
-      "description": "억양 상황일 때",
-      "coupangUrl": "억양 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "너와 나의 속마음 커플북",
+      "description": "평소 말하기 어려웠던 진심을 자연스럽게 공유하는 질문집",
+      "coupangUrl": "https://link.coupang.com/a/gJDAkih3T2",
+      "imageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=500"
     }
   },
   {
     "id": 71,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "기념일",
+    "psychologyAdvice": "기념일 선물은 가격보다 그 안에 담긴 서로에 대한 배려와 마음이 더 중요합니다.",
     "product": {
-      "title": "배송",
-      "description": "배송 상황일 때",
-      "coupangUrl": "배송 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "특별한 날 로맨틱 커플 선물",
+      "description": "소중한 날 서로에게 잊지 못할 추억을 선사하는 맞춤 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJDAQKNoyW",
+      "imageUrl": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=500"
     }
   },
   {
     "id": 72,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "서운할때",
+    "psychologyAdvice": "서운함은 쌓아두면 오해가 됩니다. 작은 행동 변화를 유도하는 도구를 써보세요.",
     "product": {
-      "title": "케이크",
-      "description": "케이크 상황일 때",
-      "coupangUrl": "케이크 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "마음을 부드럽게 전하는 소통 템",
+      "description": "말 못 할 서운함을 부드럽고 위트 있게 전달하는 도구",
+      "coupangUrl": "https://link.coupang.com/a/gJDBqX4trg",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 73,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "화해할때",
+    "psychologyAdvice": "소소한 갈등은 비난보다 작고 부드러운 관심 표현으로 해결할 수 있습니다.",
     "product": {
-      "title": "기억",
-      "description": "기억 상황일 때",
-      "coupangUrl": "기억 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "화해 유도 감성 추천 아이템",
+      "description": "서운한 마음을 녹여주고 따뜻한 화해를 돕는 필수 템",
+      "coupangUrl": "https://link.coupang.com/a/gJDBTf0zIq",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 74,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "싸웠을때",
+    "psychologyAdvice": "상대방의 행동을 지적하기보다 내 서운한 감정을 먼저 나긋하게 말해보세요.",
     "product": {
-      "title": "지하철 방향",
-      "description": "지하철 방향 상황일 때",
-      "coupangUrl": "지하철 방향 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "갈등 완화 커플 솔루션 템",
+      "description": "다툰 후 서로의 경계심을 허물어주는 평화 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJDCAdjDwq",
+      "imageUrl": "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500"
     }
   },
   {
     "id": 75,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "집데이트",
+    "psychologyAdvice": "익숙한 공간이라도 작은 조명과 분위기만 바꿔주면 완벽한 데이트 장소가 됩니다.",
     "product": {
-      "title": "약속시간",
-      "description": "약속시간 상황일 때",
-      "coupangUrl": "약속시간 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "집데이트 분위기 반전 아이템",
+      "description": "익숙하고 지루한 방 안을 로맨틱하게 연출하는 무드 템",
+      "coupangUrl": "https://link.coupang.com/a/gJDDb2SgYS",
+      "imageUrl": "https://images.unsplash.com/photo-1507499739999-097706ad8914?w=500"
     }
   },
   {
     "id": 76,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "커플문답",
+    "psychologyAdvice": "억지로 대화를 강요하기보다 문답집을 통해 서로의 깊은 생각에 귀 기울여보세요.",
     "product": {
-      "title": "양파 볶기",
-      "description": "양파 볶기 상황일 때",
-      "coupangUrl": "양파 볶기 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "너와 나의 속마음 커플북",
+      "description": "평소 말하기 어려웠던 진심을 자연스럽게 공유하는 질문집",
+      "coupangUrl": "https://link.coupang.com/a/gJDDPfdOFh",
+      "imageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=500"
     }
   },
   {
     "id": 77,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "기념일",
+    "psychologyAdvice": "기념일 선물은 가격보다 그 안에 담긴 서로에 대한 배려와 마음이 더 중요합니다.",
     "product": {
-      "title": "영화관",
-      "description": "영화관 상황일 때",
-      "coupangUrl": "영화관 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "특별한 날 로맨틱 커플 선물",
+      "description": "소중한 날 서로에게 잊지 못할 추억을 선사하는 맞춤 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJDEqly4L6",
+      "imageUrl": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=500"
     }
   },
   {
     "id": 78,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "서운할때",
+    "psychologyAdvice": "서운함은 쌓아두면 오해가 됩니다. 작은 행동 변화를 유도하는 도구를 써보세요.",
     "product": {
-      "title": "알람",
-      "description": "알람 상황일 때",
-      "coupangUrl": "알람 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "마음을 부드럽게 전하는 소통 템",
+      "description": "말 못 할 서운함을 부드럽고 위트 있게 전달하는 도구",
+      "coupangUrl": "https://link.coupang.com/a/gJDFFwaZI4",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 79,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "화해할때",
+    "psychologyAdvice": "소소한 갈등은 비난보다 작고 부드러운 관심 표현으로 해결할 수 있습니다.",
     "product": {
-      "title": "졸업사진",
-      "description": "졸업사진 상황일 때",
-      "coupangUrl": "졸업사진 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "화해 유도 감성 추천 아이템",
+      "description": "서운한 마음을 녹여주고 따뜻한 화해를 돕는 필수 템",
+      "coupangUrl": "https://link.coupang.com/a/gJDGyN61am",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 80,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "싸웠을때",
+    "psychologyAdvice": "상대방의 행동을 지적하기보다 내 서운한 감정을 먼저 나긋하게 말해보세요.",
     "product": {
-      "title": "패션",
-      "description": "패션 상황일 때",
-      "coupangUrl": "패션 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "갈등 완화 커플 솔루션 템",
+      "description": "다툰 후 서로의 경계심을 허물어주는 평화 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJDG6OmUyy",
+      "imageUrl": "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500"
     }
   },
   {
     "id": 81,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "집데이트",
+    "psychologyAdvice": "익숙한 공간이라도 작은 조명과 분위기만 바꿔주면 완벽한 데이트 장소가 됩니다.",
     "product": {
-      "title": "야식",
-      "description": "야식 상황일 때",
-      "coupangUrl": "야식 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "집데이트 분위기 반전 아이템",
+      "description": "익숙하고 지루한 방 안을 로맨틱하게 연출하는 무드 템",
+      "coupangUrl": "https://link.coupang.com/a/gJDHClkPtI",
+      "imageUrl": "https://images.unsplash.com/photo-1507499739999-097706ad8914?w=500"
     }
   },
   {
     "id": 82,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "커플문답",
+    "psychologyAdvice": "억지로 대화를 강요하기보다 문답집을 통해 서로의 깊은 생각에 귀 기울여보세요.",
     "product": {
-      "title": "숙소선택",
-      "description": "숙소선택 상황일 때",
-      "coupangUrl": "숙소선택 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "너와 나의 속마음 커플북",
+      "description": "평소 말하기 어려웠던 진심을 자연스럽게 공유하는 질문집",
+      "coupangUrl": "https://link.coupang.com/a/gJDH5sVVqC",
+      "imageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=500"
     }
   },
   {
     "id": 83,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "기념일",
+    "psychologyAdvice": "기념일 선물은 가격보다 그 안에 담긴 서로에 대한 배려와 마음이 더 중요합니다.",
     "product": {
-      "title": "머리 감기",
-      "description": "머리 감기 상황일 때",
-      "coupangUrl": "머리 감기 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "특별한 날 로맨틱 커플 선물",
+      "description": "소중한 날 서로에게 잊지 못할 추억을 선사하는 맞춤 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJDIxQ5Rsa",
+      "imageUrl": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=500"
     }
   },
   {
     "id": 84,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "서운할때",
+    "psychologyAdvice": "서운함은 쌓아두면 오해가 됩니다. 작은 행동 변화를 유도하는 도구를 써보세요.",
     "product": {
-      "title": "좌석갈등",
-      "description": "좌석갈등 상황일 때",
-      "coupangUrl": "좌석갈등 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "마음을 부드럽게 전하는 소통 템",
+      "description": "말 못 할 서운함을 부드럽고 위트 있게 전달하는 도구",
+      "coupangUrl": "https://link.coupang.com/a/gJDI7j1P08",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 85,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "화해할때",
+    "psychologyAdvice": "소소한 갈등은 비난보다 작고 부드러운 관심 표현으로 해결할 수 있습니다.",
     "product": {
-      "title": "PT 등록",
-      "description": "PT 등록 상황일 때",
-      "coupangUrl": "PT 등록 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "화해 유도 감성 추천 아이템",
+      "description": "서운한 마음을 녹여주고 따뜻한 화해를 돕는 필수 템",
+      "coupangUrl": "https://link.coupang.com/a/gJDJ0KZs28",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 86,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "싸웠을때",
+    "psychologyAdvice": "상대방의 행동을 지적하기보다 내 서운한 감정을 먼저 나긋하게 말해보세요.",
     "product": {
-      "title": "카페 선택",
-      "description": "카페 선택 상황일 때",
-      "coupangUrl": "카페 선택 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "갈등 완화 커플 솔루션 템",
+      "description": "다툰 후 서로의 경계심을 허물어주는 평화 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJDKuxFfb2",
+      "imageUrl": "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500"
     }
   },
   {
     "id": 87,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "집데이트",
+    "psychologyAdvice": "익숙한 공간이라도 작은 조명과 분위기만 바꿔주면 완벽한 데이트 장소가 됩니다.",
     "product": {
-      "title": "비상금",
-      "description": "비상금 상황일 때",
-      "coupangUrl": "비상금 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "집데이트 분위기 반전 아이템",
+      "description": "익숙하고 지루한 방 안을 로맨틱하게 연출하는 무드 템",
+      "coupangUrl": "https://link.coupang.com/a/gJDLa6mmlN",
+      "imageUrl": "https://images.unsplash.com/photo-1507499739999-097706ad8914?w=500"
     }
   },
   {
     "id": 88,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "커플문답",
+    "psychologyAdvice": "억지로 대화를 강요하기보다 문답집을 통해 서로의 깊은 생각에 귀 기울여보세요.",
     "product": {
-      "title": "맛집 대기",
-      "description": "맛집 대기 상황일 때",
-      "coupangUrl": "맛집 대기 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "너와 나의 속마음 커플북",
+      "description": "평소 말하기 어려웠던 진심을 자연스럽게 공유하는 질문집",
+      "coupangUrl": "https://link.coupang.com/a/gJDL6qQAM0",
+      "imageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=500"
     }
   },
   {
     "id": 89,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "기념일",
+    "psychologyAdvice": "기념일 선물은 가격보다 그 안에 담긴 서로에 대한 배려와 마음이 더 중요합니다.",
     "product": {
-      "title": "강아지 이름",
-      "description": "강아지 이름 상황일 때",
-      "coupangUrl": "강아지 이름 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "특별한 날 로맨틱 커플 선물",
+      "description": "소중한 날 서로에게 잊지 못할 추억을 선사하는 맞춤 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJDMFt0S4q",
+      "imageUrl": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=500"
     }
   },
   {
     "id": 90,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "서운할때",
+    "psychologyAdvice": "서운함은 쌓아두면 오해가 됩니다. 작은 행동 변화를 유도하는 도구를 써보세요.",
     "product": {
-      "title": "게임기",
-      "description": "게임기 상황일 때",
-      "coupangUrl": "게임기 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "마음을 부드럽게 전하는 소통 템",
+      "description": "말 못 할 서운함을 부드럽고 위트 있게 전달하는 도구",
+      "coupangUrl": "https://link.coupang.com/a/gJDNjcQKgm",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 91,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "화해할때",
+    "psychologyAdvice": "소소한 갈등은 비난보다 작고 부드러운 관심 표현으로 해결할 수 있습니다.",
     "product": {
-      "title": "공포영화",
-      "description": "공포영화 상황일 때",
-      "coupangUrl": "공포영화 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "화해 유도 감성 추천 아이템",
+      "description": "서운한 마음을 녹여주고 따뜻한 화해를 돕는 필수 템",
+      "coupangUrl": "https://link.coupang.com/a/gJDOp0aXbE",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 92,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "싸웠을때",
+    "psychologyAdvice": "상대방의 행동을 지적하기보다 내 서운한 감정을 먼저 나긋하게 말해보세요.",
     "product": {
-      "title": "택배개봉",
-      "description": "택배개봉 상황일 때",
-      "coupangUrl": "택배개봉 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "갈등 완화 커플 솔루션 템",
+      "description": "다툰 후 서로의 경계심을 허물어주는 평화 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJDO43G9zo",
+      "imageUrl": "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500"
     }
   },
   {
     "id": 93,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "집데이트",
+    "psychologyAdvice": "익숙한 공간이라도 작은 조명과 분위기만 바꿔주면 완벽한 데이트 장소가 됩니다.",
     "product": {
-      "title": "아침 갈등",
-      "description": "아침 갈등 상황일 때",
-      "coupangUrl": "아침 갈등 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "집데이트 분위기 반전 아이템",
+      "description": "익숙하고 지루한 방 안을 로맨틱하게 연출하는 무드 템",
+      "coupangUrl": "https://link.coupang.com/a/gJDPC2N4c8",
+      "imageUrl": "https://images.unsplash.com/photo-1507499739999-097706ad8914?w=500"
     }
   },
   {
     "id": 94,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "커플문답",
+    "psychologyAdvice": "억지로 대화를 강요하기보다 문답집을 통해 서로의 깊은 생각에 귀 기울여보세요.",
     "product": {
-      "title": "내비갈등",
-      "description": "내비갈등 상황일 때",
-      "coupangUrl": "내비갈등 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "너와 나의 속마음 커플북",
+      "description": "평소 말하기 어려웠던 진심을 자연스럽게 공유하는 질문집",
+      "coupangUrl": "https://link.coupang.com/a/gJDP6K8M32",
+      "imageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=500"
     }
   },
   {
     "id": 95,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "기념일",
+    "psychologyAdvice": "기념일 선물은 가격보다 그 안에 담긴 서로에 대한 배려와 마음이 더 중요합니다.",
     "product": {
-      "title": "게임",
-      "description": "게임 상황일 때",
-      "coupangUrl": "게임 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "특별한 날 로맨틱 커플 선물",
+      "description": "소중한 날 서로에게 잊지 못할 추억을 선사하는 맞춤 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJDReUkH2y",
+      "imageUrl": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=500"
     }
   },
   {
     "id": 96,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "서운할때",
+    "psychologyAdvice": "서운함은 쌓아두면 오해가 됩니다. 작은 행동 변화를 유도하는 도구를 써보세요.",
     "product": {
-      "title": "답장",
-      "description": "답장 상황일 때",
-      "coupangUrl": "답장 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "마음을 부드럽게 전하는 소통 템",
+      "description": "말 못 할 서운함을 부드럽고 위트 있게 전달하는 도구",
+      "coupangUrl": "https://link.coupang.com/a/gJDRZV4j9g",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 97,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "화해할때",
+    "psychologyAdvice": "소소한 갈등은 비난보다 작고 부드러운 관심 표현으로 해결할 수 있습니다.",
     "product": {
-      "title": "우유팩",
-      "description": "우유팩 상황일 때",
-      "coupangUrl": "우유팩 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "화해 유도 감성 추천 아이템",
+      "description": "서운한 마음을 녹여주고 따뜻한 화해를 돕는 필수 템",
+      "coupangUrl": "https://link.coupang.com/a/gJDSv1FTau",
+      "imageUrl": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500"
     }
   },
   {
     "id": 98,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "싸웠을때",
+    "psychologyAdvice": "상대방의 행동을 지적하기보다 내 서운한 감정을 먼저 나긋하게 말해보세요.",
     "product": {
-      "title": "세일 쇼핑",
-      "description": "세일 쇼핑 상황일 때",
-      "coupangUrl": "세일 쇼핑 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "갈등 완화 커플 솔루션 템",
+      "description": "다툰 후 서로의 경계심을 허물어주는 평화 아이템",
+      "coupangUrl": "https://link.coupang.com/a/gJDS46lkLA",
+      "imageUrl": "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=500"
     }
   },
   {
     "id": 99,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "집데이트",
+    "psychologyAdvice": "익숙한 공간이라도 작은 조명과 분위기만 바꿔주면 완벽한 데이트 장소가 됩니다.",
     "product": {
-      "title": "변기 뚜껑",
-      "description": "변기 뚜껑 상황일 때",
-      "coupangUrl": "변기 뚜껑 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "집데이트 분위기 반전 아이템",
+      "description": "익숙하고 지루한 방 안을 로맨틱하게 연출하는 무드 템",
+      "coupangUrl": "https://link.coupang.com/a/gJDTLXcMfs",
+      "imageUrl": "https://images.unsplash.com/photo-1507499739999-097706ad8914?w=500"
     }
   },
   {
     "id": 100,
-    "category": "연락/카톡",
-    "psychologyAdvice": "상대방의 마음을 비난하기보다 내 감정을 먼저 부드럽게 표현해보세요.",
+    "category": "커플문답",
+    "psychologyAdvice": "억지로 대화를 강요하기보다 문답집을 통해 서로의 깊은 생각에 귀 기울여보세요.",
     "product": {
-      "title": "질투",
-      "description": "질투 상황일 때",
-      "coupangUrl": "질투 추천 상품",
-      "imageUrl": "싸움 방지 및 관계 개선 필수 아이템"
+      "title": "너와 나의 속마음 커플북",
+      "description": "평소 말하기 어려웠던 진심을 자연스럽게 공유하는 질문집",
+      "coupangUrl": "https://link.coupang.com/a/gJDVJXA7yK",
+      "imageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=500"
     }
   }
 ]
