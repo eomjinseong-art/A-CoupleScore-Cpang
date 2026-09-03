@@ -1,0 +1,7 @@
+node_modules/
+.env
+.env.*
+*.log
+data/scrape-failed.json
+data/sheet-update.csv
+images/products/*.svg

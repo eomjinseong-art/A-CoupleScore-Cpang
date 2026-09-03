@@ -1,0 +1,9 @@
+{
+  "name": "a-couplescore-cpang",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "node .github/scripts/sync-coupang-products.mjs",
+    "catalog": "node .github/scripts/sync-coupang-products.mjs --catalog-only"
+  }
+}
