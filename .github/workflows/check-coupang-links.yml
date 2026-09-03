@@ -27,6 +27,22 @@ jobs:
           script: |
             const report = process.env.REPORT || '링크 점검 결과를 확인할 수 없습니다.';
             const title = `쿠팡 상품 링크 점검 알림 (${new Date().toISOString().slice(0, 10)})`;
+            try {
+              await github.rest.issues.getLabel({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                name: 'link-check'
+              });
+            } catch (error) {
+              if (error.status !== 404) throw error;
+              await github.rest.issues.createLabel({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                name: 'link-check',
+                color: 'e11d48',
+                description: '쿠팡 상품 링크 점검 결과'
+              });
+            }
             const existing = await github.paginate(github.rest.issues.listForRepo, {
               owner: context.repo.owner,
               repo: context.repo.repo,
