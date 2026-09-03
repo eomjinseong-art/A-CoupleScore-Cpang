@@ -3,20 +3,20 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>그날의 남녀 - 커플 아이템 큐레이션 마켓</title>
+  <title>그날의 남녀 - 커플 솔루션 마켓</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
-<body class="bg-slate-100 text-slate-800 pb-10">
+<body class="bg-slate-100 text-slate-800 pb-20">
 
   <!-- 1. 최상단 광고 배너 (아브아르) -->
   <div class="bg-rose-500 text-white text-xs font-semibold py-2 px-4 text-center sticky top-0 z-50 shadow-md">
-    <a id="topBannerLink" href="#" target="_blank" class="hover:underline flex items-center justify-center gap-1">
-      <span id="topBannerText">로딩 중...</span> <i class="fa-solid fa-chevron-right text-[10px]"></i>
+    <a id="topBannerLink" href="https://www.avoir24.com" target="_blank" class="hover:underline flex items-center justify-center gap-1">
+      <span id="topBannerText">남친 심쿵하게 만드는 데이트룩 👗 아브아르 바로가기</span> <i class="fa-solid fa-chevron-right text-[10px]"></i>
     </a>
   </div>
 
-  <!-- 2. 헤더 (브랜드 & SNS & 서비스 연동) -->
+  <!-- 2. 헤더 -->
   <header class="bg-white border-b border-slate-200 px-4 py-3 flex items-center justify-between sticky top-[32px] z-40 shadow-sm">
     <h1 class="font-bold text-lg text-rose-600 flex items-center gap-1.5">
       <i class="fa-solid fa-heart"></i> 그날의 남녀 <span class="text-xs font-normal text-slate-400">Market</span>
@@ -28,33 +28,43 @@
     </div>
   </header>
 
-  <!-- 3. 카테고리 필터 바 (쇼핑몰 스타일) -->
+  <!-- 3. 카테고리 필터 바 -->
   <nav class="bg-white px-4 py-2.5 border-b border-slate-200 overflow-x-auto whitespace-nowrap flex gap-2 text-xs font-medium no-scrollbar">
     <button onclick="filterCategory('전체')" class="px-3 py-1.5 rounded-full bg-slate-900 text-white font-bold">전체보기</button>
     <button onclick="filterCategory('연락/카톡')" class="px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">💖 화해/선물</button>
     <button onclick="filterCategory('데이트')" class="px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">🏠 집데이트</button>
-    <a id="avoirCategoryBtn" href="#" target="_blank" class="px-3 py-1.5 rounded-full bg-pink-100 text-pink-700 font-bold hover:bg-pink-200">👗 커플룩(아브아르)</a>
+    <a id="avoirCategoryBtn" href="https://www.avoir24.com" target="_blank" class="px-3 py-1.5 rounded-full bg-pink-100 text-pink-700 font-bold hover:bg-pink-200">👗 데이트룩/선물(아브아르)</a>
   </nav>
 
   <!-- 4. 메인 2열 상품 격자 (Grid) 영역 -->
   <main class="max-w-md mx-auto p-3">
-    <!-- 상품들이 2열 쇼핑몰 형태로 배치됩니다 -->
     <div id="productGrid" class="grid grid-cols-2 gap-3">
-      <!-- JS로 자동 로딩 -->
+      <!-- JS 데이터 렌더링 영역 -->
     </div>
 
     <!-- 중간 아브아르 스폰서 배너 카드 -->
     <div class="mt-4 bg-gradient-to-r from-pink-500 to-rose-500 text-white p-4 rounded-2xl shadow-sm text-center">
       <span class="text-[9px] bg-white/20 px-2 py-0.5 rounded font-bold uppercase">Sponsored</span>
-      <h3 id="midBannerTitle" class="font-bold text-sm mt-1">화해 데이트 때 뭐 입지?</h3>
-      <p id="midBannerDesc" class="text-[11px] text-pink-100 mt-0.5">남친 심쿵하게 만드는 아브아르 데이트룩</p>
-      <a id="midBannerBtn" href="#" target="_blank" class="mt-2 inline-block bg-white text-rose-600 text-xs font-bold px-3 py-1.5 rounded-lg shadow hover:bg-pink-50">
+      <h3 id="midBannerTitle" class="font-bold text-sm mt-1">화해 데이트 때 뭐 입지? ✨</h3>
+      <p id="midBannerDesc" class="text-[11px] text-pink-100 mt-0.5">아브아르(AVOIR) 여성의류 감성 큐레이션</p>
+      <a id="midBannerBtn" href="https://www.avoir24.com" target="_blank" class="mt-2 inline-block bg-white text-rose-600 text-xs font-bold px-3 py-1.5 rounded-lg shadow hover:bg-pink-50">
         아브아르 룩북 구경하기
       </a>
     </div>
+
+    <!-- 5. 하단 유튜브 쇼츠 플레이어 섹션 -->
+    <section class="mt-6 bg-white p-4 rounded-2xl border border-slate-200 shadow-sm">
+      <h3 class="font-bold text-xs text-slate-800 flex items-center gap-1.5 mb-3">
+        <i class="fa-brands fa-youtube text-red-500 text-sm"></i> 그날의 남녀 추천 쇼츠
+      </h3>
+      <div class="relative w-full aspect-[9/16] rounded-xl overflow-hidden bg-black">
+        <!-- 기본 유튜브 채널 쇼츠 연결 플레이어 -->
+        <iframe class="w-full h-full" src="https://www.youtube.com/embed?listType=playlist&list=UUbX_q0r4mX5f7K0nZ12R33A" title="유튜브 쇼츠" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </section>
   </main>
 
-  <!-- 5. 상품 클릭 시 뜨는 '감성 심리 & 쿠팡 구매' 모달 팝업 -->
+  <!-- 6. 상품 상세 모달 팝업 -->
   <div id="itemModal" class="fixed inset-0 bg-black/60 z-50 hidden flex items-end sm:items-center justify-center p-0 sm:p-4">
     <div class="bg-white w-full max-w-md rounded-t-2xl sm:rounded-2xl p-5 space-y-4 max-h-[85vh] overflow-y-auto">
       <div class="flex justify-between items-start">
@@ -62,16 +72,14 @@
         <button onclick="closeModal()" class="text-slate-400 text-lg hover:text-slate-600"><i class="fa-solid fa-xmark"></i></button>
       </div>
       
-      <img id="modalImg" src="" alt="상품" class="w-full h-48 object-cover rounded-xl border">
-      
-      <div>
-        <h3 id="modalTitle" class="font-bold text-base text-slate-900">상품 제목</h3>
+      <div class="bg-slate-100 rounded-xl p-4 text-center">
+        <p id="modalTitle" class="font-bold text-sm text-slate-900">상품 제목</p>
         <p id="modalDesc" class="text-xs text-slate-500 mt-1">상품 설명</p>
       </div>
 
       <div class="bg-rose-50/70 p-3 rounded-xl border border-rose-100">
         <p class="font-bold text-xs text-rose-600 mb-1">💡 그날의 남녀 심리 팁</p>
-        <p id="modalAdvice" class="text-xs text-slate-600 leading-relaxed">심리 상담 내용이 들어갑니다.</p>
+        <p id="modalAdvice" class="text-xs text-slate-600 leading-relaxed">심리 코칭 내용</p>
       </div>
 
       <div class="pt-2 flex gap-2">
@@ -89,50 +97,53 @@
     fetch('./data/config.json')
       .then(res => res.json())
       .then(config => {
-        document.getElementById('topBannerText').innerText = config.ads.topBanner.text;
-        document.getElementById('topBannerLink').href = config.ads.topBanner.linkUrl;
-        document.getElementById('youtubeBtn').href = config.youtubeUrl;
-        document.getElementById('blogBtn').href = config.blogUrl;
-        document.getElementById('appBtn').href = config.coupleScoreAppUrl;
+        if(config.youtubeUrl) document.getElementById('youtubeBtn').href = config.youtubeUrl;
+        if(config.blogUrl) document.getElementById('blogBtn').href = config.blogUrl;
+        if(config.coupleScoreAppUrl) document.getElementById('appBtn').href = config.coupleScoreAppUrl;
+      }).catch(e => console.log('config 로딩 기본값 사용'));
 
-        document.getElementById('avoirCategoryBtn').href = config.ads.middleBanner.linkUrl;
-        document.getElementById('midBannerTitle').innerText = config.ads.middleBanner.title;
-        document.getElementById('midBannerDesc').innerText = config.ads.middleBanner.description;
-        document.getElementById('midBannerBtn').href = config.ads.middleBanner.linkUrl;
-      });
-
-    // 2. Counseling 상품 데이터 연동 및 2열 Grid 생성
+    // 2. Counseling 상품 데이터 연동 (예외 예방 로직 추가)
     fetch('./data/counseling.json')
       .then(res => res.json())
       .then(data => {
         allProducts = data;
         renderProducts(allProducts);
-      });
+      }).catch(e => console.error('counseling.json 로딩 오류:', e));
 
     function renderProducts(items) {
       const grid = document.getElementById('productGrid');
-      grid.innerHTML = items.map(item => `
-        <div onclick='openModal(${JSON.stringify(item).replace(/'/g, "&apos;")})' class="bg-white rounded-xl border border-slate-200 overflow-hidden shadow-sm flex flex-col justify-between cursor-pointer hover:border-rose-300 transition">
-          <div>
-            <div class="relative">
-              <img src="${item.product.imageUrl}" alt="상품" class="w-full h-36 object-cover">
-              <span class="absolute top-2 left-2 bg-black/60 text-white text-[9px] px-1.5 py-0.5 rounded font-medium backdrop-blur-sm">#${item.category}</span>
+      if(!items || items.length === 0) {
+        grid.innerHTML = '<div class="col-span-2 text-center py-10 text-xs text-slate-400">등록된 상품 데이터가 없습니다.</div>';
+        return;
+      }
+
+      grid.innerHTML = items.map(item => {
+        const title = item.product ? item.product.title : item.topic;
+        const desc = item.product ? item.product.description : '관계 개선 추천 아이템';
+        const img = (item.product && item.product.imageUrl) ? item.product.imageUrl : 'https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500';
+
+        return `
+          <div onclick='openModal(${JSON.stringify(item).replace(/'/g, "&apos;")})' class="bg-white rounded-xl border border-slate-200 overflow-hidden shadow-sm flex flex-col justify-between cursor-pointer hover:border-rose-300 transition">
+            <div>
+              <div class="relative">
+                <img src="${img}" alt="상품" class="w-full h-32 object-cover">
+                <span class="absolute top-2 left-2 bg-black/60 text-white text-[9px] px-1.5 py-0.5 rounded font-medium backdrop-blur-sm">#${item.category || '커플'}</span>
+              </div>
+              <div class="p-2.5">
+                <h4 class="font-bold text-xs text-slate-800 line-clamp-1">${title}</h4>
+                <p class="text-[10px] text-slate-500 line-clamp-1 mt-0.5">${desc}</p>
+              </div>
             </div>
-            <div class="p-2.5">
-              <h4 class="font-bold text-xs text-slate-800 line-clamp-1">${item.product.title}</h4>
-              <p class="text-[10px] text-slate-500 line-clamp-1 mt-0.5">${item.product.description}</p>
+            <div class="p-2.5 pt-0">
+              <button class="w-full bg-rose-50 text-rose-600 text-[10px] font-bold py-1.5 rounded-lg text-center hover:bg-rose-100">
+                솔루션 보기
+              </button>
             </div>
           </div>
-          <div class="p-2.5 pt-0">
-            <button class="w-full bg-rose-50 text-rose-600 text-[10px] font-bold py-1.5 rounded-lg text-center hover:bg-rose-100">
-              솔루션 보기
-            </button>
-          </div>
-        </div>
-      `).join('');
+        `;
+      }).join('');
     }
 
-    // 카테고리 필터링
     function filterCategory(cat) {
       if(cat === '전체') {
         renderProducts(allProducts);
@@ -142,14 +153,16 @@
       }
     }
 
-    // 모달 팝업 제어
     function openModal(item) {
-      document.getElementById('modalCategory').innerText = '#' + item.category + ' (' + item.topic + ')';
-      document.getElementById('modalImg').src = item.product.imageUrl;
-      document.getElementById('modalTitle').innerText = item.product.title;
-      document.getElementById('modalDesc').innerText = item.product.description;
-      document.getElementById('modalAdvice').innerText = item.psychologyAdvice;
-      document.getElementById('modalCoupangBtn').href = item.product.coupangUrl;
+      const title = item.product ? item.product.title : item.topic;
+      const desc = item.product ? item.product.description : '';
+      const url = item.product ? item.product.coupangUrl : 'https://www.coupang.com';
+
+      document.getElementById('modalCategory').innerText = '#' + (item.category || '커플') + ' (' + (item.topic || '') + ')';
+      document.getElementById('modalTitle').innerText = title;
+      document.getElementById('modalDesc').innerText = desc;
+      document.getElementById('modalAdvice').innerText = item.psychologyAdvice || '상대방의 입장에서 한 번 더 생각해보세요.';
+      document.getElementById('modalCoupangBtn').href = url;
       
       document.getElementById('itemModal').classList.remove('hidden');
     }
