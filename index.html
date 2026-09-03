@@ -28,13 +28,18 @@
     </div>
   </header>
 
-  <!-- 3. 카테고리 필터 바 (감성 상황별 태그) -->
+  <!-- 3. 카테고리 필터 바 (다양한 감성 상황 태그 10종 확장) -->
   <nav id="categoryNav" class="bg-white px-4 py-2.5 border-b border-slate-200 overflow-x-auto whitespace-nowrap flex gap-2 text-xs font-medium no-scrollbar">
-    <button onclick="filterCategory('전체')" class="px-3 py-1.5 rounded-full bg-slate-900 text-white font-bold">전체보기</button>
-    <button onclick="filterCategory('화해할때')" class="px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">💖 #화해할때</button>
-    <button onclick="filterCategory('싸웠을때')" class="px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">⚡ #싸웠을때</button>
-    <button onclick="filterCategory('집데이트')" class="px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">🏠 #집데이트</button>
-    <a href="https://www.avoir24.com" target="_blank" class="px-3 py-1.5 rounded-full bg-pink-100 text-pink-700 font-bold hover:bg-pink-200">👗 데이트룩/선물(아브아르)</a>
+    <button onclick="filterCategory('전체')" class="category-btn px-3 py-1.5 rounded-full bg-slate-900 text-white font-bold">전체보기</button>
+    <button onclick="filterCategory('화해할때')" class="category-btn px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">💖 #화해할때</button>
+    <button onclick="filterCategory('싸웠을때')" class="category-btn px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">⚡ #싸웠을때</button>
+    <button onclick="filterCategory('기념일')" class="category-btn px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">🎁 #기념일</button>
+    <button onclick="filterCategory('집데이트')" class="category-btn px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">🏠 #집데이트</button>
+    <button onclick="filterCategory('커플문답')" class="category-btn px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">💬 #커플문답</button>
+    <button onclick="filterCategory('서운할때')" class="category-btn px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">🥺 #서운할때</button>
+    <button onclick="filterCategory('야외데이트')" class="category-btn px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">✈️ #야외데이트</button>
+    <button onclick="filterCategory('커플템')" class="category-btn px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">💍 #커플템</button>
+    <a href="https://www.avoir24.com" target="_blank" class="px-3 py-1.5 rounded-full bg-pink-100 text-pink-700 font-bold hover:bg-pink-200">👗 데이트룩(아브아르)</a>
   </nav>
 
   <!-- 4. 공정위 & 쿠팡 파트너스 법적 고지 배너 -->
@@ -125,13 +130,19 @@
 
     function renderProducts(items) {
       const grid = document.getElementById('productGrid');
+      
+      if (!items || items.length === 0) {
+        grid.innerHTML = '<div class="col-span-2 text-center py-10 text-xs text-slate-400">해당 카테고리의 아이템이 아직 없습니다.</div>';
+        return;
+      }
+
       grid.innerHTML = items.map(item => {
         const title = item.product ? item.product.title : '커플 추천 아이템';
         const desc = item.product ? item.product.description : '관계 개선 필수 아이템';
         const img = (item.product && item.product.imageUrl) ? item.product.imageUrl : 'https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500';
         const url = item.product ? item.product.coupangUrl : 'https://www.coupang.com';
         const advice = item.psychologyAdvice ? item.psychologyAdvice : '서로의 마음을 부드럽게 표현해보세요.';
-        const categoryTag = item.category || '커플';
+        const categoryTag = item.category ? item.category.replace('#', '') : '커플';
 
         return `
           <a href="${url}" target="_blank" class="bg-white rounded-xl border border-slate-200 overflow-hidden shadow-sm flex flex-col justify-between hover:border-rose-400 hover:shadow-md transition">
@@ -159,11 +170,26 @@
       }).join('');
     }
 
+    // 카테고리 필터링 (유연한 태그 매칭)
     function filterCategory(cat) {
-      if(cat === '전체') {
+      // 버튼 활성화 스타일 전환
+      const btns = document.querySelectorAll('.category-btn');
+      btns.forEach(btn => {
+        if (btn.innerText.includes(cat)) {
+          btn.className = "category-btn px-3 py-1.5 rounded-full bg-slate-900 text-white font-bold";
+        } else {
+          btn.className = "category-btn px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600";
+        }
+      });
+
+      if (cat === '전체') {
         renderProducts(allProducts);
       } else {
-        const filtered = allProducts.filter(item => item.category === cat || item.category === ('#' + cat));
+        const targetTag = cat.replace('#', '').trim();
+        const filtered = allProducts.filter(item => {
+          const itemTag = (item.category || '').replace('#', '').trim();
+          return itemTag === targetTag || itemTag.includes(targetTag);
+        });
         renderProducts(filtered);
       }
     }
