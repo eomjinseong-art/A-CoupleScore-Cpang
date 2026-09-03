@@ -21,7 +21,7 @@ for (const [link, title] of links) {
       redirect: 'follow',
       signal: AbortSignal.timeout(15000)
     });
-    if (response.status === 404 || response.status === 410 || response.status >= 500) {
+    if (response.status >= 400) {
       failures.push(`${response.status} | ${title} | ${link}`);
     }
   } catch (error) {

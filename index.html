@@ -230,10 +230,10 @@
         const categoryTag = item.category ? item.category.replace('#', '') : '커플';
 
         return `
-          <a href="${url}" target="_blank" class="bg-white rounded-xl border border-slate-200 overflow-hidden shadow-sm flex flex-col justify-between hover:border-rose-400 hover:shadow-md transition">
+          <a href="${url}" target="_blank" rel="sponsored noopener" class="bg-white rounded-xl border border-slate-200 overflow-hidden shadow-sm flex flex-col justify-between hover:border-rose-400 hover:shadow-md transition">
             <div>
               <div class="relative bg-slate-50">
-                <img src="${img}" alt="${title}" class="w-full h-44 object-contain">
+                <img src="${img}" alt="${title}" class="w-full h-44 object-contain" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500';">
                 <span class="absolute top-2 left-2 bg-black/65 text-white text-[9px] px-2 py-0.5 rounded-md font-bold backdrop-blur-sm">#${categoryTag}</span>
               </div>
               <div class="p-2.5">
