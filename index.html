@@ -28,7 +28,7 @@
     </div>
   </header>
 
-  <!-- 3. 카테고리 필터 바 (다양한 감성 상황 태그 10종 확장) -->
+  <!-- 3. 카테고리 필터 바 (감성 상황 태그 10종) -->
   <nav id="categoryNav" class="bg-white px-4 py-2.5 border-b border-slate-200 overflow-x-auto whitespace-nowrap flex gap-2 text-xs font-medium no-scrollbar">
     <button onclick="filterCategory('전체')" class="category-btn px-3 py-1.5 rounded-full bg-slate-900 text-white font-bold">전체보기</button>
     <button onclick="filterCategory('화해할때')" class="category-btn px-3 py-1.5 rounded-full bg-slate-100 text-slate-600 hover:bg-rose-50 hover:text-rose-600">💖 #화해할때</button>
@@ -54,7 +54,7 @@
   <!-- 5. 메인 2열 상품 격자 (Grid) -->
   <main class="max-w-md mx-auto p-3">
     <div id="productGrid" class="grid grid-cols-2 gap-3">
-      <!-- JS 데이터 로딩 -->
+      <!-- 데이터 자동 생성 영역 -->
     </div>
 
     <!-- 중간 아브아르 스폰서 배너 -->
@@ -103,7 +103,9 @@
         try {
           let res = await fetch(path);
           if (res.ok) {
-            allProducts = await res.json();
+            let data = await res.json();
+            // 시스템적 100개 제한 보장
+            allProducts = data.slice(0, 100);
             renderProducts(allProducts);
             loaded = true;
             break;
@@ -136,7 +138,10 @@
         return;
       }
 
-      grid.innerHTML = items.map(item => {
+      // 화면 출력 시에도 최대 100개로 한정
+      const displayItems = items.slice(0, 100);
+
+      grid.innerHTML = displayItems.map(item => {
         const title = item.product ? item.product.title : '커플 추천 아이템';
         const desc = item.product ? item.product.description : '관계 개선 필수 아이템';
         const img = (item.product && item.product.imageUrl) ? item.product.imageUrl : 'https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=500';
@@ -170,9 +175,7 @@
       }).join('');
     }
 
-    // 카테고리 필터링 (유연한 태그 매칭)
     function filterCategory(cat) {
-      // 버튼 활성화 스타일 전환
       const btns = document.querySelectorAll('.category-btn');
       btns.forEach(btn => {
         if (btn.innerText.includes(cat)) {
