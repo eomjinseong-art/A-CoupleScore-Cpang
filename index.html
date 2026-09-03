@@ -54,10 +54,10 @@
   <!-- 5. 메인 2열 상품 격자 (Grid) -->
   <main class="max-w-md mx-auto p-3">
     <div id="productGrid" class="grid grid-cols-2 gap-3">
-      <!-- JS 데이터 로딩 -->
+      <!-- 데이터 자동 생성 영역 -->
     </div>
 
-    <!-- 중간 아브아르 스폰서 배너 -->
+    <!-- 중간 아브아르 배너 -->
     <div class="mt-4 bg-gradient-to-r from-pink-500 to-rose-500 text-white p-4 rounded-2xl shadow-sm text-center">
       <span class="text-[9px] bg-white/20 px-2 py-0.5 rounded font-bold uppercase">Sponsored</span>
       <h3 class="font-bold text-sm mt-1">화해 데이트 때 뭐 입지? ✨</h3>
@@ -96,13 +96,14 @@
     let allProducts = [];
 
     async function loadData() {
-      // 캐시 방지를 위해 타임스탬프 파라미터(?v=시간) 추가 교차 탐색
       const timestamp = new Date().getTime();
+      // Vercel 호스팅 환경에서 발생할 수 있는 모든 상대/절대 경로 교차 탐색
       const paths = [
-        './data/counseling.json?v=' + timestamp,
-        './counseling.json?v=' + timestamp,
-        'data/counseling.json?v=' + timestamp,
-        'counseling.json?v=' + timestamp
+        './data/counseling.json?t=' + timestamp,
+        '/data/counseling.json?t=' + timestamp,
+        'data/counseling.json?t=' + timestamp,
+        './counseling.json?t=' + timestamp,
+        '/counseling.json?t=' + timestamp
       ];
       let loaded = false;
 
@@ -115,17 +116,10 @@
               allProducts = data;
               renderProducts(allProducts);
               loaded = true;
-              console.log('성공적으로 로드된 데이터 개수:', data.length, '경로:', path);
               break;
             }
           }
-        } catch(e) {
-          console.error('경로 탐색 중 오류 발생:', path, e);
-        }
-      }
-
-      if (!loaded) {
-        console.warn('JSON 파일 로드 실패로 기본 샘플 노출');
+        } catch(e) {}
       }
     }
 
@@ -133,7 +127,7 @@
       const grid = document.getElementById('productGrid');
       
       if (!items || items.length === 0) {
-        grid.innerHTML = '<div class="col-span-2 text-center py-10 text-xs text-slate-400">해당 카테고리의 아이템이 아직 없습니다.</div>';
+        grid.innerHTML = '<div class="col-span-2 text-center py-10 text-xs text-slate-400">등록된 아이템이 없습니다.</div>';
         return;
       }
 
