@@ -1,0 +1,25 @@
+name: Sync Coupang products
+
+on:
+  schedule:
+    - cron: '30 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install --no-save playwright
+      - run: npx playwright install --with-deps chromium
+      - run: node .github/scripts/sync-coupang-products.mjs
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Sync product metadata and images"
+          file_pattern: "data/products.json images/products"

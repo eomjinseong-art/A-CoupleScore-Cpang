@@ -52,6 +52,13 @@ function syncProducts() {
   target.getRange(1, 1, output.length, REQUIRED_HEADERS.length).setValues(output);
   target.setFrozenRows(1);
   target.autoResizeColumns(1, REQUIRED_HEADERS.length);
+  const statusColors = output.slice(1).map(row => {
+    const color = row[5] === '정상' ? '#DCFCE7' : row[5] === '이미지 URL 없음' ? '#FEF3C7' : '#FEE2E2';
+    return Array(REQUIRED_HEADERS.length).fill(color);
+  });
+  if (statusColors.length) {
+    target.getRange(2, 1, statusColors.length, REQUIRED_HEADERS.length).setBackgrounds(statusColors);
+  }
   SpreadsheetApp.getActive().toast(`${output.length - 1}개 상품을 정리했습니다.`, '사이트 상품 관리');
 }
 
