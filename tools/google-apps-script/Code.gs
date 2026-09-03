@@ -1,7 +1,12 @@
 const SHEET_NAME = '광고용';
 const OUTPUT_SHEET_NAME = '사이트용상품';
 const REQUIRED_HEADERS = ['NO', '쿠팡파트너스 링크', '상황 태그', '상품명', '상품 이미지 URL', '이미지 상태'];
-const FAILED_PRODUCT_IDS = new Set([88, 89, 90, 96]);
+const FAILED_PRODUCT_LINKS = new Set([
+  'https://link.coupang.com/a/gJDL6qQAM0',
+  'https://link.coupang.com/a/gJDMFt0S4q',
+  'https://link.coupang.com/a/gJDNjcQKgm',
+  'https://link.coupang.com/a/gJDRZV4j9g'
+]);
 
 function onOpen() {
   SpreadsheetApp.getUi()
@@ -37,10 +42,9 @@ function syncProducts() {
     seen.add(link);
 
     const imageUrl = (row[imageIndex] || '').trim();
-    const productId = Number(row[0]);
-    const imageStatus = FAILED_PRODUCT_IDS.has(productId)
+    const imageStatus = FAILED_PRODUCT_LINKS.has(link)
       ? '상품 추출 실패 - 링크 교체 필요'
-      : checkImage(imageUrl);
+      : imageUrl ? checkImage(imageUrl) : '재검사 대기';
     output.push([
       row[0].trim(),
       link,
@@ -58,7 +62,7 @@ function syncProducts() {
   target.setFrozenRows(1);
   target.autoResizeColumns(1, REQUIRED_HEADERS.length);
   const statusColors = output.slice(1).map(row => {
-    const color = row[5] === '정상' ? '#DCFCE7' : row[5] === '이미지 URL 없음' ? '#FEF3C7' : '#FEE2E2';
+    const color = row[5] === '정상' ? '#DCFCE7' : row[5] === '재검사 대기' ? '#FEF3C7' : row[5] === '이미지 URL 없음' ? '#FEF3C7' : '#FEE2E2';
     return Array(REQUIRED_HEADERS.length).fill(color);
   });
   if (statusColors.length) {
