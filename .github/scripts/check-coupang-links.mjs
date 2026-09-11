@@ -5,7 +5,7 @@ const csv = await (await fetch(sheetUrl)).text();
 const rows = parseCsv(csv);
 const headers = rows[0].map(header => header.trim().toLowerCase());
 const linkIndex = headers.indexOf('쿠팡 파트너스 링크');
-const titleIndex = headers.indexOf('상품명') >= 0 ? headers.indexOf('상품명') : headers.indexOf('실제 상품명');
+const titleIndex = headers.indexOf('상품명') >= 0 ? headers.indexOf('상품명') : headers.indexOf('쿠팡 상품명');
 const links = new Map();
 
 for (const row of rows.slice(1)) {
@@ -17,11 +17,14 @@ const failures = [];
 for (const [link, title] of links) {
   try {
     const response = await fetch(link, {
-      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; CoupangLinkMonitor/1.0)' },
-      redirect: 'follow',
+      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' },
+      redirect: 'manual',
       signal: AbortSignal.timeout(15000)
     });
-    if (response.status >= 400) {
+    const location = response.headers.get('location') || '';
+    const ok = response.status < 400
+      || (response.status >= 300 && response.status < 400 && /coupang\.com/i.test(location));
+    if (!ok) {
       failures.push(`${response.status} | ${title} | ${link}`);
     }
   } catch (error) {
@@ -30,7 +33,7 @@ for (const [link, title] of links) {
 }
 
 if (failures.length) {
-  const report = `문제 링크 ${failures.length}개 / 중복 제거 후 검사 ${links.size}개\n${failures.join('\n')}`;
+  const report = `깨진 링크 ${failures.length}개 / 중복 제거 후 검사 ${links.size}개\n${failures.join('\n')}`;
   process.stdout.write(report);
   await writeOutput('report', report);
   process.exitCode = 1;
