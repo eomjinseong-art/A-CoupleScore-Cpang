@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://a-couple-score-cpang.vercel.app/sitemap.xml
