@@ -74,6 +74,7 @@
       </a>
     </h1>
     <div class="flex items-center gap-2.5 text-sm">
+      <span id="visitCount" hidden class="text-[11px] text-slate-400 tabular-nums leading-none"></span>
       <a href="https://www.youtube.com/@SpillEnglish-j9b" target="_blank" class="text-red-500 hover:opacity-80" title="유튜브"><i class="fa-brands fa-youtube text-lg"></i></a>
       <a href="https://couplescore-auto.blogspot.com/" target="_blank" class="text-orange-500 hover:opacity-80" title="블로그"><i class="fa-solid fa-blog text-lg"></i></a>
       <a href="https://couple-score.vercel.app/" target="_blank" class="bg-orange-500 text-white text-[11px] px-2.5 py-1 rounded-full font-bold shadow-sm hover:bg-orange-600">커플관계진단</a>
@@ -363,6 +364,24 @@
     }
 
     loadData();
+
+    (function () {
+      const el = document.getElementById('visitCount');
+      const now = new Date();
+      const today = [now.getFullYear(), now.getMonth() + 1, now.getDate()].join('-');
+      const storageKey = 'abacusVisitDate';
+      let alreadyHit = false;
+      try { alreadyHit = localStorage.getItem(storageKey) === today; } catch (e) {}
+      fetch('https://abacus.jasoncameron.dev/' + (alreadyHit ? 'get' : 'hit') + '/a-couple-score-cpang/visits')
+        .then(function (res) { if (!res.ok) throw new Error(); return res.json(); })
+        .then(function (data) {
+          if (typeof data.value !== 'number') throw new Error();
+          if (!alreadyHit) { try { localStorage.setItem(storageKey, today); } catch (e) {} }
+          el.textContent = '👁 ' + data.value;
+          el.hidden = false;
+        })
+        .catch(function () {});
+    })();
   </script>
 </body>
 </html>
